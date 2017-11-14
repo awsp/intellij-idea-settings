@@ -1,0 +1,24 @@
+<templateSet group="Objective J">
+  <template name="CPLabel" value="[CPLabel $SELECTION$];" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="CPWindow" value="[CPWindow $one$]$two$;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="one" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="two" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="CPDecimalAdd" value="CPDecimalAdd ($result$, $leftOperand$, $rightOperand$, $roundingMode$, $longMode$)" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="result" expression="" defaultValue="result" alwaysStopAt="true" />
+    <variable name="leftOperand" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="rightOperand" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="roundingMode" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="longMode" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

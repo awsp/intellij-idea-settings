@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="line" value="// ------------------------------------------------------------------------" description="Comment Line" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,8 @@
+<templateSet group="MeteorJS">
+  <template name="co" value="$CURSOR$.observeChanges({&#10;  added: function (id, fields) {&#10;    $FUNC1$&#10;  },&#10;  &#10;  changed: function (id, fields) {&#10;    $FUNC2$&#10;  },&#10;  &#10;  removed: function (id, fields) {&#10;    $FUNC3$&#10;  }&#10;});" description="Meteor Colleciton Cursor Observations" toReformat="false" toShortenFQNames="true">
+    <variable name="CURSOR" expression="" defaultValue="cursor" alwaysStopAt="true" />
+    <variable name="FUNC1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FUNC2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FUNC3" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

@@ -1,0 +1,45 @@
+<templateSet group="General">
+  <template name="h" value="-" description="hyphen" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="e" value="=&quot;$DATA$&quot;" description="=&quot;&quot;" toReformat="false" toShortenFQNames="true">
+    <variable name="DATA" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ff" value="function $NAME$($PARAMS$) {&#10;    $CODE$  &#10;}$ENDING$" description="function" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ENDING" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="r" value="return $CODE$;" description="Return statement" toReformat="false" toShortenFQNames="true">
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="lorem" value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex dolor, viverra eget gravida eget, pulvinar in purus. In arcu risus, lacinia vitae orci eu, pulvinar aliquet lectus. Nam ac ipsum mollis, accumsan ante in, tempus sapien. Vestibulum porttitor feugiat porttitor. Sed at cursus augue. Nunc nunc orci, porttitor id tortor et, interdum sollicitudin purus. Cras nec diam ac odio tempor ullamcorper facilisis fermentum eros." description="Lorem Placeholder Text" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="ab" value="[$Code$]" description="Brackets" toReformat="false" toShortenFQNames="true">
+    <variable name="Code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bb" value="{ $DATA$ }" description="Braces" toReformat="false" toShortenFQNames="true">
+    <variable name="DATA" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

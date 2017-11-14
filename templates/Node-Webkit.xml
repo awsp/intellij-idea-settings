@@ -1,0 +1,4 @@
+<templateSet group="Node-Webkit">
+  <template name="dev" value="require('nw.gui').Window.get().showDevTools();" description="Node Webkit Dev Tools" toReformat="false" toShortenFQNames="true" />
+  <template name="nwcontext" value="try {&#10;  if (__dirname) {&#10;    console.log(&quot;Using node context&quot;);&#10;  }&#10;}&#10;catch (err) {&#10;  console.log(&quot;Using web context&quot;);&#10;}" description="Detect which context is used." toReformat="false" toShortenFQNames="true" />
+</templateSet>

@@ -1,0 +1,9 @@
+<templateSet group="TypeScript">
+  <template name="tref" value="///&lt;reference path=&quot;$PATH$&quot; /&gt;" description="TypeScript Reference" toReformat="false" toShortenFQNames="true">
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="f" value="($PARAMS$) =&gt; {&#10;  $CODE$&#10;}" description="Funciton Wrapper" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

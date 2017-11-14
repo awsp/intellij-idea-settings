@@ -1,0 +1,8 @@
+<templateSet group="html/xml">
+  <template name="ssi" value="&lt;!--#include virtual=&quot;$PATH$&quot; --&gt;" description="Server side include" toReformat="false" toShortenFQNames="true">
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

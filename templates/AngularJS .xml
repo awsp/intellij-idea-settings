@@ -1,0 +1,13 @@
+<templateSet group="AngularJS ">
+  <template name="ngcf" value="$MODULE$.controller('$CONTROLLER$', ['$DI$', function($DI$) {&#10;&#10;  'use strict';&#10;  &#10;  $CODE$&#10;&#10;}]);" description="Angular Controller" toReformat="false" toShortenFQNames="true">
+    <variable name="MODULE" expression="" defaultValue="app" alwaysStopAt="true" />
+    <variable name="CONTROLLER" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DI" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="ng" value="ng-" description="ng*" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
