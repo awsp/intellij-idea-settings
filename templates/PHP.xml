@@ -8,11 +8,6 @@
   <template name="dd" value="echo '&lt;pre&gt;'; var_dump($DATA$); echo '&lt;/pre&gt;';" description="Nice Dump" toReformat="false" toShortenFQNames="true">
     <variable name="DATA" expression="" defaultValue="" alwaysStopAt="true" />
   </template>
-  <template name="e" value=" =&gt; " description="=&gt;" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
   <template name="obd" value="ob_start();&#10;var_dump($CODE$);&#10;$d = ob_get_contents();&#10;ob_end_clean();&#10;// error_log(date('Y-m-d H:i:s').' '.$d, 3, dirname(__FILE__).'/debug.txt');&#10;Log::info($d);" description="Ob dump" toReformat="false" toShortenFQNames="true">
     <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
   </template>
