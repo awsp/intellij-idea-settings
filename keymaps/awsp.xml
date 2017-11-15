@@ -336,7 +336,9 @@
   </action>
   <action id="Uml.ShowDiff" />
   <action id="UnselectPreviousOccurrence" />
-  <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
   <action id="XPathView.Actions.Evaluate" />
