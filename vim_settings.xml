@@ -91,6 +91,12 @@
         <mark key="^" line="12" column="65" />
         <mark key="." line="12" column="65" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/config/SourceDbConfig.java" timestamp="1510862656909">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+        <mark key="^" line="20" column="7" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/logic/ModifyColExact.java" timestamp="1506736922977">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="10" />
@@ -391,6 +397,12 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="4" column="17" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/config/ApplicationConfig.java" timestamp="1510862185422">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/annotation/NotInfantNullToZero.java" timestamp="1506461441951">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -523,11 +535,10 @@
         <mark key="^" line="158" column="8" />
         <mark key="." line="163" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReportCLIRunner.java" timestamp="1510860331783">
-        <mark key="[" line="19" column="39" />
-        <mark key="]" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-        <mark key="^" line="20" column="3" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReportCLIRunner.java" timestamp="1510861184171">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/unit_tests/TogoDataProcessorTest.java" timestamp="1507773019489">
         <mark key="[" line="80" column="40" />
@@ -780,11 +791,11 @@
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/resources/application.yml" timestamp="1510798895198">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="15" column="13" />
-        <mark key="^" line="15" column="13" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/resources/application.yml" timestamp="1510862738172">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="67" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="11" column="66" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmpayroll/src/main/resources/application.properties" timestamp="1509994428078">
         <mark key="[" line="0" column="0" />
@@ -852,7 +863,7 @@
         <mark key="^" line="25" column="25" />
         <mark key="." line="25" column="25" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReport.java" timestamp="1510799654452">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReport.java" timestamp="1510861356759">
         <mark key="[" line="165" column="5" />
         <mark key="]" line="94" column="10" />
         <mark key="." line="94" column="10" />
@@ -940,6 +951,12 @@
         <mark key="]" line="5" column="21" />
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/service/DataSourceService.java" timestamp="1510861962804">
+        <mark key="[" line="15" column="100" />
+        <mark key="]" line="15" column="116" />
+        <mark key="^" line="15" column="116" />
+        <mark key="." line="15" column="116" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/service/TargetDB.java" timestamp="1510794992464">
         <mark key="[" line="2" column="27" />
@@ -1085,50 +1102,47 @@
         <text encoding="base64">ICAgICAgICBjb25maWcuZ2V0KGtleSkucHV0KCJpbnB1dERpciIsIGluaS5nZXQoa2V5LCAiaW5wdXREaXIiLCBTdHJpbmcuY2xhc3MpKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRyaXZlci1jbGFzcy1uYW1lOiBjb20ubWljcm9zb2Z0LnNxbHNlcnZlci5qZGJjLlNRTFNlcnZlckRyaXZlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>com.jtbhawaii.tptvmssubsystem.TPTVMSSubsystemApplication</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>properties</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJTUUxFeGNlcHRpb24uICIsIHNxbGUpOwo=</text>
+        <text encoding="base64">ICAgIGRyaXZlci1jbGFzcy1uYW1lOiBjb20ubWljcm9zb2Z0LnNxbHNlcnZlci5qZGJjLlNRTFNlcnZlckRyaXZlcgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>(
+        entityManagerFactoryRef = &quot;entityManagerFactory&quot;,
+        ba
+)</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5ha2F0aGlzdC5tYXZlbi5wbHVnaW5zLmxhdW5jaDRqPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bGF1bmNoNGotbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPGV4ZWN1dGlvbnM+CiAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlkPmw0ai1jbHVpPC9pZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHBoYXNlPnBhY2thZ2U8L3BoYXNlPgogICAgICAgICAgICAgICAgICAgICAgICA8Z29hbHM+PGdvYWw+bGF1bmNoNGo8L2dvYWw+PC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aGVhZGVyVHlwZT5jb25zb2xlPC9oZWFkZXJUeXBlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG91dGZpbGU+dGFyZ2V0L2VuY2MuZXhlPC9vdXRmaWxlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGphcj50YXJnZXQvdHB0LXZtcy1zdWJzeXN0ZW0tMC4wLjEtU05BUFNIT1QuamFyPC9qYXI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXJyVGl0bGU+ZW5jYzwvZXJyVGl0bGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Y2xhc3NQYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtYWluQ2xhc3M+Y29tLmp0Ymhhd2FpaS50cHR2bXNzdWJzeXN0ZW0uVFBUVk1TU3Vic3lzdGVtQXBwbGljYXRpb248L21haW5DbGFzcz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YWRkRGVwZW5kZW5jaWVzPmZhbHNlPC9hZGREZXBlbmRlbmNpZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHByZUNwPmFueXRoaW5nPC9wcmVDcD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvY2xhc3NQYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGpyZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWluVmVyc2lvbj4xLjguMDwvbWluVmVyc2lvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0cz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdD4tRHNwcmluZy5wcm9maWxlcy5hY3RpdmU9Y2xpX3J1bm5lcjwvb3B0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvb3B0cz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvanJlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb25JbmZvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmaWxlVmVyc2lvbj4xLjIuMy40PC9maWxlVmVyc2lvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHh0RmlsZVZlcnNpb24+dHh0IGZpbGUgdmVyc2lvbj88L3R4dEZpbGVWZXJzaW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmaWxlRGVzY3JpcHRpb24+YSBkZXNjcmlwdGlvbjwvZmlsZURlc2NyaXB0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxjb3B5cmlnaHQ+bXkgY29weXJpZ2h0PC9jb3B5cmlnaHQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHByb2R1Y3RWZXJzaW9uPjQuMy4yLjE8L3Byb2R1Y3RWZXJzaW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0eHRQcm9kdWN0VmVyc2lvbj50eHQgcHJvZHVjdCB2ZXJzaW9uPC90eHRQcm9kdWN0VmVyc2lvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cHJvZHVjdE5hbWU+RS1OLUMtQzwvcHJvZHVjdE5hbWU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGludGVybmFsTmFtZT5jY25lPC9pbnRlcm5hbE5hbWU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9yaWdpbmFsRmlsZW5hbWU+b3JpZ2luYWwuZXhlPC9vcmlnaW5hbEZpbGVuYW1lPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC92ZXJzaW9uSW5mbz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICA8L3BsdWdpbj4=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRpcnZlci1jbGFzcy1uYW1lOiBjb20ubWkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRyaXZlck5hbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm1zUmVwb3J0LmRhaWx5UmVwb3J0KCk7Cg==</text>
+        <text encoding="base64">c29ydWNlOgogIHVybDogamRiYzpzcWxzZXJ2ZXI6Ly8xMC4yMC4xMDcuMTE4OjIxNDMzO2RhdGFiYXNlTmFtZT1WTVM7dXNlcj1zYTtwYXNzd29yZD1DTVRlc3QyMDE2Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2bXNSZXBvcnQuZGFpbHlSZXBvcnQoKTsK</text>
+        <text encoding="base64">ZGF0YXNvdXJjZXM6Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>finally {
-            try {
-                source.getConn().close();
-                target.getConn().close();
-            } catch (SQLException e) {
-                logger.error(&quot;Cannot close database. &quot;, e);
-            }
-        }</text>
+      <register name="6" type="2">
+        <text encoding="base64">dm1zOgogIGRhdGFiYXNlOgogICAgc291cmNlOiAvLzEwLjIwLjEwNy4xMTg6MjE0MzM7ZGF0YWJhc2VOYW1lPVZNUzt1c2VyPXNhO3Bhc3N3b3JkPUNNVGVzdDIwMTYKICAgIHRhcmdldDogLi92bXMuZGIKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkYXRhc291cmNlc2UK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+      <register name="8" type="4">
+        <text>:
+    initialize: fal</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc291cmNlLmdldENvbm4oKS5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgIGRhdGFiYXNlLXBsYXRmb3JtOiBjb20uanRiaGF3YWlpLnRwdHZtc3N1YnN5c3RlbS5TUUxpdGVEaWFsZWN0CiAgICBoaWJlcm5hdGU6CiAgICAgIGRkbC1hdXRvOiBub25lCiAgICBzaG93LXNxbDogdHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
