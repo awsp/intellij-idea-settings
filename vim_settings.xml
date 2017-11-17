@@ -534,10 +534,10 @@
         <mark key="^" line="158" column="8" />
         <mark key="." line="163" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReportCLIRunner.java" timestamp="1510888081822">
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReportCLIRunner.java" timestamp="1510949152618">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/unit_tests/TogoDataProcessorTest.java" timestamp="1507773019489">
         <mark key="[" line="80" column="40" />
@@ -862,11 +862,11 @@
         <mark key="^" line="25" column="25" />
         <mark key="." line="25" column="25" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReport.java" timestamp="1510948291601">
-        <mark key="[" line="93" column="32" />
-        <mark key="]" line="93" column="57" />
-        <mark key="^" line="93" column="57" />
-        <mark key="." line="93" column="57" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReport.java" timestamp="1510949099610">
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="^" line="89" column="57" />
+        <mark key="." line="185" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/experiment/ParentChildren.java" timestamp="1508524484372">
         <mark key="[" line="2" column="13" />
@@ -1101,8 +1101,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBjb25maWcuZ2V0KGtleSkucHV0KCJpbnB1dERpciIsIGluaS5nZXQoa2V5LCAiaW5wdXREaXIiLCBTdHJpbmcuY2xhc3MpKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>row</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlNRTEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="-" type="4">
         <text>row</text>
@@ -1114,31 +1114,31 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEBRdWFsaWZpZXIoInNyY0pkYmNUZW1wbGF0ZSIpCiAgICBwcml2YXRlIEpkYmNUZW1wbGF0ZSBzcmNKZGJjVGVtcGxhdGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdG1wU3FsID0gIiI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlNRTEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgIH0KICAgICAgICBjYXRjaCAoU1FMRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJDYW5ub3QgY2xvc2UgZGF0YWJhc2UuICIsIGUpOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHByZXBhcmVkU3RhdGVtZW50LnNldFN0cmluZyhpLCByb3cuZ2V0KGkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm1zUmVwb3J0LmRhaWx5UmVwb3J0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdFNldC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0YXJnZXRKZGJjVGVtcGxhdGUucXVlcnlGb3JPYmplY3Qoc3FsLCBuZXcgT2JqZWN0W10geyB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm1zUmVwb3J0LmdldFNvdXJjZSgpLmdldENvbm4oKS5jbG9zZSgpOwogICAgICAgICAgICB2bXNSZXBvcnQuZ2V0VGFyZ2V0KCkuZ2V0Q29ubigpLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdGF0ZW1lbnQgc3RtdCA9IHRhcmdldC5nZXRDb25uKCkuY3JlYXRlU3RhdGVtZW50KCk7CiAgICAgICAgUmVzdWx0U2V0IHJzID0gc3RtdC5leGVjdXRlUXVlcnkoc3FsKTsKICAgICAgICByZXR1cm4gcnMubmV4dCgpICYmIHJzLmdldEludCgiY291bnRpbmciKSA+IDA7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEludGVnZXIucGFyc2VJbnQoY291bnQuZ2V0KCJjb3VudGluZyIpLnRvU3RyaW5nKCkpID4gMDsgCg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgU291cmNlRGF0YVNvdXJjZSBnZXRTb3VyY2UoKSB7CiAgICAgICAgcmV0dXJuIHNvdXJjZTsKICAgIH0KCiAgICBwdWJsaWMgVGFyZ2V0RGF0YVNvdXJjZSBnZXRUYXJnZXQoKSB7CiAgICAgICAgcmV0dXJuIHRhcmdldDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvdW50LmdldCgiY291bnRpbmciKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvdW50LmdldCgiY291bnRpbmciKSA+IDA7IAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU291cmNlRGF0YVNvdXJjZSBzb3VyY2U7CiAgICBwcml2YXRlIFRhcmdldERhdGFTb3VyY2UgdGFyZ2V0OwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
