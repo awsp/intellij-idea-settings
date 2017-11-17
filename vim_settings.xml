@@ -17,7 +17,7 @@
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/springboot-javafx-tutorial/src/main/java/com/mvp/java/CMPayrollApplication.java" timestamp="1510264900597">
         <mark key="[" line="24" column="81" />
       </file>
-      <file name="/a.dummy" timestamp="1510796015452">
+      <file name="/a.dummy" timestamp="1510950821648">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/model/B/BookingOptionTourTest.java" timestamp="1508545136521">
@@ -138,6 +138,12 @@
         <mark key="]" line="62" column="43" />
         <mark key="^" line="62" column="43" />
         <mark key="." line="62" column="43" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/SourceDBFieldRepo.java" timestamp="1510953893706">
+        <mark key="[" line="34" column="27" />
+        <mark key="]" line="34" column="27" />
+        <mark key="^" line="34" column="27" />
+        <mark key="." line="34" column="27" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs/src/main/java/com/jtbhawaii/misdocs/ui/AppUI.java" timestamp="1508440815291">
         <mark key="[" line="51" column="48" />
@@ -305,6 +311,12 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/DefinedFieldRepo.java" timestamp="1510950806599">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/hr_payroll/src/main/java/App.java" timestamp="1507940088964">
         <mark key="[" line="30" column="78" />
         <mark key="]" line="30" column="107" />
@@ -368,6 +380,12 @@
         <mark key="]" line="24" column="42" />
         <mark key="." line="24" column="42" />
         <mark key="^" line="24" column="42" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/DefinedFields.java" timestamp="1510953400867">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="24" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/springboot-javafx-tutorial/pom.xml" timestamp="1510257888474">
         <mark key="[" line="16" column="21" />
@@ -522,6 +540,12 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/TargetDBFieldRepo.java" timestamp="1510954270050">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/log4jfd.properties" timestamp="1509398509017">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="24" column="31" />
@@ -628,6 +652,12 @@
         <mark key="]" line="53" column="84" />
         <mark key="." line="53" column="84" />
         <mark key="^" line="44" column="3" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/TargetFields.java" timestamp="1510950786532">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="4" column="17" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/annotation/ObmitInStar.java" timestamp="1506461059364">
         <mark key="[" line="6" column="26" />
@@ -862,11 +892,12 @@
         <mark key="^" line="25" column="25" />
         <mark key="." line="25" column="25" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReport.java" timestamp="1510949099610">
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="^" line="89" column="57" />
-        <mark key="." line="185" column="0" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReport.java" timestamp="1510954249215">
+        <mark key="'" line="81" column="21" />
+        <mark key="[" line="86" column="72" />
+        <mark key="]" line="86" column="57" />
+        <mark key="^" line="86" column="57" />
+        <mark key="." line="86" column="57" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/experiment/ParentChildren.java" timestamp="1508524484372">
         <mark key="[" line="2" column="13" />
@@ -982,7 +1013,13 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1510943277019">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/TargetFieldRepo.java" timestamp="1510950756692">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+      </file>
+      <file name="/fragment.java" timestamp="1510954254139">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -996,9 +1033,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/StarDataProcessor.java" />
-      <jump line="30" column="13" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileDistributor.java" />
-      <jump line="18" column="13" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/OperationLoggingService.java" />
       <jump line="32" column="13" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/StarDataProcessor.java" />
       <jump line="147" column="28" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/StarDataProcessor.java" />
       <jump line="217" column="41" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/StarDataProcessor.java" />
@@ -1096,49 +1130,75 @@
       <jump line="140" column="71" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/pom.xml" />
       <jump line="125" column="33" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/pom.xml" />
       <jump line="51" column="20" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/pom.xml" />
+      <jump line="97" column="12" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReport.java" />
+      <jump line="19" column="32" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReport.java" />
+      <jump line="81" column="21" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReport.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBjb25maWcuZ2V0KGtleSkucHV0KCJpbnB1dERpciIsIGluaS5nZXQoa2V5LCAiaW5wdXREaXIiLCBTdHJpbmcuY2xhc3MpKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlNRTEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNuYXBzaG90X2RhdGUiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>row</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>properties</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEBRdWFsaWZpZXIoInNyY0pkYmNUZW1wbGF0ZSIpCiAgICBwcml2YXRlIEpkYmNUZW1wbGF0ZSBzcmNKZGJjVGVtcGxhdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNuYXBzaG90X2RhdGVdIiwKICAgICAgICAgICAgIlBhcnRTZXJpYWxOb10iLAogICAgICAgICAgICAiUGFydE5vXSIsCiAgICAgICAgICAgICJQYXJ0VHlwZV0iLAogICAgICAgICAgICAiU3RvY2tJdGVtXSIsCiAgICAgICAgICAgICJVbml0XSIsCiAgICAgICAgICAgICJEZXNjcmlwdGlvbl0iLAogICAgICAgICAgICAiQmFzZUlEXSIsCiAgICAgICAgICAgICJFeHRlbmRlZERlc2NyaXB0aW9uXSIsCiAgICAgICAgICAgICJTdG9yZV0iLAogICAgICAgICAgICAiTG9jYXRpb25dIiwKICAgICAgICAgICAgIlVuaXRDb3N0XSIsCiAgICAgICAgICAgICJVbml0VmFsdWVdIiwKICAgICAgICAgICAgIlN0b2NrVmFsdWVdIiwKICAgICAgICAgICAgIkludm9pY2VNYXN0ZXJdIiwKICAgICAgICAgICAgIlF1YW50aXR5XSIsCiAgICAgICAgICAgICJEYW1hZ2VkXSIsCiAgICAgICAgICAgICJPbk9yZGVyXSIsCiAgICAgICAgICAgICJVbnByb2Nlc3NlZEluXSIsCiAgICAgICAgICAgICJVbnByb2Nlc3NlZE91dF0iLAogICAgICAgICAgICAiRnJlZV0iLAogICAgICAgICAgICAiTm90ZXNdIiwKICAgICAgICAgICAgIlN1c3BlbmRdIiwKICAgICAgICAgICAgIkRhdGVDcmVhdGVkXSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlNRTEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNuYXBzaG90X2RhdGUiLAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgIH0KICAgICAgICBjYXRjaCAoU1FMRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJDYW5ub3QgY2xvc2UgZGF0YWJhc2UuICIsIGUpOwogICAgICAgIH0K</text>
+      <register name="2" type="8">
+        <text>[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm1zUmVwb3J0LmRhaWx5UmVwb3J0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIlNFTEVDVCAiICsKICAgICAgICAgICAgICAgICJbUGFydFNlcmlhbE5vXSwgIiArCiAgICAgICAgICAgICAgICAiW1BhcnROb10sICIgKwogICAgICAgICAgICAgICAgIltQYXJ0VHlwZV0sICIgKwogICAgICAgICAgICAgICAgIltTdG9ja0l0ZW1dLCAiICsKICAgICAgICAgICAgICAgICJbVW5pdF0sICIgKwogICAgICAgICAgICAgICAgIltEZXNjcmlwdGlvbl0sICIgKwogICAgICAgICAgICAgICAgIltCYXNlSURdLCAiICsKICAgICAgICAgICAgICAgICJbRXh0ZW5kZWREZXNjcmlwdGlvbl0sICIgKwogICAgICAgICAgICAgICAgIltTdG9yZV0sICIgKwogICAgICAgICAgICAgICAgIltMb2NhdGlvbl0sICIgKwogICAgICAgICAgICAgICAgIltVbml0Q29zdF0sICIgKwogICAgICAgICAgICAgICAgIltVbml0VmFsdWVdLCAiICsKICAgICAgICAgICAgICAgICJbU3RvY2tWYWx1ZV0sICIgKwogICAgICAgICAgICAgICAgIltJbnZvaWNlTWFzdGVyXSwgIiArCiAgICAgICAgICAgICAgICAiW1F1YW50aXR5XSwgIiArCiAgICAgICAgICAgICAgICAiW0RhbWFnZWRdLCAiICsKICAgICAgICAgICAgICAgICJbT25PcmRlcl0sICIgKwogICAgICAgICAgICAgICAgIltVbnByb2Nlc3NlZEluXSwgIiArCiAgICAgICAgICAgICAgICAiW1VucHJvY2Vzc2VkT3V0XSwgIiArCiAgICAgICAgICAgICAgICAiW0ZyZWVdLCAiICsKICAgICAgICAgICAgICAgICJbTm90ZXNdLCAiICsKICAgICAgICAgICAgICAgICJbU3VzcGVuZF0sICIgKwogICAgICAgICAgICAgICAgIltEYXRlQ3JlYXRlZF0iICsKICAgICAgICAgICAgICAgICJGUk9NIGRiby52d1N0b2NrSG9sZGluZ3MgIiArCiAgICAgICAgICAgICAgICAiT1JERVIgQlkgW1BhcnROb10iOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm1zUmVwb3J0LmdldFNvdXJjZSgpLmdldENvbm4oKS5jbG9zZSgpOwogICAgICAgICAgICB2bXNSZXBvcnQuZ2V0VGFyZ2V0KCkuZ2V0Q29ubigpLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBra28K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgU291cmNlRGF0YVNvdXJjZSBnZXRTb3VyY2UoKSB7CiAgICAgICAgcmV0dXJuIHNvdXJjZTsKICAgIH0KCiAgICBwdWJsaWMgVGFyZ2V0RGF0YVNvdXJjZSBnZXRUYXJnZXQoKSB7CiAgICAgICAgcmV0dXJuIHRhcmdldDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU291cmNlRGF0YVNvdXJjZSBzb3VyY2U7CiAgICBwcml2YXRlIFRhcmdldERhdGFTb3VyY2UgdGFyZ2V0OwoK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IGZpZWxkcyA9IEFycmF5cy5hc0xpc3QoCiAgICAgICAgICAgICJQYXJ0U2VyaWFsTm8iLAogICAgICAgICAgICAiUGFydE5vIiwKICAgICAgICAgICAgIlBhcnRUeXBlIiwKICAgICAgICAgICAgIlN0b2NrSXRlbSIsCiAgICAgICAgICAgICJVbml0IiwKICAgICAgICAgICAgIkRlc2NyaXB0aW9uIiwKICAgICAgICAgICAgIkJhc2VJRCIsCiAgICAgICAgICAgICJFeHRlbmRlZERlc2NyaXB0aW9uIiwKICAgICAgICAgICAgIkJhc2VJRCIsCiAgICAgICAgICAgICJTdG9yZSIsCiAgICAgICAgICAgICJMb2NhdGlvbiIsCiAgICAgICAgICAgICJVbml0Q29zdCIsCiAgICAgICAgICAgICJVbml0VmFsdWUiLAogICAgICAgICAgICAiU3RvY2tWYWx1ZSIsCiAgICAgICAgICAgICJJbnZvaWNlTWFzdGVyIiwKICAgICAgICAgICAgIlF1YW50aXR5IiwKICAgICAgICAgICAgIkRhbWFnZWQiLAogICAgICAgICAgICAiT25PcmRlciIsCiAgICAgICAgICAgICJVbnByb2Nlc3NlZEluIiwKICAgICAgICAgICAgIlVucHJvY2Vzc2VkT3V0IiwKICAgICAgICAgICAgIkZyZWUiLAogICAgICAgICAgICAiTm90ZXMiLAogICAgICAgICAgICAiU3VzcGVuZCIsCiAgICAgICAgICAgICJEYXRlQ3JlYXRlZCIKICAgICk7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
