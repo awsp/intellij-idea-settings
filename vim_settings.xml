@@ -534,7 +534,7 @@
         <mark key="^" line="158" column="8" />
         <mark key="." line="163" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReportCLIRunner.java" timestamp="1510863532620">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReportCLIRunner.java" timestamp="1510888081822">
         <mark key="[" line="19" column="14" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -862,11 +862,11 @@
         <mark key="^" line="25" column="25" />
         <mark key="." line="25" column="25" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReport.java" timestamp="1510886844603">
-        <mark key="[" line="73" column="136" />
-        <mark key="]" line="73" column="26" />
-        <mark key="^" line="73" column="26" />
-        <mark key="." line="73" column="26" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReport.java" timestamp="1510888022122">
+        <mark key="[" line="72" column="9" />
+        <mark key="]" line="73" column="7" />
+        <mark key="^" line="73" column="7" />
+        <mark key="." line="73" column="7" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/experiment/ParentChildren.java" timestamp="1508524484372">
         <mark key="[" line="2" column="13" />
@@ -982,7 +982,7 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1510870660768">
+      <file name="/fragment.java" timestamp="1510886876775">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1102,10 +1102,10 @@
         <text encoding="base64">ICAgICAgICBjb25maWcuZ2V0KGtleSkucHV0KCJpbnB1dERpciIsIGluaS5nZXQoa2V5LCAiaW5wdXREaXIiLCBTdHJpbmcuY2xhc3MpKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdGF0ZW1lbnQK</text>
+        <text encoding="base64">ICAgICAgICBTdGF0ZW1lbnQgc3RtdCA9IHRhcmdldC5nZXRDb25uKCkuY3JlYXRlU3RhdGVtZW50KCk7CiAgICAgICAgUmVzdWx0U2V0IHJzID0gc3RtdC5leGVjdXRlUXVlcnkoc3FsKTsKICAgICAgICByZXR1cm4gcnMubmV4dCgpICYmIHJzLmdldEludCgiY291bnRpbmciKSA+IDA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>properties</text>
@@ -1114,28 +1114,28 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEBRdWFsaWZpZXIoInNyY0pkYmNUZW1wbGF0ZSIpCiAgICBwcml2YXRlIEpkYmNUZW1wbGF0ZSBzcmNKZGJjVGVtcGxhdGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdGF0ZW1lbnQK</text>
+        <text encoding="base64">ICAgICAgICBTdGF0ZW1lbnQgc3RtdCA9IHRhcmdldC5nZXRDb25uKCkuY3JlYXRlU3RhdGVtZW50KCk7CiAgICAgICAgUmVzdWx0U2V0IHJzID0gc3RtdC5leGVjdXRlUXVlcnkoc3FsKTsKICAgICAgICByZXR1cm4gcnMubmV4dCgpICYmIHJzLmdldEludCgiY291bnRpbmciKSA+IDA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEludGVnZXIucGFyc2VJbnQoY291bnQuZ2V0KCJjb3VudGluZyIpLnRvU3RyaW5nKCkpID4gMDsgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU291cmNlRGF0YVNvdXJjZSBzb3VyY2U7CiAgICBwcml2YXRlIFRhcmdldERhdGFTb3VyY2UgdGFyZ2V0OwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvdW50LmdldCgiY291bnRpbmciKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvdW50LmdldCgiY291bnRpbmciKSA+IDA7IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgQEF1dG93aXJlZAovLyAgICBwdWJsaWMgVk1TUmVwb3J0KFNvdXJjZURhdGFTb3VyY2Ugc291cmNlLCBUYXJnZXREYXRhU291cmNlIHRhcmdldCkgewovLyAgICAgICAgdGhpcy5zb3VyY2UgPSBzb3VyY2U7Ci8vICAgICAgICB0aGlzLnRhcmdldCA9IHRhcmdldDsKLy8gICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuZ2V0KDApLmNvbnRhaW5zS2V5KCJjb3VudGluZyIpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU291cmNlRGF0YVNvdXJjZSBzb3VyY2U7CiAgICBwcml2YXRlIFRhcmdldERhdGFTb3VyY2UgdGFyZ2V0Owo=</text>
+        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0CiAgICBwdWJsaWMgdm9pZCBoZXJlKCkgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaGVyZSIpOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdGF0ZW1lbnQK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
