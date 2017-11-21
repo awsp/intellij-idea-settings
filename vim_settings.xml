@@ -9,7 +9,7 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1511224255105">
+      <file name="/a.dummy" timestamp="1511296926782">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/model/B/BookingOptionTourTest.java" timestamp="1508545136521">
@@ -71,6 +71,12 @@
         <mark key="]" line="23" column="15" />
         <mark key="^" line="23" column="15" />
         <mark key="." line="23" column="15" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmvadn_payroll/src/main/java/com/jtbhawaii/cmpayroll/service/PayrollCalculationService.java" timestamp="1511297003752">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/springcli/src/main/java/com/jtbhawaii/springcli/FileDistributor.java" timestamp="1509047737214">
         <mark key="[" line="9" column="44" />
@@ -768,6 +774,12 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="25" column="37" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmvadn_payroll/src/main/java/com/jtbhawaii/cmpayroll/service/PayrollCalculationServiceImpl.java" timestamp="1511297111094">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmpayroll/src/main/java/com/jtbhawaii/cmpayroll/ui/view/LoginView.java" timestamp="1510007230314">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="15" />
@@ -1048,11 +1060,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmvadn_payroll/src/main/java/com/jtbhawaii/cmpayroll/ui/view/WeeklyDriverReport.java" timestamp="1511295094574">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="57" column="32" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmvadn_payroll/src/main/java/com/jtbhawaii/cmpayroll/ui/view/WeeklyDriverReport.java" timestamp="1511297304789">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="14" column="44" />
+        <mark key="^" line="14" column="44" />
+        <mark key="." line="14" column="44" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/vmsreportrunner/VMSReportRunner.java" timestamp="1510790833255">
         <mark key="[" line="1" column="0" />
@@ -1090,11 +1102,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmvadn_payroll/src/main/java/com/jtbhawaii/cmpayroll/service/PayrollProductionCalculationService.java" timestamp="1511232607155">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="3" />
-        <mark key="^" line="19" column="3" />
-        <mark key="." line="19" column="3" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmvadn_payroll/src/main/java/com/jtbhawaii/cmpayroll/service/PayrollProductionCalculationService.java" timestamp="1511296924562">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="15" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmfx-payroll/src/main/resources/fxml/tabs/total_hours_pane.fxml" timestamp="1511209714576">
         <mark key="[" line="9" column="83" />
@@ -1239,11 +1251,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>BasesRepository basesRepository</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>BasesRepository basesRepository</text>
       </register>
       <register name="/" type="4">
         <text>fork</text>
@@ -1252,32 +1264,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcGF5cm9sbENhbGN1bGF0aW9uLnNldFBheXJvbGxEZXRhaWxTdGFydERhdGVUaW1lKHJlc3VsdFNldC5nZXRUaW1lc3RhbXAoIlBheXJvbGxQcm9kdWN0aW9uRGV0YWlsU3RhcnREYXRlVGltZSIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQmFzZXNSZXBvc2l0b3J5IGJhc2VzUmVwb3NpdG9yeTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmJhc2VzUmVwb3NpdG9yeSA9IGJhc2VzUmVwb3NpdG9yeTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgUGF5cm9sbFByb2R1Y3Rpb25DYWxjdWxhdGlvbiBqZGJjUGF5cm9sbFByb2R1Y3Rpb25DYWxjdWxhdGlvbjs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5qdGJoYXdhaWkuY21wYXlyb2xsLm1vZGVsLlBheXJvbGxDYWxjdWxhdGlvbjsKaW1wb3J0IGNvbS5qdGJoYXdhaWkuY21wYXlyb2xsLnJlcG9zaXRvcnkuUGF5cm9sbFByb2R1Y3Rpb25DYWxjdWxhdGlvblJlcG87CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLmZhY3RvcnkuYW5ub3RhdGlvbi5BdXRvd2lyZWQ7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>@RunWith(SpringRunner.class)
-@SpringBootTest</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uKGNsYXNzZXMgPSB7UGF5cm9sbFV0aWxzLmNsYXNzfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjYWwuCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBQYXlyb2xsQ2FsY3VsYXRpb25TZXJ2aWNlKFBheXJvbGxQcm9kdWN0aW9uQ2FsY3VsYXRpb25SZXBvIHBwYykgewogICAgICAgIHRoaXMucHBjID0gcHBjOwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
