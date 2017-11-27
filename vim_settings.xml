@@ -868,12 +868,12 @@
         <mark key="^" line="17" column="40" />
         <mark key="." line="17" column="40" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/ui/AppUI.java" timestamp="1511816010220">
-        <mark key="'" line="31" column="7" />
-        <mark key="[" line="21" column="39" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="27" column="91" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/ui/AppUI.java" timestamp="1511817766758">
+        <mark key="'" line="32" column="7" />
+        <mark key="[" line="27" column="43" />
+        <mark key="]" line="27" column="44" />
+        <mark key="^" line="27" column="44" />
+        <mark key="." line="27" column="44" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/StarDataProcessor.java" timestamp="1510606398624">
         <mark key="[" line="208" column="40" />
@@ -1229,8 +1229,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRUaQo=</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -1242,31 +1242,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBCdXR0b24oIkhWaWV3IiwgZSAtPiBnZXROYXZpZ2F0b3IoKS5uYXZpZ2F0ZVRvKFN0b2NrSGlzdG9yaWNhbFJlcG9ydFZpZXcuVklFV19OQU1FKSksCiAgICAgICAgICAgICAgICBuZXcgQnV0dG9uKCJTZWNvbmRWaWV3IiwgZSAtPiBnZXROYXZpZ2F0b3IoKS5uYXZpZ2F0ZVRvKFNlY29uZFZpZXcuVklFV19OQU1FKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBIb3Jpem9udGFsTGF5b3V0IAo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRUaQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLlNjb3BlOwo=</text>
+        <text encoding="base64">ICAgICAgICBIb3Jpem9udGFsTGF5b3V0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uc3ByaW5nLmFubm90YXRpb24uVUlTY29wZTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLlNjb3BlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uc3ByaW5nLmFubm90YXRpb24uVUlTY29wZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRDb21wb25lbnQobmV3IExhYmVsKCJIVmlldyIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFNwcmluZ1ZpZXcK</text>
+        <text encoding="base64">ICAgICAgICBhZGRDb21wb25lbnQobmV3IExhYmVsKCJIVmlldyIpKTsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">QFNwcmluZ1ZpZXcK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Ly8gICAgICAgIFZlcnRpY2FsTGF5b3V0IHJvb3QgPSBuZXcgVmVydGljYWxMYXlvdXQoKTsKLy8gICAgICAgIEhvcml6b250YWxMYXlvdXQgbWVudSA9IG5ldyBIb3Jpem9udGFsTGF5b3V0KCk7Ci8vCi8vICAgICAgICByb290LmFkZENvbXBvbmVudChuZXcgTGFiZWwoIlZNUyIpKTsKLy8gICAgICAgIHJvb3QuYWRkQ29tcG9uZW50KG1lbnUpOwovLyAgICAgICAgbWVudS5hZGRDb21wb25lbnRzKAovLyAgICAgICAgICAgICAgICBuZXcgQnV0dG9uKCJIVmlldyIsIGUgLT4gZ2V0TmF2aWdhdG9yKCkubmF2aWdhdGVUbyhTdG9ja0hpc3RvcmljYWxSZXBvcnRWaWV3LlZJRVdfTkFNRSkpLAovLyAgICAgICAgICAgICAgICBuZXcgQnV0dG9uKCJTZWNvbmRWaWV3IiwgZSAtPiBnZXROYXZpZ2F0b3IoKS5uYXZpZ2F0ZVRvKFNlY29uZFZpZXcuVklFV19OQU1FKSkKLy8gICAgICAgICk7Ci8vCi8vICAgICAgICByb290LmFkZENvbXBvbmVudHNBbmRFeHBhbmQobWFpbkNvbnRlbnQpOwovLwovLyAgICAgICAgc2V0Q29udGVudChyb290KTs=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
