@@ -9,7 +9,7 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1511906039599">
+      <file name="/a.dummy" timestamp="1511908257978">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/model/B/BookingOptionTourTest.java" timestamp="1508545136521">
@@ -119,11 +119,11 @@
         <mark key="." line="28" column="66" />
         <mark key="^" line="28" column="66" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/model/StockHoldingReport.java" timestamp="1511906914197">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/model/StockHoldingReport.java" timestamp="1511908256811">
         <mark key="[" line="19" column="30" />
-        <mark key="]" line="18" column="10" />
-        <mark key="^" line="18" column="10" />
-        <mark key="." line="18" column="10" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/model/S/BookingOptionTourClientTest.java" timestamp="1508545117242">
         <mark key="[" line="31" column="24" />
@@ -323,10 +323,11 @@
         <mark key="." line="29" column="70" />
         <mark key="^" line="29" column="70" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/ui/StockHistoricalReportView.java" timestamp="1511906488895">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/ui/StockHistoricalReportView.java" timestamp="1511908523920">
+        <mark key="[" line="60" column="32" />
+        <mark key="]" line="60" column="38" />
+        <mark key="." line="60" column="38" />
+        <mark key="^" line="60" column="38" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/hr_payroll/src/main/java/com/jtb/hr/DSLConnection.java" timestamp="1507947969452">
         <mark key="[" line="5" column="0" />
@@ -597,11 +598,11 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/service/JdbcDailyStockHoldingsService.java" timestamp="1511906493900">
-        <mark key="[" line="26" column="80" />
-        <mark key="]" line="18" column="40" />
-        <mark key="^" line="18" column="40" />
-        <mark key="." line="18" column="40" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/service/JdbcDailyStockHoldingsService.java" timestamp="1511908422657">
+        <mark key="[" line="28" column="61" />
+        <mark key="]" line="29" column="7" />
+        <mark key="." line="29" column="7" />
+        <mark key="^" line="29" column="7" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/annotation/DateString.java" timestamp="1506460092129">
         <mark key="[" line="1" column="0" />
@@ -1263,11 +1264,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW52YXRlIAo=</text>
+      <register name="&quot;" type="4">
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>jpa</text>
@@ -1276,32 +1277,31 @@
         <text encoding="base64">ICAgICAgICBiaW5kZXIuYmluZChyZXBvcnRGcm9tLCBTdG9ja0hvbGRpbmdGb3JtOjpnZXRSZXBvcnRGcm9tLCBTdG9ja0hvbGRpbmdGb3JtOjpzZXRSZXBvcnRGcm9tKTsgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW52YXRlIAo=</text>
+        <text encoding="base64">ICAgICAgICBncmlkLmFkZENvbHVtbigiUGFydE5vIik7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>@Entity
-@Table(name = &quot;daily_stock_holdings&quot;)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBncmlkYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBncmlkLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBncmlkLnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBHcmlkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBHcmlkPD4K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRhcmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgamRiY0RhaWx5U3RvY2tIb2xkaW5nc1NlcnZpY2UucnVuUmVwb3J0KHJlcG9ydEZyb20uZ2V0VmFsdWUoKS50b1N0cmluZygpLCByZXBvcnRUby5nZXRWYWx1ZSgpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRhcmcKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlcmUgIiArIGZyb21EYXRlICsgIiAiICsgdG9EYXRlICsgIiAiICsgcmVzdWx0LnNpemUoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
