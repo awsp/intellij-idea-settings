@@ -187,12 +187,12 @@
         <mark key="." line="24" column="42" />
         <mark key="^" line="24" column="42" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/src/main/resources/templates/home/index.html" timestamp="1512005532040">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/src/main/resources/templates/home/index.html" timestamp="1512006246856">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="21" />
-        <mark key="^" line="7" column="21" />
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jtl-wireless/src/main/webapp/VAADIN/themes/aqua/styles.scss" timestamp="1508957204875">
         <mark key="[" line="2" column="18" />
@@ -502,7 +502,7 @@
         <mark key="^" line="46" column="53" />
         <mark key="." line="46" column="53" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/src/main/java/com/jtbhawaii/site/AppConfig.java" timestamp="1512005527968">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/src/main/java/com/jtbhawaii/site/AppConfig.java" timestamp="1512006265052">
         <mark key="[" line="11" column="38" />
         <mark key="]" line="11" column="44" />
         <mark key="^" line="11" column="44" />
@@ -1292,10 +1292,10 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>static</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
