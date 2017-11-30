@@ -42,6 +42,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="14" column="20" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/src/main/java/com/jtbhawaii/site/ServletInitializr.java" timestamp="1512009719680">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmvadn_payroll/src/main/java/com/jtbhawaii/cmpayroll/model/PayrollCalculation.java" timestamp="1511300688451">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="13" />
@@ -479,7 +485,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512002636254">
+      <file name="/Dummy.txt" timestamp="1512009760870">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -580,7 +586,7 @@
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1511908567102">
+      <file name="/fragment.java" timestamp="1512009497998">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1100,6 +1106,13 @@
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/pom.xml" timestamp="1512009740136">
+        <mark key="'" line="10" column="20" />
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="70" column="64" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs/src/main/java/com/jtbhawaii/misdocs/ui/config/MISDocs.java" timestamp="1508294724688">
         <mark key="[" line="4" column="46" />
         <mark key="]" line="4" column="53" />
@@ -1186,7 +1199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="13" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/model/TogoRoamingData.java" />
       <jump line="34" column="13" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileDistributor.java" />
       <jump line="26" column="13" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/TogoDataProcessor.java" />
       <jump line="17" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/Helper.java" />
@@ -1286,19 +1298,20 @@
       <jump line="0" column="13" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/src/main/resources/templates/index.html" />
       <jump line="7" column="21" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/src/main/resources/templates/home/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/src/main/resources/templates/home/index.html" />
+      <jump line="10" column="20" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>static</text>
+        <text>MyApplication</text>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text>MyApplication</text>
       </register>
       <register name="/" type="4">
-        <text>version</text>
+        <text>properties</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbGwgPSBpbmkuZ2V0KCJmaWxlRGlzdHJpYnV0b3IiLCAiYWxsIiwgYm9vbGVhbi5jbGFzcyk7IAo=</text>
@@ -1335,9 +1348,9 @@
       </register>
     </registers>
     <search>
-      <last-search>version</last-search>
+      <last-search>properties</last-search>
       <last-offset />
-      <last-pattern>version</last-pattern>
+      <last-pattern>properties</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1358,11 +1371,11 @@
         <entry>-D</entry>
         <entry>mainClass</entry>
         <entry>start-</entry>
-        <entry>properties</entry>
         <entry>fork</entry>
         <entry>repository</entry>
         <entry>jpa</entry>
         <entry>version</entry>
+        <entry>properties</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
