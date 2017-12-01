@@ -84,12 +84,12 @@
         <mark key="^" line="6" column="22" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/pom.xml" timestamp="1512162044307">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/pom.xml" timestamp="1512163835944">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="36" column="21" />
-        <mark key="]" line="41" column="20" />
-        <mark key="^" line="41" column="20" />
-        <mark key="." line="41" column="20" />
+        <mark key="]" line="36" column="20" />
+        <mark key="." line="36" column="20" />
+        <mark key="^" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/springcli/src/main/java/com/jtbhawaii/springcli/FileDistributor.java" timestamp="1509047737214">
         <mark key="[" line="9" column="44" />
@@ -498,7 +498,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512009760870">
+      <file name="/Dummy.txt" timestamp="1512163871405">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -593,7 +593,7 @@
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1512009497998">
+      <file name="/fragment.java" timestamp="1512163868192">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1031,11 +1031,11 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/java/com/jtbhawaii/fzkmock/FZKInventory.java" timestamp="1512162093884">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="4" column="14" />
-        <mark key="." line="4" column="14" />
-        <mark key="^" line="4" column="14" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/java/com/jtbhawaii/fzkmock/FZKInventory.java" timestamp="1512163788622">
+        <mark key="[" line="32" column="52" />
+        <mark key="]" line="33" column="31" />
+        <mark key="." line="33" column="31" />
+        <mark key="^" line="33" column="31" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/model/TogoDataInterface.java" timestamp="1510605118080">
         <mark key="[" line="53" column="4" />
@@ -1329,44 +1329,44 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>SV_DT</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>SV_DT</text>
       </register>
       <register name="/" type="4">
         <text>properties</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbGwgPSBpbmkuZ2V0KCJmaWxlRGlzdHJpYnV0b3IiLCAiYWxsIiwgYm9vbGVhbi5jbGFzcyk7IAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGVycm9yQ29kZSA9ICIiOyAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhZm9ybWF0PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5qYWNrc29uLWRhdGFmb3JtYXQteG1sPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLmFubm90YXRpb24uWG1sUm9vdEVsZW1lbnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">QFhtbFJvb3RFbGVtZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxpbWcgc3JjPSIvc3RhdGljL2Zvby5wbmciIGFsdD0iIiAvPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwZQo=</text>
+        <text encoding="base64">ICAgIDxpbWcgc3JjPSIvc3RhdGljL2Zvby5wbmciIGFsdD0iIiAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8dGl0bGU+PC90aXRsZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
