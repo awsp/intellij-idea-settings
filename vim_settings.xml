@@ -84,6 +84,13 @@
         <mark key="^" line="6" column="22" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/pom.xml" timestamp="1512162044307">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="41" column="20" />
+        <mark key="^" line="41" column="20" />
+        <mark key="." line="41" column="20" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/springcli/src/main/java/com/jtbhawaii/springcli/FileDistributor.java" timestamp="1509047737214">
         <mark key="[" line="9" column="44" />
         <mark key="]" line="9" column="60" />
@@ -970,6 +977,12 @@
         <mark key="^" line="158" column="8" />
         <mark key="." line="163" column="0" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/resources/application.properties" timestamp="1512161970671">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/unit_tests/TogoDataProcessorTest.java" timestamp="1507773019489">
         <mark key="[" line="80" column="40" />
         <mark key="]" line="80" column="40" />
@@ -1017,6 +1030,12 @@
         <mark key="]" line="9" column="19" />
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/java/com/jtbhawaii/fzkmock/FZKInventory.java" timestamp="1512162093884">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/model/TogoDataInterface.java" timestamp="1510605118080">
         <mark key="[" line="53" column="4" />
@@ -1087,6 +1106,12 @@
       </file>
       <file name="vim_settings.xml" timestamp="1510770009913">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/java/com/jtbhawaii/fzkmock/FZKController.java" timestamp="1512162123629">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="24" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmpayroll/src/main/java/com/jtbhawaii/cmpayroll/repository/VWClientRepository.java" timestamp="1510006049256">
         <mark key="[" line="5" column="17" />
@@ -1199,7 +1224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="13" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileDistributor.java" />
       <jump line="26" column="13" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/TogoDataProcessor.java" />
       <jump line="17" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/Helper.java" />
       <jump line="23" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/service/HelperTest.java" />
@@ -1299,16 +1323,17 @@
       <jump line="7" column="21" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/src/main/resources/templates/home/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/src/main/resources/templates/home/index.html" />
       <jump line="10" column="20" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>MyApplication</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>MyApplication</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>properties</text>
@@ -1317,31 +1342,31 @@
         <text encoding="base64">ICAgICAgICBhbGwgPSBpbmkuZ2V0KCJmaWxlRGlzdHJpYnV0b3IiLCAiYWxsIiwgYm9vbGVhbi5jbGFzcyk7IAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxpbWcgc3JjPSIvc3RhdGljL2Zvby5wbmciIGFsdD0iIiAvPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwZQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8dGl0bGU+PC90aXRsZT4K</text>
+        <text encoding="base64">ICAgIDxpbWcgc3JjPSIvc3RhdGljL2Zvby5wbmciIGFsdD0iIiAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHRoOmh0bWw+PC90aDpodG1sPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHRoOmh0bWw+PC90aDpodG1sPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICA8dGl0bGU+PC90aXRsZT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
