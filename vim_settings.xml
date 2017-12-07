@@ -1052,6 +1052,11 @@
         <mark key="^" line="5" column="80" />
         <mark key="." line="5" column="80" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/utilitytools/filter.sh" timestamp="1512676065048">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/resources/application-client.yml" timestamp="1510791054526">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="25" />
@@ -1441,10 +1446,10 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
