@@ -765,11 +765,11 @@
         <mark key="^" line="12" column="65" />
         <mark key="." line="12" column="65" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/utilitytools/replica.bat" timestamp="1512762952674">
-        <mark key="[" line="0" column="89" />
-        <mark key="]" line="0" column="89" />
-        <mark key="^" line="0" column="89" />
-        <mark key="." line="0" column="89" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/utilitytools/replica.bat" timestamp="1512764497868">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/logic/ModifyColExact.java" timestamp="1506736922977">
         <mark key="[" line="7" column="0" />
@@ -1470,10 +1470,10 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>xcopy</text>
+        <text>sstest</text>
       </register>
       <register name="-" type="4">
-        <text>xcopy</text>
+        <text>sstest</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
@@ -1482,31 +1482,31 @@
         <text encoding="base64">IyBTaGVsbCBTY3JpcHQ6IGZpbHRlcl9yZHQuc2gK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3AgXFxobmx0ZzAwM1xmdHByb290XHRvZ29cV1JLXFJFUEwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIGZpbGUgaW4gYGNhdCByaHRfZmlsZWxpc3QuY3N2YDsgZG8gY3AgJHNyYyRmaWxlICR0YXJnZXQkZmlsZTsgZG9uZQo=</text>
+        <text encoding="base64">TkVUIFVTRSB3OiBcXDE3Mi4yMC4xMC4xMDNcc3N0ZXN0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3AgXFxobmx0ZzAwM1xmdHByb290XHRvZ29cV1JLXFJFUEwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIGZpbGUgaW4gYGNhdCByaHRfZmlsZWxpc3QuY3N2YDsgZG8gY3AgJHNyYyRmaWxlICR0YXJnZXQkZmlsZTsgZG9uZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAkMTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXdrIC1GLCAnLyJCIi8ge3ByaW50ZiAiJXMsJXNcbiIsRklMRU5BTUUsJDEyfScgUkRUKi5jc3YgPiByZHRfZmlsZWxpc3QuY3N2Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXdrIC1GLCAnLyJCIi8ge3ByaW50ZiAiJXMsJXNcbiIsRklMRU5BTUUsJDEyfScgUkRUKi5jc3YgPiByZHRfZmlsZWxpc3QuY3N2Cg==</text>
+        <text encoding="base64">ZWNobyAkMTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">YXdrIC1GLCAnLyJCIi8ge3ByaW50ZiAiJXMsJXNcbiIsRklMRU5BTUUsJDEyfScgUkRUKi5jc3YgPiByZHRfZmlsZWxpc3QuY3N2Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLm9iamVjdHMuYW5ub3RhdGlvbnMuR2V0dGVyOwo=</text>
+        <text encoding="base64">YXdrIC1GLCAnLyJCIi8ge3ByaW50ZiAiJXMsJXNcbiIsRklMRU5BTUUsJDEyfScgUkRUKi5jc3YgPiByZHRfZmlsZWxpc3QuY3N2Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
