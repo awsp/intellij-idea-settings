@@ -39,7 +39,6 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/basakpie/security/SecurityUserDetailsService.java" timestamp="1512783657152" />
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/config/SourceDbConfig.java" timestamp="1510862656909">
         <mark key="[" line="17" column="36" />
         <mark key="]" line="20" column="7" />
@@ -206,7 +205,6 @@
         <mark key="^" line="100" column="42" />
         <mark key="." line="100" column="42" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/basakpie/security/Role.java" timestamp="1513275238396" />
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/hr_payroll/src/main/java/App.java" timestamp="1507940088964">
         <mark key="[" line="30" column="78" />
         <mark key="]" line="30" column="107" />
@@ -323,7 +321,6 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/4.1.4.RELEASE/d41138b987e3d8778d0f74d88b93a9432ed74a85/spring-security-config-4.1.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/LogoutConfigurer.java" timestamp="1513214795785" />
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fddatafixer/src/main/java/com/jtbhawaii/FDDataFixer.java" timestamp="1510607702996">
         <mark key="[" line="33" column="31" />
         <mark key="]" line="33" column="31" />
@@ -759,7 +756,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/testrepo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1513213944286" />
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/annotation/DateString.java" timestamp="1506460092129">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="5" column="33" />
@@ -1075,14 +1071,18 @@
         <mark key="^" line="10" column="20" />
         <mark key="." line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/basakpie/view/UserView2.java" timestamp="1513190973966" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/AnpiSystem/app/build.gradle" timestamp="1513285634019">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/DefinedFields.java" timestamp="1510953400867">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="24" />
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/basakpie/Application.java" timestamp="1512783278114" />
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/reactiveweb/src/main/java/com/jtbhawaii/reactiveweb/BookRepository.java" timestamp="1512416669491">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="4" column="65" />
@@ -1471,7 +1471,6 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/basakpie/view/ViewContainer.java" timestamp="1512788500722" />
     </filemarks>
     <jumps>
       <jump line="52" column="13" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/model/TogoDataInterfaceTest.java" />
