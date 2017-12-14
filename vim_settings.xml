@@ -1269,9 +1269,12 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/basakpie/config/VaadinSpringConfiguration.java" timestamp="1513191057916">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/basakpie/config/VaadinSpringConfiguration.java" timestamp="1513209023005">
         <mark key="'" line="105" column="0" />
         <mark key="[" line="72" column="102" />
+        <mark key="]" line="72" column="101" />
+        <mark key="^" line="72" column="101" />
+        <mark key="." line="72" column="101" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/interfaces/SMBFileInterface.java" timestamp="1509140848783">
         <mark key="[" line="10" column="4" />
