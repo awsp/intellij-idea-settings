@@ -447,6 +447,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="4" column="17" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/AnpiSystem/app/src/main/java/com/jtb_hawaii/anpisystem/FullscreenActivity.java" timestamp="1513286957873">
+        <mark key="[" line="77" column="68" />
+        <mark key="]" line="78" column="36" />
+        <mark key="^" line="78" column="36" />
+        <mark key="." line="78" column="36" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmpa/src/main/java/com/jtbhawaii/hr/cmpa/ui/bean/Report.java" timestamp="1507949177610">
         <mark key="[" line="16" column="31" />
         <mark key="]" line="18" column="59" />
@@ -591,7 +597,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512414744479">
+      <file name="/Dummy.txt" timestamp="1513286924547">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1579,10 +1585,10 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>SPEED_FASTEST</text>
+        <text>CheckBox</text>
       </register>
       <register name="-" type="4">
-        <text>SPEED_FASTEST</text>
+        <text>CheckBox</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
