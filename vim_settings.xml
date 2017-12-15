@@ -111,10 +111,11 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/Anthony Wu/Lab/jmstrio/src/main/java/com/jtbhawaii/jmstrio/JMSTrioApplication.java" timestamp="1513295529290">
-        <mark key="]" line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="16" />
+      <file name="$USER_HOME$/.babun/cygwin/home/Anthony Wu/Lab/jmstrio/src/main/java/com/jtbhawaii/jmstrio/JMSTrioApplication.java" timestamp="1513297909682">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="38" column="88" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/java/com/jtbhawaii/fzkmock/SSResult.java" timestamp="1512171817275">
         <mark key="[" line="7" column="0" />
@@ -340,6 +341,12 @@
         <mark key="]" line="4" column="21" />
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/Anthony Wu/Lab/jmstrio/src/main/java/com/jtbhawaii/jmstrio/Email.java" timestamp="1513297476856">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="31" column="17" />
+        <mark key="." line="31" column="17" />
+        <mark key="^" line="31" column="17" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/springboot-javafx-tutorial/src/main/resources/META-INF/MANIFEST.MF" timestamp="1510269986881">
         <mark key="[" line="1" column="29" />
@@ -752,9 +759,6 @@
         <mark key="]" line="53" column="9" />
         <mark key="." line="53" column="9" />
         <mark key="^" line="53" column="9" />
-      </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/webapp/VAADIN/themes/valo-default/styles.scss" timestamp="1512787873771">
-        <mark key="[" line="5" column="13" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/concurrenttest/src/main/java/ConcurrentTest.java" timestamp="1510017705425">
         <mark key="[" line="12" column="43" />
@@ -1449,9 +1453,6 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/basakpie/sidebar/VaadinSideBar.java" timestamp="1512788398737">
-        <mark key="'" line="186" column="50" />
-      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/TptVMSSubSystemStandaloneApplication.java" timestamp="1509417904937">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="21" />
@@ -1595,11 +1596,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlTcHJpbmdBcHBsaWNhdGlvbi5ydW4oSk1TVHJpb0FwcGxpY2F0aW9uLmNsYXNzLCBhcmdzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>Application</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
@@ -1608,31 +1609,31 @@
         <text encoding="base64">QWxsIHJldHJpZXZlZCBkYXRhIHdpbGwgYmUgZHVtcCB0byBhIGZpbGUgbmFtZWQgYHJkdF9maWxlbGlzdC5jc3ZgIGF0IHRoZSBzYW1lIGRpcmVjdG9yeSBhdCB0aGlzIHNjcmlwdC4gCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQlTcHJpbmdBcHBsaWNhdGlvbi5ydW4oSk1TVHJpb0FwcGxpY2F0aW9uLmNsYXNzLCBhcmdzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CSAgICBEZWZhdWx0Sm1zTGkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">QWxsIHJlCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWd1cmVyLmNvbmZpZ3VyZShteUZhY3RvcnkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VGhpcyB3aWxsIGR1bXAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">TW92ZSAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">U291cmNlIGFuZCB0YXJnZXQgaXMgZGVmaW5lZCAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0VG8oKSB7CiAgICAgICAgcmV0dXJuIHRvOwogICAgfQogICAgCiAgICBwdWJsaWMgdm9pZCBzZXRUbyhTdHJpbmcgdG8pIHsKICAgICAgICB0aGlzLgogICAgfQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHBibGljIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">YGBgYGBgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
