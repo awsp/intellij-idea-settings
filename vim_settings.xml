@@ -84,12 +84,12 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/app.js" timestamp="1513889557239">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/app.js" timestamp="1513893683027">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="21" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="103" column="21" />
+        <mark key="[" line="119" column="152" />
+        <mark key="]" line="119" column="109" />
+        <mark key="." line="119" column="109" />
+        <mark key="^" line="119" column="109" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/exception/FDOriginalCopyException.java" timestamp="1507838307059">
         <mark key="[" line="5" column="22" />
@@ -138,6 +138,12 @@
         <mark key="]" line="94" column="30" />
         <mark key="^" line="94" column="30" />
         <mark key="." line="94" column="30" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/.gitignore" timestamp="1513893228374">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/app/components/version/interpolate-filter.js" timestamp="1513815635494">
         <mark key="[" line="2" column="16" />
@@ -495,12 +501,12 @@
         <mark key="^" line="24" column="31" />
         <mark key="." line="24" column="31" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/styles.css" timestamp="1513887238270">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="270" column="21" />
-        <mark key="]" line="271" column="34" />
-        <mark key="^" line="271" column="34" />
-        <mark key="." line="271" column="34" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/styles.css" timestamp="1513892549420">
+        <mark key="'" line="285" column="0" />
+        <mark key="[" line="183" column="11" />
+        <mark key="]" line="183" column="14" />
+        <mark key="^" line="183" column="14" />
+        <mark key="." line="183" column="14" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/procedure.asciidoc" timestamp="1509417051486">
         <mark key="[" line="2" column="0" />
@@ -1139,12 +1145,12 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/index.html" timestamp="1513889120673">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/index.html" timestamp="1513893856227">
         <mark key="'" line="27" column="44" />
-        <mark key="[" line="70" column="16" />
-        <mark key="]" line="70" column="22" />
-        <mark key="^" line="70" column="22" />
-        <mark key="." line="70" column="22" />
+        <mark key="[" line="5" column="54" />
+        <mark key="]" line="5" column="53" />
+        <mark key="^" line="5" column="53" />
+        <mark key="." line="5" column="53" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmpayroll/src/main/java/com/jtbhawaii/cmpayroll/ui/view/LoginView.java" timestamp="1510007230314">
         <mark key="[" line="5" column="0" />
@@ -1686,7 +1692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/log4jfc.properties" />
       <jump line="0" column="11" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/procedure.asciidoc" />
       <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/pom.xml" />
       <jump line="56" column="19" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/pom.xml" />
@@ -1786,16 +1791,17 @@
       <jump line="3" column="17" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/styles.css" />
       <jump line="186" column="20" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/styles.css" />
       <jump line="38" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/styles.css" />
+      <jump line="285" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/styles.css" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLl9pZCA9IDE7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICRpbmRleCArIDEg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>footer</text>
@@ -1804,31 +1810,32 @@
         <text encoding="base64">ICAgIC13ZWJraXQtYW5pbWF0aW9uLW5hbWU6IGVycm9yLWFuaW1hdGlvbi1zaG93OyAvKiBTYWZhcmkgNC4wIC0gOC4wICovCiAgICAtd2Via2l0LWFuaW1hdGlvbi1kdXJhdGlvbjogLjE1czsgLyogU2FmYXJpIDQuMCAtIDguMCAqLwogICAgLXdlYmtpdC1hbmltYXRpb24tZmlsbC1tb2RlOiBmb3J3YXJkczsKICAgIC13ZWJraXQtYW5pbWF0aW9uLXRpbWluZy1mdW5jdGlvbjogZWFzZS1pbi1vdXQ7CiAgICBhbmltYXRpb24tbmFtZTogZXJyb3ItYW5pbWF0aW9uLXNob3c7CiAgICBhbmltYXRpb24tZHVyYXRpb246IC4xNXM7CiAgICBhbmltYXRpb24tZmlsbC1tb2RlOiBmb3J3YXJkczsKICAgIGFuaW1hdGlvbi10aW1pbmctZnVuY3Rpb246IGVhc2UtaW4tb3V0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLl9pZCA9IDE7Cg==</text>
+        <text encoding="base64">Ym93ZXJfY29tcG9uZW50cy8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAmbmJzcDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9ImJ1bG1hLm1pbi5jc3MiLz4K</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIGlkPSJhdXRvLWlucHV0IiBuZy1jaGVja2VkPSJhdXRvSW5wdXQiIG5nLWNsaWNrPSJ0b2dnbGVBdXRvSW5wdXQoKSIgY2xhc3M9ImNoZWNrYm94Ij4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIGlkPSJhdXRvLWlucHV0IiBuZy1jaGVja2VkPSJhdXRvSW5wdXQiIG5nLWNsaWNrPSJ0b2dnbGVBdXRvSW5wdXQoKSI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGlzU3RheWluZ0hvdGVsKSB7CiAgICAgICAgJHNjb3BlLmVycm9yTWVzc2FnZSA9ICcnOyAKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICRzY29wZS5hdXRvSW5wdXQgPSBhdXRvSW5wdXQ7IAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gU3RheWluZyBob3RlbCBjaGVjawogICAgICBsZXQgc3RheWluZ0hvdGVsTG9jYXRpb25Pa2F5ID0gaG90ZWwuaGFzT3duUHJvcGVydHkoc3RheWluZ0hvCg==</text>
+      <register name="6" type="4">
+        <text>false; 
+    autoInput =</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dGVsKTsgCiAgICAgIGxldCBzdGF5aW5nSG90ZWxUaW1lT2theSA9IHRpbWUuaGFzT3duUHJvcGVydHkoc3RheWluZ0hvdGVsKTsgCiAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgZm9yPSJhdXRvLWlucHV0Ij48L2xhYmVsPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWFhJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvcDogLTIwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NzcycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
