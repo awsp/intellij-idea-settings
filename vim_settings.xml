@@ -84,11 +84,11 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/app.js" timestamp="1513818206866">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="1" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/app.js" timestamp="1513825315789">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="29" column="2" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/exception/FDOriginalCopyException.java" timestamp="1507838307059">
         <mark key="[" line="5" column="22" />
@@ -354,11 +354,11 @@
         <mark key="^" line="0" column="81" />
         <mark key="." line="0" column="81" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/pickuplocator.html" timestamp="1513818193897">
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="18" column="45" />
-        <mark key="." line="18" column="45" />
-        <mark key="^" line="18" column="45" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/pickuplocator.html" timestamp="1513819696531">
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="30" column="41" />
+        <mark key="." line="30" column="41" />
+        <mark key="^" line="30" column="41" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jtl-wireless/src/main/resources/META-INF/spring.factories" timestamp="1508958040678">
         <mark key="[" line="0" column="0" />
@@ -458,6 +458,12 @@
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/bulma.min.css" timestamp="1513816045842">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/pickuplocation.json" timestamp="1513819019000">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/concurrenttest/src/main/java/com/jtbhawaii/tpthawaii/VMSReportApp.java" timestamp="1509392293294">
         <mark key="[" line="6" column="18" />
         <mark key="]" line="6" column="28" />
@@ -487,6 +493,12 @@
         <mark key="]" line="24" column="31" />
         <mark key="^" line="24" column="31" />
         <mark key="." line="24" column="31" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/styles.css" timestamp="1513820601277">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/procedure.asciidoc" timestamp="1509417051486">
         <mark key="[" line="2" column="0" />
@@ -1125,6 +1137,13 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/index.html" timestamp="1513825465096">
+        <mark key="'" line="27" column="44" />
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="45" column="21" />
+        <mark key="^" line="45" column="23" />
+        <mark key="." line="45" column="21" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmpayroll/src/main/java/com/jtbhawaii/cmpayroll/ui/view/LoginView.java" timestamp="1510007230314">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="15" />
@@ -1390,6 +1409,13 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/pickuplocation.js" timestamp="1513819037462">
+        <mark key="'" line="0" column="10" />
+        <mark key="[" line="727" column="1" />
+        <mark key="]" line="727" column="2" />
+        <mark key="^" line="727" column="2" />
+        <mark key="." line="727" column="2" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs/src/main/java/com/jtbhawaii/misdocs/MISDocsApplication.java" timestamp="1508372385708">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="33" />
@@ -1653,8 +1679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/concurrenttest/src/main/java/VMSReport.java" />
-      <jump line="9" column="9" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/concurrenttest/src/main/java/com/jtbhawaii/tpthawaii/VMSReport.java" />
       <jump line="60" column="27" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/concurrenttest/src/main/java/com/jtbhawaii/tpthawaii/VMSReport.java" />
       <jump line="92" column="57" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/concurrenttest/src/main/java/com/jtbhawaii/tpthawaii/VMSReport.java" />
       <jump line="55" column="5" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/concurrenttest/src/main/java/com/jtbhawaii/tpthawaii/VMSReport.java" />
@@ -1753,49 +1777,53 @@
       <jump line="14" column="11" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator/src/main/java/com/jtbhawaii/dataframe/domain/PickupLocation.java" />
       <jump line="193" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator/src/main/java/com/jtbhawaii/dataframe/domain/PickupLocation.java" />
       <jump line="56" column="7" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator/queries/pickup_location.sql" />
+      <jump line="0" column="10" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/pickuplocation.js" />
+      <jump line="27" column="44" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/index.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PC9zZWN0aW9uPg==</text>
+        <text>HTL</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9zZWN0aW9uPg==</text>
+        <text>HTL</text>
       </register>
       <register name="/" type="4">
         <text>OR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0IHR5cGU9InRleHQiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoPkhUTDwvdGg+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAge3sgZm9vIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHt7IGZvbyB9fQo=</text>
+      <register name="3" type="4">
+        <text>window.onbeforeunload = function () {
+  confirm('aa');
+};</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8bWFpbiBuZy1hcHA9InBpY2t1cExvY2F0b3IiPgogICAgCiAgPC9tYWluPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KGZ1bmN0aW9uICgpIHsKICAKfSkoYW5ndWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICR3aW5kb3cub25iZWZvcmV1bmxvYWQgPSBmdW5jdGlvbiAoZXZlbnQpIHsKICAgICAgdmFyIGEgPSBjb25maXJtKCdhYWEnKTsKICAgIH07</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8dmlld3BvcnQ+PC92aWV3cG9ydD4K</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoJ2FhO2FqJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iLi9hbmd1bGFyLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICR3aW5kb3cuJG9uKCdiZScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
