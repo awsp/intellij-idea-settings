@@ -9,11 +9,6 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/ANPIMobileSystem/app/src/main/java/com/jtb_hawaii/anpimobilesystem/MainActivity.java" timestamp="1513978557406">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi-system/src/main/java/com/jtbhawaii/anpisystem/ui/controlcenter/component/NavigationMenu.java" timestamp="1513626687241">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="23" column="17" />
@@ -284,6 +279,9 @@
         <mark key="]" line="26" column="40" />
         <mark key="." line="26" column="40" />
         <mark key="^" line="26" column="40" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/ANPIMobileSystem/app/build.gradle" timestamp="1513978761391">
+        <mark key="[" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/README.md" timestamp="1513021479008">
         <mark key="[" line="84" column="50" />
@@ -1816,7 +1814,7 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Owo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1828,15 +1826,18 @@
         <text encoding="base64">ICAgICAgJyInICsgaG90ZWxbc2hdICciLCcgKwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0Vmlldy5zZXRUZXh0KCJhIGRvZyIpOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXh0Vmlldy5zZXRUZXh0KCJhIGRvZyIpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>//        char[] a = new char[10];
 //        a[0] = 's';
 //        a[1] = 'h';
@@ -1849,20 +1850,17 @@
 //            }
 //        });</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF0aCk7IAo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF0aCk7IAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZmxhdHRlbkNzdkRhdGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgY29uc29sZS5sb2coaG90ZWwpOyAK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZmxhdHRlbkNzdkRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
