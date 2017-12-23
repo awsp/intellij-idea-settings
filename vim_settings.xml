@@ -590,11 +590,11 @@
         <mark key="^" line="18" column="59" />
         <mark key="." line="18" column="59" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/javatrio/src/com/jtbhawaii/App.java" timestamp="1513990659851">
-        <mark key="[" line="10" column="113" />
-        <mark key="]" line="10" column="7" />
-        <mark key="^" line="10" column="7" />
-        <mark key="." line="10" column="7" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/javatrio/src/com/jtbhawaii/App.java" timestamp="1513990764709">
+        <mark key="[" line="8" column="60" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="8" column="59" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/annotation/OmitInStar.java" timestamp="1506461074997">
         <mark key="[" line="6" column="28" />
@@ -879,11 +879,11 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1513806258379">
+      <file name="/fragment.java" timestamp="1513990722261">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="47" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/springcli/src/main/java/com/jtbhawaii/springcli/SpringCLIApplication.java" timestamp="1509047651596">
         <mark key="[" line="48" column="9" />
@@ -1819,8 +1819,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgcmVhZCA9IGZpbGVSZWFkZXIucmVhZCgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -1832,18 +1832,21 @@
         <text encoding="base64">ICAgICAgJyInICsgaG90ZWxbc2hdICciLCcgKwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Owo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcmVhZCA9IGZpbGVSZWFkZXIucmVhZCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0Vmlldy5zZXRUZXh0KCJhIGRvZyIpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXh0Vmlldy5zZXRUZXh0KCJhIGRvZyIpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>//        char[] a = new char[10];
 //        a[0] = 's';
 //        a[1] = 'h';
@@ -1856,17 +1859,14 @@
 //            }
 //        });</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF0aCk7IAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF0aCk7IAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZmxhdHRlbkNzdkRhdGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
