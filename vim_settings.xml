@@ -9,7 +9,7 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/ANPIMobileSystem/app/src/main/java/com/jtb_hawaii/anpimobilesystem/MainActivity.java" timestamp="1513979030119" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/ANPIMobileSystem/app/src/main/java/com/jtb_hawaii/anpimobilesystem/MainActivity.java" timestamp="1513990667209" />
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi-system/src/main/java/com/jtbhawaii/anpisystem/ui/controlcenter/component/NavigationMenu.java" timestamp="1513626687241">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="23" column="17" />
@@ -589,6 +589,12 @@
         <mark key="]" line="18" column="59" />
         <mark key="^" line="18" column="59" />
         <mark key="." line="18" column="59" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/javatrio/src/com/jtbhawaii/App.java" timestamp="1513990659851">
+        <mark key="[" line="10" column="113" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="7" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/annotation/OmitInStar.java" timestamp="1506461074997">
         <mark key="[" line="6" column="28" />
@@ -1675,9 +1681,6 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/app/index.html" timestamp="1513815580789">
-        <mark key="y" line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/EmailService.java" timestamp="1508958976852">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
@@ -1817,10 +1820,10 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>TextView</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>TextView</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>\.col</text>
