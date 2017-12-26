@@ -79,6 +79,12 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" timestamp="1514315412860">
+        <mark key="[" line="153" column="68" />
+        <mark key="]" line="154" column="15" />
+        <mark key="." line="154" column="15" />
+        <mark key="^" line="154" column="15" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/app.js" timestamp="1513974816436">
         <mark key="'" line="119" column="75" />
         <mark key="[" line="147" column="0" />
@@ -583,6 +589,12 @@
         <mark key="]" line="94" column="32" />
         <mark key="." line="94" column="32" />
         <mark key="^" line="82" column="40" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/unit_tests/FileCollectorTest.java" timestamp="1514315247905">
+        <mark key="[" line="32" column="84" />
+        <mark key="]" line="32" column="88" />
+        <mark key="." line="32" column="88" />
+        <mark key="^" line="32" column="88" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmpa/src/main/java/com/jtbhawaii/hr/cmpa/ui/bean/Report.java" timestamp="1507949177610">
         <mark key="[" line="16" column="31" />
@@ -1819,51 +1831,41 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bwo=</text>
+      <register name="&quot;" type="4">
+        <text>else</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>else</text>
       </register>
       <register name="/" type="4">
         <text>\.col</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJyInICsgaG90ZWxbc2hdICciLCcgKwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGZpbGVDb2xsZWN0b3IuaXNTdXBlclN0YXJIZWFkZXJGaWxlKCJTSEhOTDEwMDAwMDAwMDAxLmNzdjEiKSwgaXModHJ1ZSkpOyAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmVhZCA9IGZpbGVSZWFkZXIucmVhZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlQ29sbGVjdG9yID0gbmV3IEZpbGVDb2xsZWN0b3IoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Owo=</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0Vmlldy5zZXRUZXh0KCJhIGRvZyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcmVhZCA9IGZpbGVSZWFkZXIucmVhZCgpOwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Owo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>//        char[] a = new char[10];
-//        a[0] = 's';
-//        a[1] = 'h';
-
-//        textView.setText(a, 0, 2);
-//        button.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                textView.setText(&quot;dddd&quot;);
-//            }
-//        });</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF0aCk7IAo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0Vmlldy5zZXRUZXh0KCJhIGRvZyIpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
