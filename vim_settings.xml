@@ -78,11 +78,11 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" timestamp="1514319921665">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="157" column="3" />
-        <mark key="." line="157" column="3" />
-        <mark key="^" line="157" column="3" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" timestamp="1514332799012">
+        <mark key="[" line="37" column="11" />
+        <mark key="]" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+        <mark key="^" line="37" column="17" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/app.js" timestamp="1513974816436">
         <mark key="'" line="119" column="75" />
@@ -589,10 +589,11 @@
         <mark key="." line="94" column="32" />
         <mark key="^" line="82" column="40" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/unit_tests/FileCollectorTest.java" timestamp="1514325224996">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/unit_tests/FileCollectorTest.java" timestamp="1514332866013">
+        <mark key="[" line="46" column="76" />
+        <mark key="]" line="46" column="86" />
+        <mark key="." line="46" column="86" />
+        <mark key="^" line="46" column="86" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmpa/src/main/java/com/jtbhawaii/hr/cmpa/ui/bean/Report.java" timestamp="1507949177610">
         <mark key="[" line="16" column="31" />
@@ -795,6 +796,12 @@
         <mark key="]" line="21" column="31" />
         <mark key="." line="21" column="31" />
         <mark key="^" line="21" column="31" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/FilePointerLoggingService.java" timestamp="1514332100437">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/unit_tests/FileDistributorTest.java" timestamp="1508543567334">
         <mark key="[" line="50" column="29" />
@@ -1829,8 +1836,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1842,31 +1849,31 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGZpbGVDb2xsZWN0b3IuaXNTdXBlclN0YXJIZWFkZXJGaWxlKCJTSEhOTDEwMDAwMDAwMDAxLmNzdjEiKSwgaXModHJ1ZSkpOyAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZUNvbGxlY3Rvci5ib29raW5nUmVzcG9uc2UuU0RITkwudG9TdHJpbmcoKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIAogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RUZXN0KCkgewogICAgICAgIExpc3Q8U3RyaW5nPiBmb28gPSBuZXcgQXJyYXlMaXN0PD4oQXJyYXlzLmFzTGlzdCgiYWFhIiwgImJiYiIsICJjY2MiLCAiZGRkIikpOyAKICAgICAgICBMaXN0PFN0cmluZz4gYmFyID0gbmV3IEFycmF5TGlzdDw+KEFycmF5cy5hc0xpc3QoImJiYiIsICJjY2MiLCAiZWVlIiwgImZmZiIpKTsgCiAgICAgICAgCiAgICAgICAgCiAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBIZWxwZXIuZ2V0U3RlbSgiU0RITkwiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVyRmlsZUxpc3Quc3RyZWFtKCkuZmlsdGVyKGYgLT4gZi4pIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGRkZAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgaW5pdFtdIGluaXRMb2dnaW5nKCkK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIHZvaWQgZ2V0UGFpcmVkU3VwZXJTdGFyRmlsZXMoKSB7CiAgICAgICAgICAgIAogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuc3RyZWFtKGlucHV0RGlyLikgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIENvbm5lY3Rpb24gY29ubjsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHBhaXJlZEZpbGVzKEZpbGUgZmlsZSkgewogICAgICAgIEZpbGUgaGVhZGVyRmlsZSA9IGZpbGUuZ2V0Q2Fub25pY2FsUGF0aCgpCiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
