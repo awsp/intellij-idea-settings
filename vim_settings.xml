@@ -165,11 +165,11 @@
         <mark key="." line="27" column="53" />
         <mark key="^" line="27" column="53" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/ssconfig.prod.ini" timestamp="1512002674754">
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="10" column="10" />
-        <mark key="." line="10" column="10" />
-        <mark key="^" line="10" column="10" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/ssconfig.prod.ini" timestamp="1514409596861">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="11" column="15" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jtl-wireless/src/main/java/com/jtbhawaii/jtlwireless/apis/v1/OliOliPhoneController.java" timestamp="1508956365326">
         <mark key="[" line="22" column="15" />
@@ -291,6 +291,13 @@
         <mark key="]" line="84" column="51" />
         <mark key="." line="84" column="51" />
         <mark key="^" line="78" column="104" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileDistributor.java" timestamp="1514410574162">
+        <mark key="'" line="119" column="10" />
+        <mark key="[" line="273" column="42" />
+        <mark key="]" line="273" column="49" />
+        <mark key="^" line="273" column="49" />
+        <mark key="." line="273" column="49" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmvadn_payroll/src/main/java/com/jtbhawaii/cmpayroll/repository/jdbcPayrollProductionCalculation.java" timestamp="1511224213712">
         <mark key="[" line="45" column="0" />
@@ -437,6 +444,12 @@
         <mark key="]" line="8" column="10" />
         <mark key="." line="8" column="10" />
         <mark key="^" line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/FDBackupService.java" timestamp="1514410522560">
+        <mark key="[" line="68" column="23" />
+        <mark key="]" line="68" column="51" />
+        <mark key="." line="68" column="51" />
+        <mark key="^" line="68" column="51" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmfx-payroll/src/main/resources/fxml/tabs/tab_pane.fxml" timestamp="1511209036333">
         <mark key="[" line="13" column="59" />
@@ -629,11 +642,11 @@
         <mark key="^" line="5" column="76" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/ssconfig.ini" timestamp="1514405954609">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="13" />
-        <mark key="^" line="18" column="13" />
-        <mark key="." line="18" column="13" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/ssconfig.ini" timestamp="1514410901282">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="8" />
+        <mark key="." line="10" column="7" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dataframe/src/main/java/com/jtbhawaii/dataframe/ui/AppUI.java" timestamp="1513806032779">
         <mark key="[" line="38" column="42" />
@@ -1336,6 +1349,13 @@
         <mark key="^" line="4" column="65" />
         <mark key="." line="4" column="65" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" timestamp="1514410065278">
+        <mark key="'" line="408" column="34" />
+        <mark key="[" line="407" column="81" />
+        <mark key="]" line="407" column="81" />
+        <mark key="." line="407" column="81" />
+        <mark key="^" line="407" column="81" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dataframe/src/main/java/com/jtbhawaii/dataframe/repository/SWHPickupRepository.java" timestamp="1513713630206">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -1516,6 +1536,11 @@
         <mark key="]" line="53" column="9" />
         <mark key="." line="53" column="9" />
         <mark key="^" line="53" column="9" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/pom.xml" timestamp="1514410645014">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/reactiveweb/src/main/java/com/jtbhawaii/reactiveweb/IndexController.java" timestamp="1512416702253">
         <mark key="[" line="19" column="8" />
@@ -1747,31 +1772,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="41" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fddatafixer/src/main/java/com/jtbhawaii/FDDataFixer.java" />
-      <jump line="35" column="13" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileDistributor.java" />
-      <jump line="168" column="12" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileDistributor.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/resources/application-server.yml" />
-      <jump line="2" column="69" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5a192817-8bc8-491c-bb69-dcfcf5c438d3/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5a192817-8bc8-491c-bb69-dcfcf5c438d3/console.sql" />
-      <jump line="88" column="43" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/pom.xml" />
-      <jump line="139" column="45" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/pom.xml" />
-      <jump line="140" column="71" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/pom.xml" />
-      <jump line="51" column="20" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/pom.xml" />
-      <jump line="97" column="12" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReport.java" />
-      <jump line="19" column="32" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReport.java" />
-      <jump line="81" column="21" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReport.java" />
-      <jump line="66" column="119" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReport.java" />
-      <jump line="48" column="8" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReport.java" />
-      <jump line="134" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/VMSReport.java" />
-      <jump line="10" column="16" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmvadn_payroll/pom.xml" />
-      <jump line="125" column="9" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/pom.xml" />
-      <jump line="17" column="48" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/pom.xml" />
-      <jump line="41" column="7" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/ui/AppUI.java" />
-      <jump line="78" column="36" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/pom.xml" />
-      <jump line="113" column="23" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileDistributor.java" />
-      <jump line="116" column="30" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileDistributor.java" />
-      <jump line="49" column="8" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/pom.xml" />
       <jump line="3" column="6" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/pom.xml" />
       <jump line="0" column="13" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/src/main/resources/templates/index.html" />
       <jump line="7" column="21" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/src/main/resources/templates/home/index.html" />
@@ -1847,65 +1847,88 @@
       <jump line="4" column="37" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/model/TogoRoamingData.java" />
       <jump line="37" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" />
       <jump line="17" column="3" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/model/TogoResponse.java" />
+      <jump line="156" column="53" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="258" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileDistributor.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="102" column="84" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="120" column="22" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="140" column="82" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="152" column="22" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="161" column="19" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="172" column="34" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="188" column="22" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="197" column="19" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="206" column="30" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="234" column="92" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="254" column="22" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="257" column="20" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="264" column="26" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="267" column="26" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="279" column="19" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="292" column="26" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="314" column="85" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="352" column="90" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="408" column="34" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="265" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileDistributor.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileDistributor.java" />
+      <jump line="119" column="10" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileDistributor.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>Helper</text>
+        <text>a valid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGZpbGVDb2xsZWN0b3IuaXNTdXBlclN0YXJIZWFkZXJGaWxlKCJTSEhOTDEwMDAwMDAwMDAxLmNzdjEiKSwgaXModHJ1ZSkpOyAK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiXHJcbiAtIEJhY2tpbmcgdXAgUkFXIGZpbGVzOiAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKTsKICAgICAgICBiYWNrdXBBbGxGaWxlcyhyZXN1bHQsIGdldElucHV0RGlyKCksIGdldEJhY2t1cERpcigpKTsgCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU21iRmlsZVtdIGdldFN1cGVyU3RhckZpbGVzMihTbWJGaWxlIGlucHV0RGlyKSB0aHJvd3MgU21iRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gU3RyZWFtLm9mKGdldFN1cGVyU3RhckZpbGVzKGlucHV0RGlyKSkudG9BcnJheShTbWJGaWxlW106Om5ldyk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGJhY2t1cEFsbFRlc3RQaXBlZEZpbGVzKE1hcDxTdHJpbmcsIExpc3Q8VG9nb1JvYW1pbmdEYXRhPj4gcmVzdWx0KSB7CgogICAgICAgIGxvZ2dlci5pbmZvKCJcclxuIC0gQmFja2luZyB1cCBSQVcgZmlsZXM6IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwogICAgICAgIGJhY2t1cEFsbEZpbGVzKHJlc3VsdCwgZ2V0SW5wdXREaXIoKSwgZ2V0QmFja3VwRGlyKCkpOyAKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGJhY2t1cFBpcGVkRmlsZXMoTWFwKSAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuZ2V0KCJhbGwiKS5mb3JFYWNoKGFsbERhdGEgLT4gewogICAgICAgICAgICBkYXRhRmlsZUNvcHlPcGVyYXRpb24oYWxsRGF0YSwgZ2V0SW5wdXREaXIoKSwgZ2V0QmFja3VwRGlyKCkpOwogICAgICAgICAgICBoZWFkZXJGaWxlQ29weU9wZXJhdGlvbihhbGxEYXRhLCBnZXRJbnB1dERpcigpLCBnZXRCYWNrdXBEaXIoKSk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiXHJcbiAtIEJhY2tpbmcgdXAgUkFXIGZpbGVzIGZvciBUZXN0IFBpcGU6IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbmRvbGVuY2UK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Helper</last-search>
+      <last-search>a valid</last-search>
       <last-offset />
-      <last-pattern>Helper</last-pattern>
+      <last-pattern>a valid</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dev-bools</entry>
-        <entry>dev-tools</entry>
         <entry>animation</entry>
         <entry>login</entry>
         <entry>socket</entry>
@@ -1924,6 +1947,8 @@
         <entry>.col</entry>
         <entry>\.col</entry>
         <entry>Helper</entry>
+        <entry>valid</entry>
+        <entry>a valid</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
