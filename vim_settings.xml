@@ -79,6 +79,9 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" timestamp="1514495327844">
+        <mark key="'" line="65" column="4" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/app.js" timestamp="1513974816436">
         <mark key="'" line="119" column="75" />
         <mark key="[" line="147" column="0" />
@@ -1350,12 +1353,12 @@
         <mark key="^" line="4" column="65" />
         <mark key="." line="4" column="65" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" timestamp="1514410065278">
-        <mark key="'" line="408" column="34" />
-        <mark key="[" line="407" column="81" />
-        <mark key="]" line="407" column="81" />
-        <mark key="." line="407" column="81" />
-        <mark key="^" line="407" column="81" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" timestamp="1514499148659">
+        <mark key="'" line="45" column="6" />
+        <mark key="[" line="90" column="22" />
+        <mark key="]" line="90" column="37" />
+        <mark key="." line="90" column="37" />
+        <mark key="^" line="90" column="37" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dataframe/src/main/java/com/jtbhawaii/dataframe/repository/SWHPickupRepository.java" timestamp="1513713630206">
         <mark key="[" line="5" column="0" />
@@ -1773,8 +1776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="21" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/src/main/resources/templates/home/index.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/src/main/resources/templates/home/index.html" />
       <jump line="10" column="20" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/pom.xml" />
       <jump line="52" column="21" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/pom.xml" />
       <jump line="16" column="39" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/pom.xml" />
@@ -1873,49 +1874,51 @@
       <jump line="119" column="10" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileDistributor.java" />
       <jump line="7" column="23" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/data_converter/dataflatten.js" />
       <jump line="42" column="10" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/FDFileService.java" />
+      <jump line="65" column="4" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" />
+      <jump line="45" column="6" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ststus</text>
+        <text>validateBackupDir</text>
       </register>
       <register name="-" type="4">
-        <text>ststus</text>
+        <text>validateBackupDir</text>
       </register>
       <register name="/" type="4">
         <text>a valid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChob3RlbC5oYXNPd25Qcm9wZXJ0eSgnRWZmZWN0aXZlIEZyb20nKSkgewogICAgICBlZmZlY3RpdmVGcm9tID0gbW9lbW50KGhvdGVsWydFZmZlY3RpdmUgRnJvbSddKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInZhbGlkYXRlQmFja3VwRGlyKCkgLSBPSyBbIiArIGJhY2t1cERpci5nZXRQYXRoKCkgKyAiXSIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGhpcyBpcyBhCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">QXR0YWNoIGEgdmFyaWFibGUgY2FsbGVkIGB2YXIgZGF0YSA9IGAgaW4gdGhlIGZyb250IG9mIHRoZSBkYXRhIGFuCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBlZmZlY3RpdmVGcm9tID0gbW9lbW50KGhvdGVsWydFZmZlY3RpdmUgRnJvbSddKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZm9ybWF0ID0gCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">VGhpcyBpcyBhCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QXR0YWNoIGEgdmFyaWFibGUgY2FsbGVkIGB2YXIgZGF0YSA9IGAgaW4gdGhlIGZyb250IG9mIHRoZSBkYXRhIGFuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxldCBlZmZlY3RpdmVGcm9tID0gbW9lbW50KGhvdGVsWydFZmZlY3RpdmUgRnJvbSddKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgZm9ybWF0ID0gCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGJhY2t1cEFsbFRlc3RQaXBlZEZpbGVzKE1hcDxTdHJpbmcsIExpc3Q8VG9nb1JvYW1pbmdEYXRhPj4gcmVzdWx0KSB7CgogICAgICAgIGxvZ2dlci5pbmZvKCJcclxuIC0gQmFja2luZyB1cCBSQVcgZmlsZXM6IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwogICAgICAgIGJhY2t1cEFsbEZpbGVzKHJlc3VsdCwgZ2V0SW5wdXREaXIoKSwgZ2V0QmFja3VwRGlyKCkpOyAKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGJhY2t1cFBpcGVkRmlsZXMoTWFwKSAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGJhY2t1cEFsbFRlc3RQaXBlZEZpbGVzKE1hcDxTdHJpbmcsIExpc3Q8VG9nb1JvYW1pbmdEYXRhPj4gcmVzdWx0KSB7CgogICAgICAgIGxvZ2dlci5pbmZvKCJcclxuIC0gQmFja2luZyB1cCBSQVcgZmlsZXM6IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwogICAgICAgIGJhY2t1cEFsbEZpbGVzKHJlc3VsdCwgZ2V0SW5wdXREaXIoKSwgZ2V0QmFja3VwRGlyKCkpOyAKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
