@@ -21,9 +21,6 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1513806200816">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/model/B/BookingOptionTourTest.java" timestamp="1508545136521">
         <mark key="[" line="36" column="48" />
         <mark key="]" line="36" column="49" />
@@ -288,9 +285,6 @@
         <mark key="." line="26" column="40" />
         <mark key="^" line="26" column="40" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/ANPIMobileSystem/app/build.gradle" timestamp="1513978761391">
-        <mark key="[" line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/README.md" timestamp="1513021479008">
         <mark key="[" line="84" column="50" />
         <mark key="]" line="84" column="51" />
@@ -310,6 +304,12 @@
         <mark key="." line="45" column="35" />
         <mark key="^" line="45" column="35" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs/views/index.md" timestamp="1514574435987">
+        <mark key="[" line="21" column="75" />
+        <mark key="]" line="21" column="106" />
+        <mark key="^" line="21" column="106" />
+        <mark key="." line="21" column="106" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/basakpie/ui/LoginUI.java" timestamp="1512787793151">
         <mark key="[" line="25" column="13" />
         <mark key="]" line="25" column="15" />
@@ -327,9 +327,6 @@
         <mark key="]" line="1" column="3" />
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
-      </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/securitytrio/src/main/resources/templates/foo.html" timestamp="1513362624053">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/service/SourceDataSourceDBSQLServer.java" timestamp="1510796009328">
         <mark key="[" line="24" column="26" />
@@ -491,9 +488,6 @@
         <mark key="]" line="10" column="49" />
         <mark key="^" line="10" column="49" />
         <mark key="." line="10" column="49" />
-      </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/bulma.min.css" timestamp="1513816045842">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/pickuplocation.json" timestamp="1513819019000">
         <mark key="[" line="0" column="0" />
@@ -867,9 +861,6 @@
         <mark key="^" line="3" column="48" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/angular.min.js" timestamp="1513815937733">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/model/TourClientHotel.java" timestamp="1506738415857">
         <mark key="[" line="162" column="8" />
         <mark key="]" line="162" column="30" />
@@ -1007,6 +998,7 @@
         <mark key="." line="25" column="76" />
         <mark key="^" line="25" column="76" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs/views/jtl-converter/index.level1.md" timestamp="1514573685482" />
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/service/TargetDBSQLServer.java" timestamp="1510859838132">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="13" column="3" />
@@ -1114,9 +1106,6 @@
         <mark key="]" line="6" column="17" />
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="15" />
-      </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/webapp/VAADIN/themes/valo-default/styles.scss" timestamp="1512787873771">
-        <mark key="[" line="5" column="13" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/testopencsv/src/main/java/TestVolicty.java" timestamp="1506538231584">
         <mark key="[" line="7" column="13" />
@@ -1402,6 +1391,12 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="30" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs/views/miscellaneous/windows_commands.md" timestamp="1514573604272">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/utilitytools/list_rdt.sh" timestamp="1513020861545">
         <mark key="[" line="15" column="10" />
         <mark key="]" line="15" column="10" />
@@ -1449,6 +1444,12 @@
         <mark key="]" line="13" column="20" />
         <mark key="^" line="13" column="49" />
         <mark key="." line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs/views/pickup-locator-offline/index.level1.md" timestamp="1514574405832">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="124" />
+        <mark key="^" line="7" column="124" />
+        <mark key="." line="7" column="124" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/java/com/jtbhawaii/fzkmock/ErrorInfo.java" timestamp="1512172724027">
         <mark key="[" line="21" column="11" />
@@ -1882,10 +1883,10 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>validateBackupDir</text>
+        <text>http://missvr01b:8010/awu/</text>
       </register>
       <register name="-" type="4">
-        <text>validateBackupDir</text>
+        <text>http://missvr01b:8010/awu/</text>
       </register>
       <register name="/" type="4">
         <text>a valid</text>
@@ -1921,7 +1922,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGJhY2t1cEFsbFRlc3RQaXBlZEZpbGVzKE1hcDxTdHJpbmcsIExpc3Q8VG9nb1JvYW1pbmdEYXRhPj4gcmVzdWx0KSB7CgogICAgICAgIGxvZ2dlci5pbmZvKCJcclxuIC0gQmFja2luZyB1cCBSQVcgZmlsZXM6IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwogICAgICAgIGJhY2t1cEFsbEZpbGVzKHJlc3VsdCwgZ2V0SW5wdXREaXIoKSwgZ2V0QmFja3VwRGlyKCkpOyAKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1958,8 +1959,8 @@
         <entry>qw</entry>
         <entry>ws</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
