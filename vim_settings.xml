@@ -76,8 +76,12 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" timestamp="1514495327844">
-        <mark key="'" line="65" column="4" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" timestamp="1514580171384">
+        <mark key="'" line="162" column="20" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="152" column="19" />
+        <mark key="^" line="152" column="19" />
+        <mark key="." line="152" column="19" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/app.js" timestamp="1513974816436">
         <mark key="'" line="119" column="75" />
@@ -85,9 +89,6 @@
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
         <mark key="^" line="146" column="25" />
-      </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/model/TogoRoamingData.java" timestamp="1514333040430">
-        <mark key="'" line="4" column="37" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/exception/FDOriginalCopyException.java" timestamp="1507838307059">
         <mark key="[" line="5" column="22" />
@@ -641,6 +642,12 @@
         <mark key="^" line="5" column="76" />
         <mark key="." line="5" column="19" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/model/TogoFile.java" timestamp="1514580128351">
+        <mark key="[" line="28" column="49" />
+        <mark key="]" line="28" column="57" />
+        <mark key="^" line="28" column="57" />
+        <mark key="." line="28" column="57" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/ssconfig.ini" timestamp="1514410901282">
         <mark key="[" line="10" column="7" />
         <mark key="]" line="10" column="7" />
@@ -1130,6 +1137,12 @@
         <mark key="]" line="4" column="8" />
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="8" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/TogoFileTest.java" timestamp="1514580414483">
+        <mark key="[" line="23" column="54" />
+        <mark key="]" line="23" column="54" />
+        <mark key="." line="23" column="54" />
+        <mark key="^" line="23" column="61" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/java/com/jtbhawaii/fzkmock/SuperStarSyncResponse.java" timestamp="1512171975822">
         <mark key="[" line="18" column="47" />
@@ -1777,7 +1790,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="20" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/pom.xml" />
       <jump line="52" column="21" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/pom.xml" />
       <jump line="16" column="39" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/pom.xml" />
       <jump line="63" column="31" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/pom.xml" />
@@ -1877,49 +1889,50 @@
       <jump line="42" column="10" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/FDFileService.java" />
       <jump line="65" column="4" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" />
       <jump line="45" column="6" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
+      <jump line="161" column="20" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>http://missvr01b:8010/awu/</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>http://missvr01b:8010/awu/</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>a valid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInZhbGlkYXRlQmFja3VwRGlyKCkgLSBPSyBbIiArIGJhY2t1cERpci5nZXRQYXRoKCkgKyAiXSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIGRhdGFGaWxlQSA9IG5ldyBGaWxlKCJTREhOTDEwMDEuY3N2Iik7CiAgICAgICAgRmlsZSBoZWFkZXJGaWxlQSA9IG5ldyBGaWxlKCJTSEhOTDEwMDEuY3N2Iik7CiAgICAgICAgVG9nb0ZpbGUgdG9nb0ZpbGVBID0gbmV3IFRvZ29GaWxlKGRhdGFGaWxlQSwgaGVhZGVyRmlsZUEpOyAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIHRlc3QxID0gbmV3IEZpbGUoIlNEYWFhLnR4dCIpOyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VGhpcyBpcyBhCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">QXR0YWNoIGEgdmFyaWFibGUgY2FsbGVkIGB2YXIgZGF0YSA9IGAgaW4gdGhlIGZyb250IG9mIHRoZSBkYXRhIGFuCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBlZmZlY3RpdmVGcm9tID0gbW9lbW50KGhvdGVsWydFZmZlY3RpdmUgRnJvbSddKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZm9ybWF0ID0gCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5wdXREaXIubGlzdEZpbGVzKChkaXIsIGZpbGVOYW1lKSAtPiBmaWxlSW5QYWlyKGZpbGVOYW1lKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBBcnJheXMuc3RyZWFtKGlucHV0RGlyLmxpc3RGaWxlcygoZGlyLCBmaWxlTmFtZSkgLT4gaXNTdXBlclN0YXJIZWFkZXJGaWxlKGZpbGVOYW1lKSkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBBcnJheXMuc3RyZWFtKGlucHV0RGlyLmxpc3RGaWxlcygpKS5maWx0ZXIoKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBGaWxlW10gZmlsZXMgPSBpbnB1dERpci5saXN0RmlsZXMoKGRpciwgbmFtZSkgLT4gewoKICAgICAgICB9KTsKCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGJhY2t1cEFsbFRlc3RQaXBlZEZpbGVzKE1hcDxTdHJpbmcsIExpc3Q8VG9nb1JvYW1pbmdEYXRhPj4gcmVzdWx0KSB7CgogICAgICAgIGxvZ2dlci5pbmZvKCJcclxuIC0gQmFja2luZyB1cCBSQVcgZmlsZXM6IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwogICAgICAgIGJhY2t1cEFsbEZpbGVzKHJlc3VsdCwgZ2V0SW5wdXREaXIoKSwgZ2V0QmFja3VwRGlyKCkpOyAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
