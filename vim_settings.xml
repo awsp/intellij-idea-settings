@@ -827,11 +827,11 @@
         <mark key="^" line="24" column="54" />
         <mark key="." line="24" column="54" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/server.js" timestamp="1515016893397">
-        <mark key="[" line="18" column="46" />
-        <mark key="]" line="18" column="43" />
-        <mark key="." line="18" column="43" />
-        <mark key="^" line="18" column="43" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/server.js" timestamp="1515018347500">
+        <mark key="[" line="31" column="39" />
+        <mark key="]" line="31" column="44" />
+        <mark key="." line="31" column="44" />
+        <mark key="^" line="31" column="44" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/resources/application.properties" timestamp="1509418297467">
         <mark key="[" line="0" column="0" />
@@ -2016,10 +2016,10 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>&quot;Listening&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>&quot;Listening&quot;</text>
       </register>
       <register name="/" type="4">
         <text>IFF</text>
@@ -2028,31 +2028,31 @@
         <text encoding="base64">ICAgICAgICAgICAgU21iRmlsZVtdIHNtYkZpbGVzID0gc3VwZXIubGlzdEZpbGVzKGYgLT4gaXNEYXRhRmlsZShmLmdldE5hbWUoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaSsrOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJkaXNjb25uZWN0Iik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZGRkJyk7Cg==</text>
+        <text encoding="base64">aW8ub24oImRpc2Nvbm5lY3QiLCAoc29ja2V0KSA9PiB7CiAgY29uc29sZS5sb2coc29ja2V0KTsKfSk7IAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICNkcmEK</text>
+        <text encoding="base64">ICAgICAgaSsrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbGVmdDogCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZGRkJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDgwJTsK</text>
+        <text encoding="base64">ICAgICNkcmEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8ZGl2IGlkPSJkcmF3LWlubmVyIj48L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgbGVmdDogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8aDY+QW5ub3VuY2VtZW50PC9oNj4K</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IDgwJTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGRpdiBpZD0iZHJhdyI+CiAgPGg2PkFubm91bmNlbWVudDwvaDY+CiAgPGRpdiBpZD0iZHJhdy1pbm5lciI+PC9kaXY+CjwvZGl2Pg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICA8ZGl2IGlkPSJkcmF3LWlubmVyIj48L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJGJ1dHRvbi5zaG93KCk7Cg==</text>
+        <text encoding="base64">ICA8aDY+QW5ub3VuY2VtZW50PC9oNj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
