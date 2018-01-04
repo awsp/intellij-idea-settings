@@ -15,9 +15,9 @@
         <mark key="^" line="23" column="17" />
         <mark key="." line="23" column="17" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/utilitytools/filter_files.sh" timestamp="1513021805106">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="12" column="9" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/utilitytools/filter_files.sh" timestamp="1515090744381">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="26" column="1" />
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
@@ -245,11 +245,11 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/utilitytools/filter_bs.sh" timestamp="1515090184629">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="16" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/utilitytools/filter_bs.sh" timestamp="1515090524367">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
         <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="16" />
+        <mark key="." line="4" column="13" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi-system/src/main/webapp/VAADIN/themes/anpi/styles.scss" timestamp="1513625758239">
         <mark key="[" line="30" column="7" />
@@ -1509,6 +1509,12 @@
         <mark key="^" line="13" column="49" />
         <mark key="." line="13" column="19" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/utilitytools/ss_data_files.sh" timestamp="1515090976625">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="46" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="10" column="46" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFResponseFile.java" timestamp="1515015998908">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="22" />
@@ -1955,16 +1961,16 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>cat</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>cat</text>
       </register>
       <register name="/" type="4">
         <text>Herbert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU21iRmlsZVtdIHNtYkZpbGVzID0gc3VwZXIubGlzdEZpbGVzKGYgLT4gaXNEYXRhRmlsZShmLmdldE5hbWUoKSkpOwo=</text>
+        <text encoding="base64">aWYgWyAtZiAiJHJkdGxpc3QiIF0KdGhlbgogICAgZm9yIGZpbGUgaW4gYGNhdCByZHRfZmlsZWxpc3QuY3N2YDsgZG8gZWNobyAnQ29weWluZyBSRFQgZmlsZSBbJyRmaWxlJ10uLi4nOyBjcCAkMSRmaWxlICQyJGZpbGU7IGRvbmUKZWxzZQogICAgZWNobyAkcmR0bGlzdCIgZG9lcyBub3QgZXhpc3QuICIKZmkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
