@@ -684,11 +684,11 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/ssconfig.ini" timestamp="1514940281945">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="20" column="13" />
-        <mark key="^" line="20" column="13" />
-        <mark key="." line="20" column="13" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/ssconfig.ini" timestamp="1515097759312">
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="20" column="50" />
+        <mark key="^" line="20" column="50" />
+        <mark key="." line="20" column="50" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dataframe/src/main/java/com/jtbhawaii/dataframe/ui/AppUI.java" timestamp="1513806032779">
         <mark key="[" line="38" column="42" />
@@ -1545,11 +1545,11 @@
         <mark key="^" line="13" column="49" />
         <mark key="." line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/utilitytools/ss_data_files.sh" timestamp="1515090976625">
-        <mark key="[" line="10" column="43" />
-        <mark key="]" line="10" column="46" />
-        <mark key="^" line="10" column="46" />
-        <mark key="." line="10" column="46" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/utilitytools/ss_data_files.sh" timestamp="1515094236547">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFResponseFile.java" timestamp="1515015998908">
         <mark key="[" line="5" column="22" />
@@ -2013,10 +2013,10 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>cat</text>
+        <text>V:\</text>
       </register>
       <register name="-" type="4">
-        <text>cat</text>
+        <text>V:\</text>
       </register>
       <register name="/" type="4">
         <text>Herbert</text>
