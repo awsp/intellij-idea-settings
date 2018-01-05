@@ -148,6 +148,13 @@
         <mark key="." line="69" column="38" />
         <mark key="^" line="69" column="38" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/.gitignore" timestamp="1515113846662">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/README.md" timestamp="1515032114403">
         <mark key="'" line="34" column="16" />
         <mark key="[" line="64" column="202" />
@@ -257,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="45" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi-system/pom.xml" />
       <jump line="91" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi-system/pom.xml" />
       <jump line="17" column="48" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi-system/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dataframe/pom.xml" />
@@ -357,16 +363,17 @@
       <jump line="69" column="17" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/styles.css" />
       <jump line="47" column="29" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/index.html" />
       <jump line="23" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/index.html" />
+      <jump line="3" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNyY1NtYkZpbGUuZGVsZXRlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>operations</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>operations</text>
       </register>
       <register name="/" type="4">
         <text>Herbert</text>
