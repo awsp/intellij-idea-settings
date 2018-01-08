@@ -297,11 +297,12 @@
         <mark key="." line="59" column="69" />
         <mark key="^" line="59" column="69" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/collector/IFSmbFileTest.java" timestamp="1515117369187">
-        <mark key="[" line="9" column="46" />
-        <mark key="]" line="9" column="46" />
-        <mark key="^" line="9" column="46" />
-        <mark key="." line="9" column="46" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/collector/IFSmbFileTest.java" timestamp="1515436525758">
+        <mark key="'" line="14" column="46" />
+        <mark key="[" line="14" column="50" />
+        <mark key="]" line="14" column="53" />
+        <mark key="^" line="14" column="53" />
+        <mark key="." line="14" column="53" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fddatafixer/src/main/java/com/jtbhawaii/BookingOptionTourClientSS.java" timestamp="1510606196665">
         <mark key="[" line="100" column="41" />
@@ -1022,7 +1023,7 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1515191195582">
+      <file name="/fragment.java" timestamp="1515436527553">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -1148,9 +1149,9 @@
         <mark key="^" line="12" column="65" />
         <mark key="." line="12" column="65" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFSmbFile.java" timestamp="1515186745676">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="116" column="23" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFSmbFile.java" timestamp="1515436458628">
+        <mark key="'" line="20" column="11" />
+        <mark key="[" line="137" column="62" />
         <mark key="]" line="116" column="30" />
         <mark key="." line="116" column="30" />
         <mark key="^" line="116" column="30" />
@@ -1958,8 +1959,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/styles.css" />
-      <jump line="25" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/styles.css" />
       <jump line="10" column="20" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/styles.css" />
       <jump line="139" column="107" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/styles.css" />
       <jump line="3" column="17" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/styles.css" />
@@ -2058,22 +2057,24 @@
       <jump line="35" column="13" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileDistributor.java" />
       <jump line="266" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/TogoDataProcessor.java" />
       <jump line="15" column="42" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/FileService.java" />
+      <jump line="14" column="46" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/collector/IFSmbFileTest.java" />
+      <jump line="20" column="11" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFSmbFile.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>Inject</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIkZpbGUgb3BlcmF0aW9uIGVuZHMgYmVjYXVzZSBubyBwYWlyZWQgZmlsZXMgaXMgZm91bmQuICIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBJRlNtYkZpbGUgaWZTbWJGaWxlID0gbmV3IElGU21iRmlsZSgiU0RITkwxMDAwMDAwMS5jc3YiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNyY1NtYkZpbGUuZ2V0UGFyZW50KCkK</text>
