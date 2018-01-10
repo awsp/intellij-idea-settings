@@ -131,6 +131,11 @@
         <mark key="^" line="23" column="15" />
         <mark key="." line="23" column="15" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/log/fc-daily-report.log" timestamp="1515608280912">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="43" />
+        <mark key="." line="10" column="43" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmvadn_payroll/src/main/java/com/jtbhawaii/cmpayroll/service/PayrollCalculationService.java" timestamp="1511297003752">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -719,11 +724,11 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/ssconfig.ini" timestamp="1515552778868">
-        <mark key="[" line="20" column="47" />
-        <mark key="]" line="20" column="48" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/ssconfig.ini" timestamp="1515608653743">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="36" />
         <mark key="^" line="20" column="48" />
-        <mark key="." line="20" column="48" />
+        <mark key="." line="20" column="36" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dataframe/src/main/java/com/jtbhawaii/dataframe/ui/AppUI.java" timestamp="1513806032779">
         <mark key="[" line="38" column="42" />
@@ -2088,10 +2093,10 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>20180109-1 OK\</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>20180109-1 OK\</text>
       </register>
       <register name="/" type="4">
         <text>archive</text>
