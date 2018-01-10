@@ -1034,12 +1034,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/collector/IFLocalFileTest.java" timestamp="1515548169739">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/collector/IFLocalFileTest.java" timestamp="1515549356146">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="16" />
-        <mark key="]" line="49" column="16" />
-        <mark key="." line="49" column="16" />
-        <mark key="^" line="49" column="16" />
+        <mark key="[" line="37" column="16" />
+        <mark key="]" line="37" column="16" />
+        <mark key="." line="37" column="16" />
+        <mark key="^" line="37" column="16" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/springcli/src/main/java/com/jtbhawaii/springcli/SpringCLIApplication.java" timestamp="1509047651596">
         <mark key="[" line="48" column="9" />
@@ -1445,12 +1445,12 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFLocalFile.java" timestamp="1515545594007">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFLocalFile.java" timestamp="1515549458614">
         <mark key="'" line="152" column="12" />
-        <mark key="[" line="52" column="38" />
-        <mark key="]" line="52" column="38" />
-        <mark key="." line="52" column="38" />
-        <mark key="^" line="45" column="26" />
+        <mark key="[" line="40" column="109" />
+        <mark key="]" line="40" column="112" />
+        <mark key="." line="40" column="112" />
+        <mark key="^" line="40" column="112" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dataframe/src/main/webapp/VAADIN/themes/jtb/styles.scss" timestamp="1513716330183">
         <mark key="[" line="1" column="15" />
@@ -2082,10 +2082,10 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YSArIDEgPT0g</text>
+        <text>tail</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YSArIDEgPT0g</text>
+        <text>tail</text>
       </register>
       <register name="/" type="4">
         <text>archive</text>
@@ -2094,31 +2094,31 @@
         <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBhID0gSW50ZWdlci5wYXJzZUludChIZWxwZXIuZ2V0U3RlbSgiU0RITkwiLCBmLmdldE5hbWUoKSkucmVwbGFjZSh0YWlsLCAiIikpOyAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBhID0gSW50ZWdlci5wYXJzZUludChIZWxwZXIuZ2V0U3RlbSgiU0RITkwiLCBmLmdldE5hbWUoKSkucmVwbGFjZSh0YWlsLCAiIikpOyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRhaWwgPSAiVE8xIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYSA9IGEgKyAxOyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBhID0gSW50ZWdlci5wYXJzZUludChIZWxwZXIuZ2V0U3RlbSgiU0RITkwiLCBmLmdldE5hbWUoKSkucmVwbGFjZSh0YWlsLCAiIikpOyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gc2RobmwxID0gZm9vTGlzdC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLm1hcChmIC0+IEhlbHBlci5nZXRTdGVtKCJTREhOTCIsIGYuZ2V0TmFtZSgpKSkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYSA9IGEgKyAxOyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gc2RobmwxID0gZm9vTGlzdC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLm1hcChmIC0+IEhlbHBlci5nZXRTdGVtKCJTREhOTCIsIGYuZ2V0TmFtZSgpKSkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXh0ID0gIi5jc3YiOyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb29MaXN0LnN0cmVhbSgpLm1hcChGb286OmdldE5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXh0ID0gIi5jc3YiOyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb29MaXN0Lm1hcChmIC0+KSAK</text>
+        <text encoding="base64">ICAgICAgICBmb29MaXN0LnN0cmVhbSgpLm1hcChGb286OmdldE5hbWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBmb29MaXN0Lm1hcChmIC0+KSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
