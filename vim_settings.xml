@@ -15,6 +15,12 @@
         <mark key="^" line="23" column="17" />
         <mark key="." line="23" column="17" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-spring-security/src/main/java/com/jtbhawaii/vaadinspringsecurity/ui/LoginUI.java" timestamp="1516220697281">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/utilitytools/filter_files.sh" timestamp="1515090744381">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="26" column="1" />
@@ -1165,7 +1171,7 @@
         <mark key="." line="37" column="16" />
         <mark key="^" line="37" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1516216667857">
+      <file name="/fragment.java" timestamp="1516220208889">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
@@ -1788,6 +1794,12 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-spring-security/src/main/java/com/jtbhawaii/vaadinspringsecurity/ui/AppUI.java" timestamp="1516220279407">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmpayroll/pom.xml" timestamp="1511221229692">
         <mark key="[" line="110" column="0" />
         <mark key="]" line="110" column="0" />
@@ -2156,11 +2168,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-spring-security/src/main/java/com/jtbhawaii/vaadinspringsecurity/PageController.java" timestamp="1516218962994">
-        <mark key="[" line="9" column="29" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-spring-security/src/main/java/com/jtbhawaii/vaadinspringsecurity/PageController.java" timestamp="1516220167553">
+        <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="20" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/ui/ErrorView.java" timestamp="1511899808665">
         <mark key="[" line="13" column="0" />
@@ -2351,28 +2362,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy52YWFkaW4uc3ByaW5nLmV4dGVuc2lvbnM6dmFhZGluLXNwcmluZy1leHQtYm9vdCcKICAgIGNvbXBpbGUgJ29yZy52YWFkaW4uc3ByaW5nLmV4dGVuc2lvbnM6dmFhZGluLXNwcmluZy1leHQtc2VjdXJpdHknCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVmFhZGluU2VjdXJpdHkgdmFhZGluCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmFhZGluU2VjCg==</text>
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmFhZGluU2VjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZyb20gJ3NyYy9tYWluLycK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy52YWFkaW4uc3ByaW5nLmV4dGVuc2lvbnM6dmFhZGluLXNwcmluZy1leHQtYm9vdCcKICAgIGNvbXBpbGUgJ29yZy52YWFkaW4uc3ByaW5nLmV4dGVuc2lvbnM6dmFhZGluLXNwcmluZy1leHQtc2VjdXJpdHknCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVmFhZGluU2VjCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VydmVyLnBvcnQgPSA5MDAxCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVmFhZGluU2VjCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWNvbXBpbGUoJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC0nKQo=</text>
+        <text encoding="base64">ICAgIGZyb20gJ3NyYy9tYWluLycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3NzRGRkU3NzCg==</text>
+        <text encoding="base64">ICAgICAgICBqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
