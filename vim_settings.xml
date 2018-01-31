@@ -796,6 +796,12 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs2/src/main/java/MISDocs.java" timestamp="1517429230846">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/springvaadin-security-trio/src/main/java/com/jtbhawaii/springvaadinsecuritytrio/AbstractView.java" timestamp="1515639473194">
         <mark key="[" line="13" column="5" />
         <mark key="]" line="7" column="3" />
@@ -861,6 +867,12 @@
         <mark key="]" line="13" column="20" />
         <mark key="^" line="13" column="49" />
         <mark key="." line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs2/src/main/java/com/jtbhawaii/MISDocs.java" timestamp="1517429695772">
+        <mark key="[" line="12" column="50" />
+        <mark key="]" line="13" column="32" />
+        <mark key="^" line="13" column="32" />
+        <mark key="." line="13" column="32" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFResponseFile.java" timestamp="1515807761207">
         <mark key="[" line="5" column="0" />
@@ -2240,11 +2252,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBIVE1MUgo=</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>TAIL</text>
@@ -2253,7 +2265,7 @@
         <text>http://missvr01b:8082/storage/vms/v2.75.01/VMSSetup.exe</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBIVE1MUgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -2262,22 +2274,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RZCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQyWzBdID0gbmV3IEZpbGUoIlNISE5MMTAwMDAwMDEuY3N2Iik7CiAgICAgICAgc2V0MlsxXSA9IG5ldyBGaWxlKCJTSEhOTDEwMDAwMDAyLmNzdiIpOwogICAgICAgIHNldDJbMl0gPSBuZXcgRmlsZSgiU0hITkwxMDAwMDAwMy5jc3YiKTsKCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RZCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQxWzBdID0gbmV3IEZpbGUoIlNESE5MMTAwMDAwMDEuY3N2Iik7CiAgICAgICAgc2V0MVsxXSA9IG5ldyBGaWxlKCJTREhOTDEwMDAwMDAyLmNzdiIpOwoK</text>
+        <text encoding="base64">ICAgICAgICBzZXQyWzBdID0gbmV3IEZpbGUoIlNISE5MMTAwMDAwMDEuY3N2Iik7CiAgICAgICAgc2V0MlsxXSA9IG5ldyBGaWxlKCJTSEhOTDEwMDAwMDAyLmNzdiIpOwogICAgICAgIHNldDJbMl0gPSBuZXcgRmlsZSgiU0hITkwxMDAwMDAwMy5jc3YiKTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlVHlwZS4K</text>
+        <text encoding="base64">ICAgICAgICBzZXQxWzBdID0gbmV3IEZpbGUoIlNESE5MMTAwMDAwMDEuY3N2Iik7CiAgICAgICAgc2V0MVsxXSA9IG5ldyBGaWxlKCJTREhOTDEwMDAwMDAyLmNzdiIpOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJRkxvY2FsRmlsZSBsb2NhbEZpbGUgPSBuZXcgSUZMb2NhbEZpbGUoImFzZGYuY3N2Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlVHlwZS4K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBjbGFzcyBGb28gewogICAgICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7CgogICAgICAgIHB1YmxpYyBGb28oU3RyaW5nIG5hbWUpIHsKICAgICAgICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsKICAgICAgICAgICAgcmV0dXJuIG5hbWU7CiAgICAgICAgfQogICAgfQoKLy8gICAgQFRlc3QKLy8gICAgcHVibGljIHZvaWQgdGVzdCgpIHRocm93cyBFeGNlcHRpb24gewovLyAgICAgICAgTGlzdDxGb28+IGZvb0xpc3QgPSBuZXcgQXJyYXlMaXN0PD4oQXJyYXlzLmFzTGlzdCgKLy8gICAgICAgICAgICAgICAgbmV3IEZvbygiU0RITkwxMDAwMDFUTzEuY3N2IiksCi8vICAgICAgICAgICAgICAgIG5ldyBGb28oIlNESE5MMTAwMDAyVE8xLmNzdiIpLAovLyAgICAgICAgICAgICAgICBuZXcgRm9vKCJTREhOTDEwMDAwM1RPMS5jc3YiKSwKLy8gICAgICAgICAgICAgICAgbmV3IEZvbygiU0RITkwxMDAwMDRUTzEuY3N2IiksCi8vICAgICAgICAgICAgICAgIG5ldyBGb28oIlNESE5MMTAwMDA2VE8xLmNzdiIpCi8vICAgICAgICApKTsKLy8KLy8gICAgICAgIFN0cmluZyB0YWlsID0gIlRPMSI7Ci8vICAgICAgICBPcHRpb25hbDxTdHJpbmc+IHNkaG5sID0gZm9vTGlzdC5zdHJlYW0oKS5tYXAoZiAtPiBIZWxwZXIuZ2V0U3RlbSgiU0RITkwiLCBmLmdldE5hbWUoKSkpLmZpbmRGaXJzdCgpOwovLyAgICAgICAgYXNzZXJ0VGhhdChzZGhubC5pc1ByZXNlbnQoKSwgaXModHJ1ZSkpOwovLyAgICAgICAgYXNzZXJ0VGhhdChzZGhubC5nZXQoKSwgaXMoZXF1YWxUbygiMTAwMDAxVE8xIikpKTsKLy8KLy8gICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgZm9vTGlzdC5zaXplKCk7IGkrKykgewovLyAgICAgICAgICAgIEZvbyBmID0gZm9vTGlzdC5nZXQoaSk7Ci8vICAgICAgICAgICAgSW50ZWdlciBhID0gSW50ZWdlci5wYXJzZUludChIZWxwZXIuZ2V0U3RlbSgiU0RITkwiLCBmLmdldE5hbWUoKSkucmVwbGFjZSh0YWlsLCAiIikpOwovLyAgICAgICAgICAgIEludGVnZXIgZXhwZWN0ZWQgPSBhICsgMTsKLy8gICAgICAgICAgICBGb28gZjIgPSBmb29MaXN0LmdldChpICsgMSk7Ci8vICAgICAgICAgICAgSW50ZWdlciBiID0gSW50ZWdlci5wYXJzZUludChIZWxwZXIuZ2V0U3RlbSgiU0RITkwiLCBmMi5nZXROYW1lKCkpLnJlcGxhY2UodGFpbCwgIiIpKTsKLy8gICAgICAgICAgICBpZiAoIWV4cGVjdGVkLmVxdWFscyhiKSkgewovLyAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZi5nZXROYW1lKCkpOwovLyAgICAgICAgICAgICAgICBicmVhazsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Ci8vCi8vICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBJRkxvY2FsRmlsZSBsb2NhbEZpbGUgPSBuZXcgSUZMb2NhbEZpbGUoImFzZGYuY3N2Iik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
