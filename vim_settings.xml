@@ -301,6 +301,12 @@
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/collector/IFSmbFileTest.java" timestamp="1517518936465">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="24" />
+        <mark key="." line="28" column="24" />
+        <mark key="^" line="27" column="66" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fddatafixer/src/main/java/com/jtbhawaii/BookingOptionTourClientSS.java" timestamp="1510606196665">
         <mark key="[" line="100" column="41" />
         <mark key="]" line="100" column="42" />
@@ -1069,12 +1075,12 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/collector/IFLocalFileTest.java" timestamp="1517516838530">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="70" column="29" />
-        <mark key="]" line="70" column="30" />
-        <mark key="." line="70" column="30" />
-        <mark key="^" line="75" column="54" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/collector/IFLocalFileTest.java" timestamp="1517518672624">
+        <mark key="'" line="43" column="58" />
+        <mark key="[" line="105" column="46" />
+        <mark key="]" line="105" column="46" />
+        <mark key="." line="105" column="46" />
+        <mark key="^" line="105" column="47" />
       </file>
       <file name="/fragment.java" timestamp="1517516833989">
         <mark key="[" line="0" column="0" />
@@ -1201,6 +1207,12 @@
         <mark key="]" line="12" column="65" />
         <mark key="^" line="12" column="65" />
         <mark key="." line="12" column="65" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFSmbFile.java" timestamp="1517518835024">
+        <mark key="[" line="169" column="100" />
+        <mark key="]" line="169" column="103" />
+        <mark key="^" line="169" column="103" />
+        <mark key="." line="169" column="103" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/app/view1/view1.html" timestamp="1513815015500">
         <mark key="[" line="0" column="4" />
@@ -1520,12 +1532,12 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFLocalFile.java" timestamp="1516911351962">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFLocalFile.java" timestamp="1517518479921">
         <mark key="'" line="155" column="12" />
-        <mark key="[" line="121" column="53" />
-        <mark key="]" line="121" column="55" />
-        <mark key="^" line="121" column="55" />
-        <mark key="." line="121" column="55" />
+        <mark key="[" line="159" column="15" />
+        <mark key="]" line="159" column="68" />
+        <mark key="^" line="159" column="68" />
+        <mark key="." line="159" column="68" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dataframe/src/main/webapp/VAADIN/themes/jtb/styles.scss" timestamp="1513716330183">
         <mark key="[" line="1" column="15" />
@@ -2153,9 +2165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="22" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
-      <jump line="161" column="19" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
-      <jump line="172" column="34" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
       <jump line="188" column="22" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
       <jump line="197" column="19" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
       <jump line="206" column="30" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
@@ -2253,49 +2262,52 @@
       <jump line="24" column="1" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/gradletrio/build.gradle" />
       <jump line="41" column="27" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/Application.java" />
       <jump line="10" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/collector/IFLocalFileTest.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/collector/IFLocalFileTest.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/collector/IFLocalFileTest.java" />
+      <jump line="43" column="58" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/collector/IFLocalFileTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZXh0ZW5kcyAg</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXh0ZW5kcyAg</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>TAIL</text>
       </register>
-      <register name="0" type="4">
-        <text>http://missvr01b:8082/storage/vms/v2.75.01/VMSSetup.exe</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBJRlNtYkZpbGUgZmlsZTMgPSBuZXcgSUZTbWJGaWxlKCJzbWI6Ly9TREhOTDEwMDEwMDA0LmNzdiIpOwogICAgICAgIElGU21iRmlsZSBmaWxlNCA9IG5ldyBJRlNtYkZpbGUoInNtYjovL1NISE5MMTAwMTAwMDMuY3N2Iik7CiAgICAgICAgYXNzZXJ0VGhhdChmaWxlMy5jb21wYXJlVG8oZmlsZTQpLCBpcygxKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlcmUiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZShnZXRDbGFzcygpLmdldFJlc291cmNlKCIvIikudG9VUkkoKS5nZXRQYXRoKCkpIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQYXJzZXIgcGFyc2VyID0gUGFyc2VyLmJ1aWxkZXIoKS5idWlsZCgpOwogICAgICAgIE5vZGUgZG9jdW1lbnQgPSBwYXJzZXIucGFyc2UoIlRoaXMgaXMgYSAqKmJvbGQqKiB3b3JkIik7CiAgICAgICAgSHRtbFJlbmRlcmVyIHJlbmRlcmVyID0gSHRtbFJlbmRlcmVyLmJ1aWxkZXIoKS5idWlsZCgpOwogICAgICAgIFN0cmluZyByZW5kZXIgPSByZW5kZXJlci5yZW5kZXIoZG9jdW1lbnQpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZW5kZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBJZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGRpciA9IG5ldyBGaWxlKCkK</text>
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIkR1IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBIVE1MUgo=</text>
+        <text encoding="base64">ICAgICAgICBzZXQxWzBdID0gbmV3IEZpbGUoIlNESE5MMTAwMDAwMDIuY3N2Iik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXQxWzBdID0gbmV3IEZpbGUoIlNESE5MMTAwMDAwMDIuY3N2Iik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
