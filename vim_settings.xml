@@ -15,6 +15,12 @@
         <mark key="^" line="23" column="17" />
         <mark key="." line="23" column="17" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs2/src/test/java/com/jtbhawaii/misdocs2/model/DocumentTest.java" timestamp="1517863480181">
+        <mark key="[" line="27" column="71" />
+        <mark key="]" line="27" column="75" />
+        <mark key="." line="27" column="75" />
+        <mark key="^" line="27" column="75" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-spring-security/src/main/java/com/jtbhawaii/vaadinspringsecurity/ui/LoginUI.java" timestamp="1516221226536">
         <mark key="[" line="16" column="44" />
         <mark key="]" line="16" column="43" />
@@ -27,7 +33,7 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1517624208186">
+      <file name="/a.dummy" timestamp="1517863434104">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/model/B/BookingOptionTourTest.java" timestamp="1508545136521">
@@ -119,6 +125,12 @@
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs2/src/main/resources/static/test.mis_manager.md" timestamp="1517861030490">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs/src/main/java/com/jtbhawaii/misdocs/ui/AppUI.java" timestamp="1508440815291">
         <mark key="[" line="51" column="48" />
@@ -299,11 +311,6 @@
         <mark key="]" line="16" column="1" />
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
-      </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/collector/IFSmbFileTest.java" timestamp="1517521384052">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fddatafixer/src/main/java/com/jtbhawaii/BookingOptionTourClientSS.java" timestamp="1510606196665">
         <mark key="[" line="100" column="41" />
@@ -623,6 +630,12 @@
         <mark key="^" line="136" column="24" />
         <mark key="." line="136" column="24" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs2/src/main/java/com/jtbhawaii/misdocs2/Document.java" timestamp="1517861694715">
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dataframe/src/main/resources/static/index.html" timestamp="1513713667873">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="5" column="3" />
@@ -941,7 +954,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517623219180">
+      <file name="/Dummy.txt" timestamp="1517860123891">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/testopencsv/src/main/java/TestVeocity.java" timestamp="1506538244003">
@@ -1088,14 +1101,7 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/collector/IFLocalFileTest.java" timestamp="1517518672624">
-        <mark key="'" line="43" column="58" />
-        <mark key="[" line="105" column="46" />
-        <mark key="]" line="105" column="46" />
-        <mark key="." line="105" column="46" />
-        <mark key="^" line="105" column="47" />
-      </file>
-      <file name="/fragment.java" timestamp="1517623219176">
+      <file name="/fragment.java" timestamp="1517862948015">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -1557,13 +1563,6 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFLocalFile.java" timestamp="1517518479921">
-        <mark key="'" line="155" column="12" />
-        <mark key="[" line="159" column="15" />
-        <mark key="]" line="159" column="68" />
-        <mark key="^" line="159" column="68" />
-        <mark key="." line="159" column="68" />
-      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dataframe/src/main/webapp/VAADIN/themes/jtb/styles.scss" timestamp="1513716330183">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="16" />
@@ -1726,6 +1725,12 @@
         <mark key="^" line="5" column="80" />
         <mark key="." line="5" column="80" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs2/src/main/java/com/jtbhawaii/misdocs2/model/Document.java" timestamp="1517863333183">
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="28" column="21" />
+        <mark key="." line="28" column="21" />
+        <mark key="^" line="28" column="21" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/resources/application-client.yml" timestamp="1510791054526">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="25" />
@@ -1828,11 +1833,10 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs2/src/main/java/com/jtbhawaii/misdocs2/PageController.java" timestamp="1517859633169">
-        <mark key="[" line="43" column="105" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="43" column="7" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs2/src/main/java/com/jtbhawaii/misdocs2/PageController.java" timestamp="1517863814206">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs2/src/main/resources/static/test2.md" timestamp="1517614787044">
         <mark key="[" line="0" column="0" />
@@ -2098,6 +2102,12 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs2/src/main/resources/static/aaaa.anyone.md" timestamp="1517861046473">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/network-diagram/big_island.koa_office/index.html" timestamp="1516656877852">
         <mark key="[" line="13" column="63" />
         <mark key="]" line="13" column="63" />
@@ -2211,6 +2221,12 @@
         <mark key="]" line="23" column="94" />
         <mark key="^" line="23" column="94" />
         <mark key="." line="23" column="94" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs2/src/main/java/com/jtbhawaii/misdocs2/PrivilegeLevel.java" timestamp="1517863202940">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="10" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/security/Role.java" timestamp="1516825923475">
         <mark key="[" line="2" column="0" />
@@ -2332,43 +2348,43 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTZWN1cml0eUNvbnRleHRIb2xkZXIuZ2V0Qwo=</text>
       </register>
       <register name="-" type="4">
-        <text>/page/**</text>
+        <text>MIS_MANAGER</text>
       </register>
       <register name="/" type="4">
         <text>TAIL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIHN0YXRpY0RpciA9IG5ldyBDbGFzc1BhdGhSZXNvdXJjZSgic3RhdGljLyIpLmdldEZpbGUoKTsKICAgICAgICBGaWxlW10gZmlsZXMgPSBzdGF0aWNEaXIubGlzdEZpbGVzKCk7CiAgICAgICAgaWYgKGZpbGVzICE9IG51bGwpIHsKICAgICAgICAgICAgZm9yIChGaWxlIGZpbGUgOiBmaWxlcykgewogICAgICAgICAgICAgICAgRmlsZVJlYWRlciByZWFkZXIgPSBuZXcgRmlsZVJlYWRlcihmaWxlKTsKICAgICAgICAgICAgICAgIEJ1ZmZlcmVkUmVhZGVyIGJ1ZmZlcmVkUmVhZGVyID0gbmV3IEJ1ZmZlcmVkUmVhZGVyKHJlYWRlcik7CiAgICAgICAgICAgICAgICBTdHJpbmcgbGluZSA9IGJ1ZmZlcmVkUmVhZGVyLnJlYWRMaW5lKCk7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGluZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBEb2N1bWVudCBkb2MyID0gbmV3IERvY3VtZW50KCIvcGF0aC90by90ZXN0Lm1pc19tYW5hZ2VyLm1kIik7CiAgICAgICAgYXNzZXJ0VGhhdChkb2MyLmdldFByaXZpbGVnZUxldmVsKCksIGlzKGVxdWFsVG8oUHJpdmlsZWdlTGV2ZWwuTUlTX01BTkFHRVIpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTZWN1cml0eUNvbnRleHRIb2xkZXIuZ2V0Qwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5HZXR0ZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3ByaW5nQm9vdCB7CglleGVjdXRhYmxlOiB0cnVlCn0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBHZXR0ZXIK</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKGlzUHJpdmlsZWdlZCgpKSB7CgogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS5pby5DbGFzc1BhdGhSZXNvdXJjZTsK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIHsKCiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXRjaGVyLmdyb3VwKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nQnVpbGRlciByZXN1bHQgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBNYXRjaFJlc3VsdCBtYXRjaFJlc3VsdCA9IG1hdGNoZXIudG9NYXRjaFJlc3VsdCgpOwogICAgICAgIG1hdGNoUmVzdWx0Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzdWx0ID0gIiI7IAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5nZXROYW1lKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
