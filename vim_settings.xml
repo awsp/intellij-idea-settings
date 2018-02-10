@@ -712,11 +712,12 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/config/VaadinSpringConfiguration.java" timestamp="1518051901872">
-        <mark key="[" line="108" column="19" />
-        <mark key="]" line="108" column="19" />
-        <mark key="." line="108" column="19" />
-        <mark key="^" line="0" column="21" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/config/VaadinSpringConfiguration.java" timestamp="1518223607277">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="69" column="38" />
+        <mark key="]" line="69" column="38" />
+        <mark key="." line="69" column="38" />
+        <mark key="^" line="69" column="47" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs/src/main/java/com/jtbhawaii/misdocs/MisdocsApplication.java" timestamp="1508294489438">
         <mark key="[" line="6" column="22" />
@@ -1043,12 +1044,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/build.gradle" timestamp="1517969511369">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="55" column="21" />
-        <mark key="]" line="55" column="29" />
-        <mark key="." line="55" column="29" />
-        <mark key="^" line="55" column="29" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/build.gradle" timestamp="1518223295473">
+        <mark key="'" line="55" column="11" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-spring-security/src/main/resources/application-local.yml" timestamp="1516216431217">
         <mark key="[" line="0" column="0" />
@@ -1299,11 +1299,11 @@
         <mark key="." line="84" column="51" />
         <mark key="^" line="78" column="104" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/security/UserRepository.java" timestamp="1516825737325">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="0" column="20" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/security/UserRepository.java" timestamp="1518222604386">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/distributor/model/P/TourClient.java" timestamp="1515617405983">
         <mark key="[" line="20" column="19" />
@@ -1582,11 +1582,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/domain/Article.java" timestamp="1518028569199">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="15" column="24" />
-        <mark key="^" line="15" column="24" />
-        <mark key="." line="15" column="24" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/domain/Article.java" timestamp="1518223218884">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+        <mark key="^" line="14" column="32" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/testopencsv/src/main/java/TestVeocity.java" timestamp="1506538244003">
         <mark key="[" line="7" column="13" />
@@ -1594,11 +1594,11 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/resources/application.yml" timestamp="1516828186349">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="7" column="11" />
-        <mark key="^" line="7" column="11" />
-        <mark key="." line="7" column="11" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/resources/application.yml" timestamp="1518223318248">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmpa/src/main/java/com/jtbhawaii/hr/cmpa/ui/bean/Person.java" timestamp="1507948951452">
         <mark key="[" line="21" column="24" />
@@ -1798,11 +1798,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/view/AdminView1.java" timestamp="1516826052669">
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="22" column="37" />
-        <mark key="^" line="22" column="37" />
-        <mark key="." line="22" column="37" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/view/AdminView1.java" timestamp="1518223248398">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="67" column="70" />
+        <mark key="]" line="67" column="71" />
+        <mark key="." line="67" column="71" />
+        <mark key="^" line="67" column="71" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs2/src/main/resources/test.md" timestamp="1517433437683">
         <mark key="[" line="0" column="14" />
@@ -2071,6 +2072,12 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/repository/ArticleRepository.java" timestamp="1518223195868">
+        <mark key="[" line="5" column="73" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/gradletrio/src/main/java/com/jtbhawaii/gradletrio/MainController.java" timestamp="1516822189186">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -2337,13 +2344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="408" column="34" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
-      <jump line="265" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileDistributor.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileDistributor.java" />
-      <jump line="119" column="10" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileDistributor.java" />
-      <jump line="7" column="23" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/data_converter/dataflatten.js" />
-      <jump line="42" column="10" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/FDFileService.java" />
-      <jump line="65" column="4" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" />
       <jump line="45" column="6" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
       <jump line="161" column="20" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" />
       <jump line="203" column="41" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" />
@@ -2437,16 +2437,23 @@
       <jump line="97" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/securitytrio/src/main/java/com/jtbhawaii/securitytrio/entities/User.java" />
       <jump line="14" column="28" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/securitytrio/src/main/java/com/jtbhawaii/securitytrio/entities/User.java" />
       <jump line="47" column="50" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/ui/MainUI.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/view/AdminView1.java" />
+      <jump line="55" column="11" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/build.gradle" />
+      <jump line="59" column="11" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/view/AdminView1.java" />
+      <jump line="38" column="7" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/view/AdminView1.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/view/AdminView1.java" />
+      <jump line="4" column="22" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/config/VaadinSpringConfiguration.java" />
+      <jump line="114" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/config/VaadinSpringConfiguration.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>disable</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>disable</text>
       </register>
       <register name="/" type="4">
         <text>com.bas</text>
@@ -2454,35 +2461,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBEb2N1bWVudCBkb2MyID0gbmV3IERvY3VtZW50KCIvcGF0aC90by90ZXN0Lm1pc19tYW5hZ2VyLm1kIik7CiAgICAgICAgYXNzZXJ0VGhhdChkb2MyLmdldFByaXZpbGVnZUxldmVsKCksIGlzKGVxdWFsVG8oUHJpdmlsZWdlTGV2ZWwuTUlTX01BTkFHRVIpKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>spring.datasource.url=jdbc:h2:mem:testdb
-spring.datasource.driver-class-name=org.h2.Driver
-spring.datasource.username=sa
-spring.jpa.database-platform=org.hibernate.dialect.H2Dialect</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbnRNYXRjaGVycygiL2gyLWNvbnNvbGUvKioiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UuZGF0YS11c2VybmFtZT07Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3ByaW5nLmpwYS5kYXRhYmFzZT1oMgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyIAo=</text>
+        <text encoding="base64">ICAgIHZvaWQgc2F2ZShBcnRpY2xlIGFydGljbGUpOyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hcnRpY2xlUmVwb3NpdG9yeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRTaXplRnVsbCgpOwogICAgICAgIHNldFZpZXdIZWFkZXIoIkFkbWluVmlldzEiLCBWYWFkaW5JY29ucy5BRERfRE9DSyk7CgogICAgICAgIG5ld0J0bi5hZGRTdHlsZU5hbWUoVmFsb1RoZW1lLkJVVFRPTl9QUklNQVJZKTsKICAgICAgICBuZXdCdG4uc2V0SWNvbihWYWFkaW5JY29ucy5QTFVTX0NJUkNMRSk7CgogICAgICAgIGRlbEJ0bi5hZGRTdHlsZU5hbWUoVmFsb1RoZW1lLkJVVFRPTl9EQU5HRVIpOwogICAgICAgIGRlbEJ0bi5zZXRJY29uKFZhYWRpbkljb25zLk1JTlVTX0NJUkNMRSk7CgogICAgICAgIGFkZFRvb2xiYXJDb21wb25lbnRzKG5ld0J0biwgZGVsQnRuKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
