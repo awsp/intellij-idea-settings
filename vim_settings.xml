@@ -81,6 +81,12 @@
         <mark key="." line="33" column="117" />
         <mark key="^" line="33" column="117" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/authentication_en.js" timestamp="1518660773995">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="50" />
+        <mark key="." line="13" column="50" />
+        <mark key="^" line="13" column="50" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/java/com/jtbhawaii/fzkmock/SSError.java" timestamp="1512173381096">
         <mark key="[" line="26" column="25" />
         <mark key="]" line="27" column="35" />
@@ -583,6 +589,13 @@
         <mark key="]" line="8" column="30" />
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" timestamp="1518660750212">
+        <mark key="'" line="11" column="31" />
+        <mark key="[" line="174" column="119" />
+        <mark key="]" line="174" column="120" />
+        <mark key="." line="174" column="120" />
+        <mark key="^" line="174" column="123" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/hr_payroll/src/main/java/com/jtb/hr/report/DriverTotalHoursReport.java" timestamp="1507947768565">
         <mark key="[" line="26" column="0" />
@@ -2101,6 +2114,13 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="11" column="27" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" timestamp="1518661911612">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="110" column="25" />
+        <mark key="]" line="111" column="17" />
+        <mark key="." line="111" column="17" />
+        <mark key="^" line="111" column="17" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs/views/pickup-locator-offline/index.level1.md" timestamp="1517280097524">
         <mark key="[" line="21" column="30" />
         <mark key="]" line="21" column="28" />
@@ -2355,33 +2375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="6" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/validator/FDConfigValidator.java" />
-      <jump line="161" column="20" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" />
-      <jump line="203" column="41" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" />
-      <jump line="117" column="15" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" />
-      <jump line="12" column="28" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/BookingResponseFileProcessor.java" />
-      <jump line="10" column="27" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/BookingResponseFileProcessor.java" />
-      <jump line="55" column="44" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/BookingResponseFileProcessor.java" />
-      <jump line="32" column="25" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFLocalFile.java" />
-      <jump line="52" column="6" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/BookingResponseFileProcessor.java" />
-      <jump line="54" column="41" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFLocalFile.java" />
-      <jump line="57" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFLocalFile.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/BookingResponseFileProcessor.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/BookingResponseFileProcessor.java" />
-      <jump line="54" column="54" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/BookingResponseFileProcessor.java" />
-      <jump line="63" column="19" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/BookingResponseFileProcessor.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/BookingResponseFileProcessor.java" />
-      <jump line="155" column="4" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" />
-      <jump line="71" column="11" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/BookingResponseFileProcessor.java" />
-      <jump line="16" column="30" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/BookingResponseFileProcessor.java" />
-      <jump line="67" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/BookingResponseFileProcessor.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/BookingResponseFileProcessor.java" />
-      <jump line="37" column="6" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/BookingResponseFileProcessor.java" />
-      <jump line="13" column="41" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFLocalFile.java" />
-      <jump line="24" column="40" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFLocalFile.java" />
-      <jump line="25" column="4" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFSmbFile.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFSmbFile.java" />
       <jump line="9" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/README.md" />
       <jump line="33" column="16" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/README.md" />
       <jump line="69" column="17" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/styles.css" />
@@ -2455,71 +2448,90 @@
       <jump line="52" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/view/AdminView1.java" />
       <jump line="4" column="22" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/config/VaadinSpringConfiguration.java" />
       <jump line="114" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/config/VaadinSpringConfiguration.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
+      <jump line="73" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
+      <jump line="258" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
+      <jump line="281" column="10" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
+      <jump line="25" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
+      <jump line="10" column="32" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
+      <jump line="14" column="41" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
+      <jump line="131" column="30" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
+      <jump line="26" column="21" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
+      <jump line="179" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
+      <jump line="25" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
+      <jump line="85" column="6" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
+      <jump line="9" column="16" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
+      <jump line="59" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
+      <jump line="175" column="9" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
+      <jump line="114" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
+      <jump line="186" column="7" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
+      <jump line="158" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
+      <jump line="2" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
+      <jump line="11" column="31" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
+      <jump line="17" column="21" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
+      <jump line="60" column="21" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
+      <jump line="15" column="25" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
+      <jump line="88" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
+      <jump line="103" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;clicked&quot;</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;clicked&quot;</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>com.bas</text>
+        <text>footer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEb2N1bWVudCBkb2MyID0gbmV3IERvY3VtZW50KCIvcGF0aC90by90ZXN0Lm1pc19tYW5hZ2VyLm1kIik7CiAgICAgICAgYXNzZXJ0VGhhdChkb2MyLmdldFByaXZpbGVnZUxldmVsKCksIGlzKGVxdWFsVG8oUHJpdmlsZWdlTGV2ZWwuTUlTX01BTkFHRVIpKSk7Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICNmZjMwMTk7IC8qIE9sZCBicm93c2VycyAqLwogICAgYmFja2dyb3VuZDogLW1vei1saW5lYXItZ3JhZGllbnQodG9wLCAjZmYzMDE5IDAlLCAjZGIxMjA0IDEwMCUpOyAvKiBGRjMuNi0xNSAqLwogICAgYmFja2dyb3VuZDogLXdlYmtpdC1saW5lYXItZ3JhZGllbnQodG9wLCAjZmYzMDE5IDAlLCAjZGIxMjA0IDEwMCUpOyAvKiBDaHJvbWUxMC0yNSxTYWZhcmk1LjEtNiAqLwogICAgYmFja2dyb3VuZDogbGluZWFyLWdyYWRpZW50KHRvIGJvdHRvbSwgI2ZmMzAxOSAwJSwgI2RiMTIwNCAxMDAlKTsgLyogVzNDLCBJRTEwKywgRkYxNissIENocm9tZTI2KywgT3BlcmExMissIFNhZmFyaTcrICovCiAgICBmaWx0ZXI6IHByb2dpZDpEWEltYWdlVHJhbnNmb3JtLk1pY3Jvc29mdC5ncmFkaWVudChzdGFydENvbG9yc3RyPScjZmYzMDE5JywgZW5kQ29sb3JzdHI9JyNkYjEyMDQnLCBHcmFkaWVudFR5cGU9MCk7IC8qIElFNi05ICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIG9uQ3JlYXRlT3B0aW9uc01lbnUoTWVudSBtZW51KSB7CiAgICAgICAgLy8gSW5mbGF0ZSB0aGUgbWVudTsgdGhpcyBhZGRzIGl0ZW1zIHRvIHRoZSBhY3Rpb24gYmFyIGlmIGl0IGlzIHByZXNlbnQuCiAgICAgICAgZ2V0TWVudUluZmxhdGVyKCkuaW5mbGF0ZShSLm1lbnUubWVudV9tYWluLCBtZW51KTsKICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIG9uT3B0aW9uc0l0ZW1TZWxlY3RlZChNZW51SXRlbSBpdGVtKSB7CiAgICAgICAgLy8gSGFuZGxlIGFjdGlvbiBiYXIgaXRlbSBjbGlja3MgaGVyZS4gVGhlIGFjdGlvbiBiYXIgd2lsbAogICAgICAgIC8vIGF1dG9tYXRpY2FsbHkgaGFuZGxlIGNsaWNrcyBvbiB0aGUgSG9tZS9VcCBidXR0b24sIHNvIGxvbmcKICAgICAgICAvLyBhcyB5b3Ugc3BlY2lmeSBhIHBhcmVudCBhY3Rpdml0eSBpbiBBbmRyb2lkTWFuaWZlc3QueG1sLgogICAgICAgIGludCBpZCA9IGl0ZW0uZ2V0SXRlbUlkKCk7CgogICAgICAgIC8vbm9pbnNwZWN0aW9uIFNpbXBsaWZpYWJsZUlmU3RhdGVtZW50CiAgICAgICAgaWYgKGlkID09IFIuaWQuYWN0aW9uX3NldHRpbmdzKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIHN1cGVyLm9uT3B0aW9uc0l0ZW1TZWxlY3RlZChpdGVtKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDA7IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUb29sYmFyIHRvb2xiYXIgPSAoVG9vbGJhcikgZmluZFZpZXdCeUlkKFIuaWQudG9vbGJhcik7CiAgICAgICAgc2V0U3VwcG9ydEFjdGlvbkJhcih0b29sYmFyKTsKCiAgICAgICAgRmxvYXRpbmdBY3Rpb25CdXR0b24gZmFiID0gKEZsb2F0aW5nQWN0aW9uQnV0dG9uKSBmaW5kVmlld0J5SWQoUi5pZC5mYWIpOwogICAgICAgIGZhYi5zZXRPbkNsaWNrTGlzdGVuZXIobmV3IFZpZXcuT25DbGlja0xpc3RlbmVyKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHZpZXcpIHsKICAgICAgICAgICAgICAgIFNuYWNrYmFyLm1ha2UodmlldywgIlJlcGxhY2Ugd2l0aCB5b3VyIG93biBhY3Rpb24iLCBTbmFja2Jhci5MRU5HVEhfTE9ORykKICAgICAgICAgICAgICAgICAgICAgICAgLnNldEFjdGlvbigiQWN0aW9uIiwgbnVsbCkuc2hvdygpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGJsYWNrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TGluZWFyTGF5b3V0Cg==</text>
+        <text encoding="base64">ICAgIC13ZWJraXQtYm94LXNoYWRvdzogIDNweCA0cHggI2ZmMzAxOTsKICAgIC1tb3otYm94LXNoYWRvdzogMnB4IDNweCA0cHggI2ZmMzAxOTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbnRNYXRjaGVycygiL2gyLWNvbnNvbGUvKioiKQo=</text>
+        <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHNvbGlkICNkZGQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHNvbGlkICNmZjMwMTk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2F2ZShBcnRpY2xlIGFydGljbGUpOyAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIAo=</text>
+        <text encoding="base64">ICAgIHRleHQtZW1waGFzaXM6IGFmdGVyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hcnRpY2xlUmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOyAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>com.bas</last-search>
+      <last-search>footer</last-search>
       <last-offset />
-      <last-pattern>com.bas</last-pattern>
+      <last-pattern>footer</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>h1</entry>
-        <entry>footer</entry>
-        <entry>.col</entry>
-        <entry>\.col</entry>
-        <entry>Helper</entry>
-        <entry>valid</entry>
-        <entry>a valid</entry>
-        <entry>logger</entry>
         <entry>IFF</entry>
         <entry>Herbr</entry>
         <entry>Herbert</entry>
@@ -2532,6 +2544,14 @@
         <entry>com.bask</entry>
         <entry>com.basak</entry>
         <entry>com.bas</entry>
+        <entry>logo</entry>
+        <entry>input</entry>
+        <entry>en</entry>
+        <entry>style</entry>
+        <entry>password</entry>
+        <entry>main</entry>
+        <entry>form-wrap</entry>
+        <entry>footer</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
