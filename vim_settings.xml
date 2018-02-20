@@ -447,6 +447,12 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/test/java/com/basakpie/DemoApplicationTests.java" timestamp="1519151530871">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="7" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/vmisdocs/src/main/java/com/jtbhawaii/misdocs/views/ErrorView.java" timestamp="1512767977178">
         <mark key="[" line="25" column="7" />
         <mark key="]" line="25" column="41" />
@@ -1313,9 +1319,6 @@
         <mark key="]" line="16" column="1" />
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1518207160524">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/service/FCFileService.java" timestamp="1515191234735">
         <mark key="[" line="23" column="86" />
@@ -2499,7 +2502,9 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>getGolfCourseName</text>
+        <text>@Test
+    public void contextLoads() {
+    }</text>
       </register>
       <register name="-" type="4">
         <text>getGolfCourseName</text>
@@ -2510,32 +2515,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtYXJnaW46IDEwcHggYXV0bzsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNvdXJzZU5hbWU7CgogICAgcHVibGljIEdvbGZDb3Vyc2UoU3RyaW5nIGNvdXJzZU5hbWUpIHsKICAgICAgICB0aGlzLmNvdXJzZU5hbWUgPSBjb3Vyc2VOYW1lOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q291cnNlTmFtZSgpIHsKICAgICAgICByZXR1cm4gY291cnNlTmFtZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDb3Vyc2VOYW1lKFN0cmluZyBjb3Vyc2VOYW1lKSB7CiAgICAgICAgdGhpcy5jb3Vyc2VOYW1lID0gY291cnNlTmFtZTsKICAgIH0K</text>
+      <register name="1" type="4">
+        <text>@Test
+    public void contextLoads() {
+    }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyLmNsYXNzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNvdXJzZU5hbWU7CgogICAgcHVibGljIEdvbGZDb3Vyc2UoU3RyaW5nIGNvdXJzZU5hbWUpIHsKICAgICAgICB0aGlzLmNvdXJzZU5hbWUgPSBjb3Vyc2VOYW1lOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q291cnNlTmFtZSgpIHsKICAgICAgICByZXR1cm4gY291cnNlTmFtZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDb3Vyc2VOYW1lKFN0cmluZyBjb3Vyc2VOYW1lKSB7CiAgICAgICAgdGhpcy5jb3Vyc2VOYW1lID0gY291cnNlTmFtZTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXgtd2lkdGg6IDUwMHB4Owo=</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXgtd2lkdGg6IDUwMHB4Owo=</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDA7IAo=</text>
+        <text encoding="base64">ICAgICAgICBtYXgtd2lkdGg6IDUwMHB4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGJsYWNrOwo=</text>
+        <text encoding="base64">ICAgICAgICBtYXgtd2lkdGg6IDUwMHB4Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC13ZWJraXQtYm94LXNoYWRvdzogIDNweCA0cHggI2ZmMzAxOTsKICAgIC1tb3otYm94LXNoYWRvdzogMnB4IDNweCA0cHggI2ZmMzAxOTsK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDA7IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHNvbGlkICNkZGQ7Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGJsYWNrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
