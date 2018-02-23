@@ -567,7 +567,7 @@
         <mark key="^" line="3" column="53" />
         <mark key="." line="3" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519181115038">
+      <file name="/Dummy.txt" timestamp="1519423238227">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1119,7 +1119,6 @@
         <mark key="." line="23" column="40" />
         <mark key="^" line="23" column="40" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/unit_testing/src/main/java/com/jtbhawaii/unit_testing/controller/PageController.java" timestamp="1519331611318" />
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/gradletrio2/build.gradle" timestamp="1516824384318">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -2624,11 +2623,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>TextView4e</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>TextView4e</text>
       </register>
       <register name="/" type="4">
         <text>devtool</text>
