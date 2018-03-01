@@ -832,11 +832,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/actuator/src/main/resources/application.properties" timestamp="1519869599012">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/actuator/src/main/resources/application.properties" timestamp="1519869780929">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmpayroll/src/main/java/com/jtbhawaii/cmpayroll/model/VWClients.java" timestamp="1510005938245">
         <mark key="[" line="8" column="13" />
