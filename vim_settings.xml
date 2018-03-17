@@ -33,6 +33,12 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/operationimg/src/main/java/com/jtbhawaii/ImageResizer.java" timestamp="1521252774749">
+        <mark key="[" line="68" column="36" />
+        <mark key="]" line="68" column="36" />
+        <mark key="^" line="79" column="62" />
+        <mark key="." line="68" column="36" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/experiment/AAA.java" timestamp="1515175789922">
         <mark key="[" line="8" column="61" />
         <mark key="]" line="9" column="29" />
@@ -1131,6 +1137,11 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/operationimg/src/main/java/ImgResizing.java" timestamp="1521251793977">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dataframe/src/main/java/com/jtbhawaii/dataframe/service/DbPickupLocationServiceService.java" timestamp="1513805770357">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="14" column="13" />
@@ -1691,7 +1702,6 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/service/FileService.java" timestamp="1519672282109" />
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/unit_testing/src/main/java/com/jtbhawaii/unit_testing/view/ViewContainer.java" timestamp="1519178145871">
         <mark key="[" line="19" column="30" />
         <mark key="]" line="19" column="35" />
@@ -2004,6 +2014,12 @@
         <mark key="]" line="31" column="7" />
         <mark key="." line="31" column="7" />
         <mark key="^" line="31" column="7" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/operationimg/src/main/java/ImageResizer.java" timestamp="1521251797956">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/gradletrio2/src/main/resources/application.properties" timestamp="1516823839073">
         <mark key="[" line="0" column="16" />
@@ -2636,44 +2652,44 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VydmVyLnBvcnQ9OTAwMAo=</text>
+      <register name="&quot;" type="4">
+        <text>aaa</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>aaa</text>
       </register>
       <register name="/" type="4">
         <text>devtool</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gVFBURFJJVkVSIChGSVJTVF9OQU1FLCBMQVNUX05BTUUsIFJFTUFSS1MpIHZhbHVlcyAoJ0pvaG4nLCAnRG9lJywgJ2FhYScpOwo=</text>
+      <register name="0" type="4">
+        <text>C:\\Users\\awu.HNL\\Desktop\\test.jpg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VydmVyLnBvcnQ9OTAwMAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgb3V0cHV0SW1hZ2VQYXRoMyA9ICJDOlxcVXNlcnNcXGF3dS5ITkxcXERlc2t0b3BcXHRlc3Q0LmpwZyI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb29Db2xsZWN0aW9uLml0ZXJhdG9yKCkucmUK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgb3V0cHV0SW1hZ2VQYXRoMiA9ICJDOlxcVXNlcnNcXGF3dS5ITkxcXERlc2t0b3BcXHRlc3QzLmpwZyI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">Ci8vICAgICAgICAgICAgLy8gcmVzaXplIHRvIGEgZml4ZWQgd2lkdGggKG5vdCBwcm9wb3J0aW9uYWwpCi8vICAgICAgICAgICAgaW50IHNjYWxlZFdpZHRoID0gMTAyNDsKLy8gICAgICAgICAgICBpbnQgc2NhbGVkSGVpZ2h0ID0gNzY4OwovLyAgICAgICAgICAgIEltYWdlUmVzaXplci5yZXNpemUoaW5wdXRJbWFnZVBhdGgsIG91dHB1dEltYWdlUGF0aDEsIHNjYWxlZFdpZHRoLCBzY2FsZWRIZWlnaHQpOwovLwovLyAgICAgICAgICAgIC8vIHJlc2l6ZSBzbWFsbGVyIGJ5IDUwJQovLyAgICAgICAgICAgIGRvdWJsZSBwZXJjZW50ID0gMC41OwovLyAgICAgICAgICAgIEltYWdlUmVzaXplci5yZXNpemUoaW5wdXRJbWFnZVBhdGgsIG91dHB1dEltYWdlUGF0aDIsIHBlcmNlbnQpOwovLwovLyAgICAgICAgICAgIC8vIHJlc2l6ZSBiaWdnZXIgYnkgNTAlCi8vICAgICAgICAgICAgcGVyY2VudCA9IDEuNTsKLy8gICAgICAgICAgICBJbWFnZVJlc2l6ZXIucmVzaXplKGlucHV0SW1hZ2VQYXRoLCBvdXRwdXRJbWFnZVBhdGgzLCBwZXJjZW50KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBvdXB1dEltYWdlLgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHsKICAgICAgICAKICAgIH07IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBHcmFwaGljcyBnID0gaW5wdXRJbWFnZS5nZXRHcmFwaGljcygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Pgo=</text>
+        <text encoding="base64">ICAgICAgICBnLigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCAK</text>
+        <text encoding="base64">ICAgICAgICByZXNpemUoaW5wdXRJbWFnZVBhdGgsIG91dHB1dEltYWdlUGF0aCwgc2NhbGVkV2lkdGgsIHNjYWxlZEhlaWdodCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc2NhbGVkV2lkdGggPSAoaW50KSAoaW5wdXRJbWFnZS5nZXRXaWR0aCgpICogcGVyY2VudCk7CiAgICAgICAgaW50IHNjYWxlZEhlaWdodCA9IChpbnQpIChpbnB1dEltYWdlLmdldEhlaWdodCgpICogcGVyY2VudCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
