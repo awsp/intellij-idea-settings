@@ -59,4 +59,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="gradle.liquibase" value="compile('org.liquibase:liquibase-core')&#10;" description="Spring Boot Liquibase" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
