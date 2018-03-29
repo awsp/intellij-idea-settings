@@ -843,6 +843,12 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/webapp/VAADIN/themes/valo-default/styles.scss" timestamp="1522348595898">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/testopencsv/src/main/java/TestVolicty.java" timestamp="1506538231584">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="13" />
@@ -1247,11 +1253,11 @@
         <mark key="." line="35" column="3" />
         <mark key="^" line="35" column="3" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/datasource_test/src/main/resources/ui/simple_pane.fxml" timestamp="1522269091166">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/datasource_test/src/main/resources/ui/simple_pane.fxml" timestamp="1522286833140">
         <mark key="[" line="5" column="82" />
-        <mark key="]" line="4" column="102" />
-        <mark key="." line="4" column="102" />
-        <mark key="^" line="4" column="102" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="6" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/network-diagram/big_island.koa_office/index.html" timestamp="1516656877852">
         <mark key="[" line="13" column="63" />
@@ -1873,6 +1879,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="194" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/webapp/VAADIN/themes/dashboard/styles.scss" timestamp="1522348597232">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/testopencsv/src/main/java/BBBBean.java" timestamp="1506560483783">
         <mark key="[" line="19" column="0" />
@@ -2876,8 +2887,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>style</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgLnYtZ3JpZC1jZWxsLWZvY3VzZWQ6YmVmb3JlIHsKICAgICAgZGlzcGxheTogbm9uZSAhaW1wb3J0YW50OwogICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>style</text>
@@ -2886,7 +2897,7 @@
         <text>devtool</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LS1saXF1aWJhc2UgZm9ybWF0dGVkIHNxbAoKLS1jaGFuZ2VzZXQgYW50aG9ueToxCg==</text>
+        <text encoding="base64">ICAgLnYtZ3JpZC1jZWxsLWZvY3VzZWQ6YmVmb3JlIHsKICAgICAgZGlzcGxheTogbm9uZSAhaW1wb3J0YW50OwogICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC1meC1iYWNrZ3JvdW5kLWNvbG9yOiAjOwo=</text>
