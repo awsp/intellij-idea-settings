@@ -39,6 +39,11 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
+      <file name="/a.dummy" timestamp="1522868043315">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/experiment/AAA.java" timestamp="1515175789922">
         <mark key="[" line="8" column="61" />
         <mark key="]" line="9" column="29" />
@@ -425,6 +430,12 @@
         <mark key="]" line="3" column="9" />
         <mark key="^" line="3" column="9" />
         <mark key="." line="3" column="9" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/vipapp/src/main/java/com/jtbhawaii/vipapp/VipApp.java" timestamp="1522868040588">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="12" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/securitytrio/src/main/java/com/jtbhawaii/securitytrio/config/SecurityConfiguration.java" timestamp="1513362971201">
         <mark key="[" line="20" column="37" />
@@ -2130,11 +2141,11 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/vipapp/build.gradle" timestamp="1522867029111">
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="13" column="19" />
-        <mark key="^" line="13" column="19" />
-        <mark key="." line="13" column="19" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/vipapp/build.gradle" timestamp="1522867051616">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/demosite/src/main/resources/application.properties" timestamp="1512003315798">
         <mark key="[" line="0" column="0" />
@@ -2780,11 +2791,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbGlzdCA9IG5ldyBBcnJheUxpc3Q8U3RyaW5nPigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>VipApp</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>VipApp</text>
       </register>
       <register name="/" type="4">
         <text>devtool</text>
