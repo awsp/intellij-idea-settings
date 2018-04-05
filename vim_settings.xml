@@ -81,12 +81,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/ui/JetLoginUI.java" timestamp="1522893161279">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/ui/JetLoginUI.java" timestamp="1522952960609">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="122" column="38" />
-        <mark key="]" line="122" column="65" />
-        <mark key="." line="122" column="65" />
-        <mark key="^" line="122" column="65" />
+        <mark key="[" line="119" column="71" />
+        <mark key="]" line="120" column="11" />
+        <mark key="." line="120" column="11" />
+        <mark key="^" line="120" column="11" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" timestamp="1515190262341">
         <mark key="[" line="89" column="16" />
@@ -164,6 +164,12 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/security/JetCustomLogoutHandler.java" timestamp="1522953476298">
+        <mark key="[" line="11" column="113" />
+        <mark key="]" line="12" column="44" />
+        <mark key="^" line="12" column="44" />
+        <mark key="." line="12" column="44" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/annotation/SSBean.java" timestamp="1506472447168">
         <mark key="[" line="11" column="18" />
@@ -642,7 +648,7 @@
         <mark key="^" line="3" column="53" />
         <mark key="." line="3" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522888206522">
+      <file name="/Dummy.txt" timestamp="1522954262261">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1453,6 +1459,12 @@
         <mark key="^" line="12" column="51" />
         <mark key="." line="12" column="51" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/config/JetSecurityDevConfiguration.java" timestamp="1522953993170">
+        <mark key="[" line="8" column="79" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/security/Role.java" timestamp="1522890537766">
         <mark key="'" line="49" column="38" />
         <mark key="[" line="59" column="5" />
@@ -2053,7 +2065,7 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1522892319067">
+      <file name="/fragment.java" timestamp="1522954262246">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -2431,6 +2443,11 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/config/JETSecurityDevConfiguration.java" timestamp="1522954270836">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs2/src/main/java/com/jtbhawaii/misdocs2/AppConfig.java" timestamp="1517858921002">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -2509,11 +2526,10 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/resources/application-dev.yml" timestamp="1522888233019">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="8" column="18" />
-        <mark key="^" line="8" column="18" />
-        <mark key="." line="8" column="18" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/resources/application-dev.yml" timestamp="1522954110076">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs2/src/main/java/com/jtbhawaii/misdocs2/model/Document.java" timestamp="1517863333183">
         <mark key="[" line="28" column="22" />
@@ -2815,12 +2831,13 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/config/JETSecurityConfiguration.java" timestamp="1522891659513">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="71" column="0" />
-        <mark key="m" line="31" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/config/JETSecurityConfiguration.java" timestamp="1522953582980">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="m" line="33" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="66" column="71" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jtl-wireless/src/main/java/com/jtbhawaii/jtlwireless/model/OliOliPhone.java" timestamp="1508876205063">
         <mark key="[" line="23" column="31" />
@@ -2984,10 +3001,10 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTm90aWZpY2F0aW9uLnNob3coIkVSUk9SIiwgYmNlLmdldE1lc3NhZ2UoKSwgTm90aWZpY2F0aW9uLlR5cGUuRVJST1JfTUVTU0FHRSk7Cg==</text>
+        <text encoding="base64">QFByb2ZpbGUoImRldiIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Error</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>devtool</text>
@@ -2996,31 +3013,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbnRNYXRjaGVycygiL2xvZ2luLyoqIikuYW5vbnltb3VzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTm90aWZpY2F0aW9uLnNob3coIkVSUk9SIiwgYmNlLmdldE1lc3NhZ2UoKSwgTm90aWZpY2F0aW9uLlR5cGUuRVJST1JfTUVTU0FHRSk7Cg==</text>
+        <text encoding="base64">QFByb2ZpbGUoImRldiIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvd05vdGlmaWNhdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0VUkoKS5zaG93Tm90aWZpY2F0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICBwcm9maWxlczoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0VUkoKS5hZGRTaG9ydGN1dExpc3RlbmVyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkud2ViLnV0aWwubWF0Y2hlci5BbmRSZXF1ZXN0TWF0Y2hlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2oK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImxvZ291dCIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtCg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRoZW50aWNhdGlvbiAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyRmFjdG9yeS5nZXRJTG9nZ2VyRmFjdG9yeSgpLmVycm9yKCJVbiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
