@@ -892,10 +892,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/domains/CustomerProperty.java" timestamp="1523303773220">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/domains/CustomerProperty.java" timestamp="1523384109573">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="44" />
+        <mark key="." line="11" column="44" />
+        <mark key="^" line="11" column="50" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/config/VaadinSpringConfiguration.java" timestamp="1518223607277">
         <mark key="'" line="116" column="0" />
@@ -1118,11 +1119,11 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/domains/Customer.java" timestamp="1523303770705">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/domains/Customer.java" timestamp="1523384120224">
         <mark key="'" line="17" column="53" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="16" column="37" />
         <mark key="^" line="16" column="61" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/annotation/SSSpecification.java" timestamp="1506455360915">
@@ -3068,11 +3069,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWUgPSAicHJvcF9pZCIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>ALL</text>
       </register>
       <register name="-" type="4">
-        <text>cascade = CascadeType.REMOVE</text>
+        <text>ALL</text>
       </register>
       <register name="/" type="4">
         <text>devtool</text>
