@@ -891,11 +891,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/domains/CustomerProperty.java" timestamp="1523384312276">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="14" />
-        <mark key="." line="11" column="14" />
-        <mark key="^" line="12" column="53" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/domains/CustomerProperty.java" timestamp="1523385707326">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/config/VaadinSpringConfiguration.java" timestamp="1518223607277">
         <mark key="'" line="116" column="0" />
@@ -1118,12 +1118,12 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/domains/Customer.java" timestamp="1523384734017">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/domains/Customer.java" timestamp="1523385655861">
         <mark key="'" line="18" column="53" />
-        <mark key="[" line="17" column="66" />
-        <mark key="]" line="17" column="90" />
-        <mark key="." line="17" column="90" />
-        <mark key="^" line="17" column="90" />
+        <mark key="[" line="17" column="63" />
+        <mark key="]" line="17" column="63" />
+        <mark key="." line="17" column="63" />
+        <mark key="^" line="17" column="63" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/annotation/SSSpecification.java" timestamp="1506455360915">
         <mark key="[" line="7" column="0" />
@@ -3069,10 +3069,10 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, fetch = FetchType.EAGER)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, fetch = FetchType.EAGER)</text>
       </register>
       <register name="/" type="4">
         <text>devtool</text>
@@ -3081,31 +3081,31 @@
         <text encoding="base64">ICAgICAgICB3ZWJSZWdpc3RlcmVkQ3VzdG9tZXIuc2V0UGFzc3dvcmQoImMiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgIEBNYW55VG9PbmUoY2FzY2FkZSA9IENhc2NhZGVUeXBlLlBFUlNJU1QpCiAgICBASm9pbkNvbHVtbihuYW1lID0gImN1c3RvbWVyX2lkIiwgbnVsbGFibGUgPSBmYWxzZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEpvaW4K</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEpvaW5ubm5ubm4K</text>
+        <text encoding="base64">ICAgIEpvaW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWUgPSAicHJvcF9pZCIpCg==</text>
+        <text encoding="base64">ICAgIEpvaW5ubm5ubm4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWUgPSAicHJvcF9pZCIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWUgPSAicHJvcF9pZCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUuYW5ub3RhdGlvbnMuQ2FzY2FkZTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBDYXNjYWRlKHtvcmcuaGliZXJuYXRlLmFubm90YXRpb25zLkNhc2NhZGVUeXBlLlNBVkVfVVBEQVRFfSkKICAgIEBKb2luQ29sdW1uKG5hbWUgPSAicHJvcF9pZCIpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUuYW5ub3RhdGlvbnMuQ2FzY2FkZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
