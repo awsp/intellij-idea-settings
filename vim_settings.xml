@@ -503,11 +503,9 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/domains/Trip.java" timestamp="1523404373251">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/domains/Trip.java" timestamp="1523407997971">
         <mark key="'" line="15" column="10" />
-        <mark key="[" line="26" column="27" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="28" column="3" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/TargetFields.java" timestamp="1510950786532">
         <mark key="[" line="4" column="17" />
@@ -880,8 +878,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/domains/CustomerProperty.java" timestamp="1523385707326">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/domains/CustomerProperty.java" timestamp="1523407970741">
+        <mark key="[" line="16" column="25" />
         <mark key="]" line="11" column="13" />
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
@@ -1538,12 +1536,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/JET.java" timestamp="1523404266244">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/JET.java" timestamp="1523408033751">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="11" />
-        <mark key="^" line="56" column="11" />
-        <mark key="." line="56" column="11" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/ssconfig.prod.ini" timestamp="1514409596861">
         <mark key="[" line="12" column="0" />
@@ -2995,10 +2992,10 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBHZXR0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>lombok</text>
@@ -3007,31 +3004,31 @@
         <text encoding="base64">ICAgICAgICBpbmdyZWRpZW50cy5hZGQobmV3IEluZ3JlZGllbnQoImluZyAxIiwgcmVjaXBlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBHZXR0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxDdXN0b21lcj4gdGFyZ2V0ID0gY3VzdG9tZXJSZXBvc2l0b3J5LmZpbmRCeUlkKDNMKTsKICAgICAgICB0YXJnZXQuaWZQcmVzZW50KGN1c3RvbWVyMSAtPiBjdXN0b21lclJlcG9zaXRvcnkuZGVsZXRlKGN1c3RvbWVyMSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjcDEuc2V0Q3VzdG9tZXIoY3VzdG9tZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDdXN0b21lclByb3BlcnR5IGNwMSA9IG5ldyBDdXN0b21lclByb3BlcnR5KCJURUwiLCAiMjEtMzA5Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0LmdldCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21lclByb3BlcnR5Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21lclByb3BlcnR5LmFkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBHZXR0ZXIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IFRyaXAgdHJpcCA9IG5ldyBUcmlwKCk7CiAgICAgICAgdHJpcC5zZXRDdXN0b21lcihjdXN0b21lcik7CiAgICAgICAgdHJpcC5zZXRGcm9tRGF0ZShuZXcgU2ltcGxlRGF0ZUZvcm1hdCgieXl5eS1NTS1kZCIpLnBhcnNlKCIyMDE4LTAxLTEzIikpOwogICAgICAgIHRyaXAuc2V0VG9EYXRlKG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5LU1NLWRkIikucGFyc2UoIjIwMTgtMDEtMTQiKSk7CgogICAgICAgIENvbXBhbmlvbiBjMSA9IG5ldyBDb21wYW5pb24oKTsKICAgICAgICBjMS5zZXRGaXJzdE5hbWUoIkMxIGZpcnN0IG5hbWUiKTsKICAgICAgICBjMS5zZXRMYXN0TmFtZSgiQzEgbGFzdCBuYW1lIik7CiAgICAgICAgYzEuc2V0VHJpcCh0cmlwKTsKCiAgICAgICAgQ29tcGFuaW9uIGMyID0gbmV3IENvbXBhbmlvbigpOwogICAgICAgIGMyLnNldEZpcnN0TmFtZSgiQzIgZmlyc3QgbmFtZSIpOwogICAgICAgIGMyLnNldExhc3ROYW1lKCJDMiBsYXN0IG5hbWUiKTsKICAgICAgICBjMi5zZXRUcmlwKHRyaXApOwoKICAgICAgICB0cmlwLmdldENvbXBhbmlvbnMoKS5hZGQoYzEpOwogICAgICAgIHRyaXAuZ2V0Q29tcGFuaW9ucygpLmFkZChjMik7CgogICAgICAgIGN1c3RvbWVyLmdldEN1c3RvbWVyUHJvcGVydGllcygpLmFkZChjcDEpOwogICAgICAgIGN1c3RvbWVyLmdldFRyaXBzKCkuYWRkKHRyaXApOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjcDEuc2V0Q3VzdG9tZXIoY3VzdG9tZXIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
