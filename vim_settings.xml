@@ -644,11 +644,11 @@
         <mark key="^" line="24" column="54" />
         <mark key="." line="24" column="54" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/server.js" timestamp="1523653476308">
-        <mark key="[" line="25" column="33" />
-        <mark key="]" line="25" column="37" />
-        <mark key="." line="25" column="37" />
-        <mark key="^" line="25" column="37" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/server.js" timestamp="1523664794258">
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="25" column="38" />
+        <mark key="." line="25" column="38" />
+        <mark key="^" line="25" column="38" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/experiment/Bar.java" timestamp="1515708519933">
         <mark key="[" line="9" column="28" />
@@ -1186,7 +1186,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/index.html" timestamp="1523656228919">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/index.html" timestamp="1523657174496">
         <mark key="[" line="102" column="28" />
         <mark key="]" line="102" column="29" />
         <mark key="." line="102" column="29" />
@@ -3049,10 +3049,10 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>bbb</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>bbb</text>
       </register>
       <register name="/" type="4">
         <text>lombok</text>
