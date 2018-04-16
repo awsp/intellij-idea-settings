@@ -1185,11 +1185,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/index.html" timestamp="1523657174496">
-        <mark key="[" line="102" column="28" />
-        <mark key="]" line="102" column="29" />
-        <mark key="." line="102" column="29" />
-        <mark key="^" line="102" column="29" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/index.html" timestamp="1523914874379">
+        <mark key="'" line="33" column="21" />
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="31" column="21" />
+        <mark key="." line="31" column="21" />
+        <mark key="^" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/resources/application.properties" timestamp="1512412810356">
         <mark key="[" line="0" column="16" />
@@ -2934,15 +2935,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
-      <jump line="186" column="7" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
-      <jump line="158" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
-      <jump line="2" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
-      <jump line="11" column="31" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/index.html" />
-      <jump line="17" column="21" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
-      <jump line="60" column="21" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
-      <jump line="15" column="25" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
-      <jump line="88" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
       <jump line="103" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
       <jump line="101" column="19" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
       <jump line="111" column="16" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/main.css" />
@@ -3034,66 +3026,72 @@
       <jump line="71" column="53" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/ui/views/vip/BasicTab.java" />
       <jump line="164" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/ui/views/vip/BasicTab.java" />
       <jump line="75" column="52" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/ui/views/vip/BasicTab.java" />
+      <jump line="121" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/index.html" />
+      <jump line="134" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/index.html" />
+      <jump line="42" column="4" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/index.html" />
+      <jump line="46" column="13" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/index.html" />
+      <jump line="50" column="28" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/index.html" />
+      <jump line="69" column="57" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/index.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/index.html" />
+      <jump line="8" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/index.html" />
+      <jump line="33" column="21" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/index.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc2RmLnNldAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>lombok</text>
+        <text>\/style</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBja0VkaXRvclRleHRGaWVsZC5zZXRIZWlnaHQoIjQwMHB4Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc2RmLnNldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LmFubm90YXRpb24uUG9zdENvbnN0cnVjdDsK</text>
+        <text encoding="base64">ICA8YnV0dG9uIHR5cGU9InN1Ym1pdCI+U3VibWl0PC9idXR0b24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy52YWFkaW4uYWx1bXAuY2tlZGl0b3IuQWJzdHJhY3RDS0VkaXRvclRleHRGaWVsZDsKaW1wb3J0IG9yZy52YWFkaW4uYWx1bXAuY2tlZGl0b3IuQ0tFZGl0b3JDb25maWc7CmltcG9ydCBvcmcudmFhZGluLmFsdW1wLmNrZWRpdG9yLkNLRWRpdG9yVGV4dEZpZWxkOwo=</text>
+        <text encoding="base64">ICAgIGJ1dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uYW5ub3RhdGlvbnMuVmFhZGluU2VydmxldENvbmZpZ3VyYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uc2VydmVyLlZhYWRpblNlcnZsZXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc2RmLnNldAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNpY0luZm9ybWF0aW9uRm9ybS5hZGRDb21wb25lbnQoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LmFubm90YXRpb24uUG9zdENvbnN0cnVjdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy52YWFkaW4uYWx1bXAuY2tlZGl0b3IuQWJzdHJhY3RDS0VkaXRvclRleHRGaWVsZDsKaW1wb3J0IG9yZy52YWFkaW4uYWx1bXAuY2tlZGl0b3IuQ0tFZGl0b3JDb25maWc7CmltcG9ydCBvcmcudmFhZGluLmFsdW1wLmNrZWRpdG9yLkNLRWRpdG9yVGV4dEZpZWxkOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgQ0tFZGl0b3JDb25maWcgY29uZmlnID0gbmV3IENLRWRpdG9yQ29uZmlnKCk7CiAgICAgICAgY29uZmlnLnVzZUNvbXBhY3RUYWdzKCk7CiAgICAgICAgY29uZmlnLnNldEhlaWdodCgiMzAwcHgiKTsKCiAgICAgICAgZmluYWwgQWJzdHJhY3RDS0VkaXRvclRleHRGaWVsZCBja0VkaXRvclRleHRGaWVsZCA9IG5ldyBDS0VkaXRvclRleHRGaWVsZChjb25maWcpOwogICAgICAgIGNrRWRpdG9yVGV4dEZpZWxkLnNldEltbWVkaWF0ZSh0cnVlKTsKICAgICAgICBja0VkaXRvclRleHRGaWVsZC5zZXRIZWlnaHQoIjQwMHB4Iik7CiAgICAgICAgYmFzaWNJbmZvcm1hdGlvbkZvcm0uYWRkQ29tcG9uZW50KGNrRWRpdG9yVGV4dEZpZWxkKTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uYW5ub3RhdGlvbnMuVmFhZGluU2VydmxldENvbmZpZ3VyYXRpb247Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uc2VydmVyLlZhYWRpblNlcnZsZXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lombok</last-search>
+      <last-search>\/style</last-search>
       <last-offset />
-      <last-pattern>lombok</last-pattern>
+      <last-pattern>\/style</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>SMB</entry>
-        <entry>Inject</entry>
-        <entry>archive</entry>
         <entry>TAIL</entry>
         <entry>com.bask</entry>
         <entry>com.basak</entry>
@@ -3101,7 +3099,6 @@
         <entry>logo</entry>
         <entry>input</entry>
         <entry>en</entry>
-        <entry>style</entry>
         <entry>password</entry>
         <entry>main</entry>
         <entry>form-wrap</entry>
@@ -3111,6 +3108,10 @@
         <entry>header</entry>
         <entry>devtool</entry>
         <entry>lombok</entry>
+        <entry>submit</entry>
+        <entry>Submit</entry>
+        <entry>style</entry>
+        <entry>\/style</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
