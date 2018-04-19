@@ -2404,12 +2404,12 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main.js" timestamp="1524172382127">
-        <mark key="'" line="62" column="31" />
-        <mark key="[" line="56" column="24" />
-        <mark key="]" line="56" column="24" />
-        <mark key="." line="56" column="24" />
-        <mark key="^" line="56" column="24" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main.js" timestamp="1524173260451">
+        <mark key="'" line="36" column="15" />
+        <mark key="[" line="56" column="23" />
+        <mark key="]" line="56" column="23" />
+        <mark key="." line="56" column="23" />
+        <mark key="^" line="83" column="14" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/gradletrio2/src/main/resources/application.properties" timestamp="1516823839073">
         <mark key="[" line="0" column="16" />
@@ -3061,7 +3061,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/config/JETSecurityConfiguration.java" />
       <jump line="62" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/config/JETSecurityConfiguration.java" />
       <jump line="92" column="31" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/ui/JetLoginUI.java" />
       <jump line="111" column="8" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/ui/JetLoginUI.java" />
@@ -3161,19 +3160,20 @@
       <jump line="35" column="20" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main.js" />
       <jump line="56" column="22" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main.js" />
       <jump line="62" column="31" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main.js" />
+      <jump line="36" column="15" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Okay</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>Okay</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>innerWidth</text>
+        <text>confirm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJCgiYm9keSIpLmFkZENsYXNzKCJkaXNhYmxlZCIpOyAK</text>
@@ -3210,16 +3210,14 @@
       </register>
     </registers>
     <search>
-      <last-search>innerWidth</last-search>
+      <last-search>confirm</last-search>
       <last-offset />
-      <last-pattern>innerWidth</last-pattern>
+      <last-pattern>confirm</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>footer</entry>
-        <entry>cwp-body</entry>
         <entry>img</entry>
         <entry>header</entry>
         <entry>devtool</entry>
@@ -3238,6 +3236,8 @@
         <entry>timer-div</entry>
         <entry>10000</entry>
         <entry>innerWidth</entry>
+        <entry>alert</entry>
+        <entry>confirm</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
