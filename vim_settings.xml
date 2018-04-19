@@ -1165,6 +1165,13 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="38" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/domains/Customer.java" timestamp="1523667724329">
+        <mark key="'" line="20" column="27" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="99" column="40" />
+        <mark key="." line="99" column="40" />
+        <mark key="^" line="99" column="40" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/annotation/SSSpecification.java" timestamp="1506455360915">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="6" />
@@ -1230,12 +1237,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/index.html" timestamp="1524168764966">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/index.html" timestamp="1524168863389">
         <mark key="'" line="116" column="5" />
-        <mark key="[" line="71" column="91" />
-        <mark key="]" line="71" column="186" />
-        <mark key="." line="71" column="186" />
-        <mark key="^" line="71" column="186" />
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="34" />
+        <mark key="." line="18" column="34" />
+        <mark key="^" line="18" column="34" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/resources/application.properties" timestamp="1512412810356">
         <mark key="[" line="0" column="16" />
@@ -2397,11 +2404,12 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main.js" timestamp="1524168501103">
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="33" />
-        <mark key="." line="33" column="33" />
-        <mark key="^" line="33" column="33" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main.js" timestamp="1524172382127">
+        <mark key="'" line="62" column="31" />
+        <mark key="[" line="56" column="24" />
+        <mark key="]" line="56" column="24" />
+        <mark key="." line="56" column="24" />
+        <mark key="^" line="56" column="24" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/gradletrio2/src/main/resources/application.properties" timestamp="1516823839073">
         <mark key="[" line="0" column="16" />
@@ -3053,9 +3061,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="12" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/config/JETSecurityConfiguration.java" />
-      <jump line="65" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/config/JETSecurityConfiguration.java" />
-      <jump line="58" column="8" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/config/JETSecurityConfiguration.java" />
       <jump line="3" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/config/JETSecurityConfiguration.java" />
       <jump line="62" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/config/JETSecurityConfiguration.java" />
       <jump line="92" column="31" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/ui/JetLoginUI.java" />
@@ -3153,19 +3158,22 @@
       <jump line="94" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/css/styles.css" />
       <jump line="162" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/css/styles.css" />
       <jump line="173" column="9" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/css/styles.css" />
+      <jump line="35" column="20" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main.js" />
+      <jump line="56" column="22" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main.js" />
+      <jump line="62" column="31" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbgo=</text>
+      <register name="&quot;" type="4">
+        <text>Okay</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Okay</text>
       </register>
       <register name="/" type="4">
-        <text>timer-div</text>
+        <text>innerWidth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJCgiYm9keSIpLmFkZENsYXNzKCJkaXNhYmxlZCIpOyAK</text>
@@ -3202,16 +3210,14 @@
       </register>
     </registers>
     <search>
-      <last-search>timer-div</last-search>
+      <last-search>innerWidth</last-search>
       <last-offset />
-      <last-pattern>timer-div</last-pattern>
+      <last-pattern>innerWidth</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>password</entry>
-        <entry>form-wrap</entry>
         <entry>footer</entry>
         <entry>cwp-body</entry>
         <entry>img</entry>
@@ -3230,6 +3236,8 @@
         <entry>#my-darw</entry>
         <entry>draw</entry>
         <entry>timer-div</entry>
+        <entry>10000</entry>
+        <entry>innerWidth</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
