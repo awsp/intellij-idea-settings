@@ -1165,13 +1165,6 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/domains/Customer.java" timestamp="1523667724329">
-        <mark key="'" line="20" column="27" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="99" column="40" />
-        <mark key="." line="99" column="40" />
-        <mark key="^" line="99" column="40" />
-      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/annotation/SSSpecification.java" timestamp="1506455360915">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="6" />
@@ -1237,12 +1230,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/index.html" timestamp="1524168863389">
-        <mark key="'" line="116" column="5" />
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="34" />
-        <mark key="." line="18" column="34" />
-        <mark key="^" line="18" column="34" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/index.html" timestamp="1524174269681">
+        <mark key="'" line="119" column="5" />
+        <mark key="[" line="75" column="66" />
+        <mark key="]" line="75" column="79" />
+        <mark key="." line="75" column="79" />
+        <mark key="^" line="75" column="79" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/resources/application.properties" timestamp="1512412810356">
         <mark key="[" line="0" column="16" />
@@ -2404,12 +2397,12 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main.js" timestamp="1524173260451">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main.js" timestamp="1524174759582">
         <mark key="'" line="36" column="15" />
-        <mark key="[" line="56" column="23" />
-        <mark key="]" line="56" column="23" />
-        <mark key="." line="56" column="23" />
-        <mark key="^" line="83" column="14" />
+        <mark key="[" line="68" column="7" />
+        <mark key="]" line="68" column="12" />
+        <mark key="." line="68" column="12" />
+        <mark key="^" line="68" column="12" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/gradletrio2/src/main/resources/application.properties" timestamp="1516823839073">
         <mark key="[" line="0" column="16" />
@@ -3167,16 +3160,16 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>a.external-link</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>a.external-link</text>
       </register>
       <register name="/" type="4">
         <text>confirm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJCgiYm9keSIpLmFkZENsYXNzKCJkaXNhYmxlZCIpOyAK</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9Imh0dHA6Ly93d3cuanRiLWhhd2FpaS5jb20iIGNsYXNzPSJleHRlcm5hbC1saW5rIj5KVEIgSGF3YWlpPC9hPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1hcmdpbgo=</text>
