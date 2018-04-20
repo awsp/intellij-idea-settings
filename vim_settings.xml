@@ -45,11 +45,12 @@
         <mark key="." line="19" column="34" />
         <mark key="^" line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main_jq.js" timestamp="1524187305942">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main_jq.js" timestamp="1524188204207">
         <mark key="'" line="82" column="6" />
         <mark key="[" line="41" column="10" />
-        <mark key="]" line="41" column="10" />
-        <mark key="." line="41" column="10" />
+        <mark key="]" line="41" column="11" />
+        <mark key="." line="41" column="11" />
+        <mark key="^" line="41" column="11" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/experiment/AAA.java" timestamp="1515175789922">
         <mark key="[" line="8" column="61" />
@@ -579,6 +580,12 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="32" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/opentablepj/.gitignore" timestamp="1524188589728">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/ssconfig.ini" timestamp="1517521589757">
         <mark key="[" line="20" column="45" />
         <mark key="]" line="20" column="46" />
@@ -817,6 +824,12 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="7" column="15" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/bower.json" timestamp="1524188220849">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/datasource_test/build.gradle" timestamp="1522114168590">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -945,6 +958,11 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/opentablepj/index-jquery.html" timestamp="1524188366951">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/unit_testing/src/main/resources/application.properties" timestamp="1519176543972">
         <mark key="[" line="1" column="0" />
@@ -1290,11 +1308,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="45" column="51" />
-      </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jwtoken/src/main/resources/application.yml" timestamp="1523997724852">
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="18" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/securitytrio/src/main/java/com/jtbhawaii/securitytrio/ui/MainUI.java" timestamp="1518036734147">
         <mark key="[" line="13" column="5" />
@@ -1670,6 +1683,12 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="93" column="25" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/opentablepj/index-angular.html" timestamp="1524191453270">
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="27" column="39" />
+        <mark key="^" line="27" column="39" />
+        <mark key="." line="27" column="39" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/interfaces/Mutable.java" timestamp="1506473788710">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="17" />
@@ -1716,6 +1735,11 @@
         <mark key="]" line="12" column="20" />
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/opentablepj/server.js" timestamp="1524190774445">
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="21" column="34" />
+        <mark key="." line="21" column="34" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/distributor/model/P/TourClient.java" timestamp="1515617405983">
         <mark key="[" line="20" column="19" />
@@ -1985,6 +2009,12 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="30" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/opentablepj/public/js/main_ng.js" timestamp="1524192501157">
+        <mark key="[" line="34" column="65" />
+        <mark key="]" line="35" column="33" />
+        <mark key="." line="35" column="33" />
+        <mark key="^" line="35" column="33" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/model/SSBkgOptourData.java" timestamp="1506395095333">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -2044,6 +2074,13 @@
         <mark key="]" line="55" column="57" />
         <mark key="." line="55" column="57" />
         <mark key="^" line="55" column="57" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/opentablepj/index.html" timestamp="1524191263913">
+        <mark key="'" line="65" column="3" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="87" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi-system/src/main/java/com/jtbhawaii/anpisystem/ui/controlcenter/AbstractView.java" timestamp="1513392493153">
         <mark key="[" line="16" column="20" />
@@ -3072,8 +3109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/ui/JetLoginUI.java" />
-      <jump line="89" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/ui/JetLoginUI.java" />
       <jump line="25" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/build.gradle" />
       <jump line="41" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/build.gradle" />
       <jump line="24" column="56" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/JET.java" />
@@ -3172,49 +3207,51 @@
       <jump line="14" column="41" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main_jq.js" />
       <jump line="120" column="26" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/css/styles.css" />
       <jump line="74" column="6" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main_jq.js" />
+      <jump line="15" column="10" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/opentablepj/index.html" />
+      <jump line="65" column="3" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/opentablepj/index.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>.button</text>
       </register>
-      <register name="0" type="4">
-        <text>remaining-seconds</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgJHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCdtb3VzZW1vdmUnLCByZXNldFRpbWVyLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVzZXQnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbi5yZWxvYWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZWVlJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVtYWluaW5nVGltZXIgPCAwKSB7CiAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2xlYXJJbnRlcnZhbChyZW1haW5pbmdUaW1lckludGVydmFsKTsgCg==</text>
+        <text encoding="base64">ICAgICAgaW50ZXJuYWxUaW1lciA9IDA7IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCAkYnV0dG9uID0gJCgiI2J1dHRvbiIpOwogICAgbGV0ICRzdWJtaXRJbnB1dCA9ICQoIiNzdWJtaXQtaW5wdXQiKTsKICAgIGxldCAkaW5wdXQgPSAkKCIjaW5wdXQiKTsKICAgIGxldCAkYVRpbWVvdXQgPSAkKCIjYS10aW1lb3V0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgJHRpbWVvdXQuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaW50ZXJuYWxUaW1lcklkID0gJAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRidXR0b24ub24oImNsaWNrIiwgZnVuY3Rpb24gKCkgewogICAgICBjb25zb2xlLmxvZygiYnV0dG9uIGNsaWNrZWQiKTsKICAgICAgc29ja2V0LmVtaXQoJ3JlZnJlc2hUcmlnZ2VyJywgJ2ZvbycpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAkaW50ZXJ2YWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRzdWJtaXRJbnB1dC5vbigiY2xpY2siLCBmdW5jdGlvbiAoKSB7CiAgICAgIGxldCBhVG8gPSAkYVRpbWVvdXQudmFsKCkgfHwgMjAwMDsKICAgICAgc29ja2V0LmVtaXQoInN1Ym1pdElucHV0IiwgeyJkYXRlIjogbmV3IERhdGUoKSwgInRleHQiOiAkaW5wdXQudmFsKCksICJpIjogaSwgImFUaW1lb3V0IjogYVRvfSk7CiAgICAgIGkrKzsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9IiI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
