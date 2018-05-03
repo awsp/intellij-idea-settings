@@ -39,7 +39,7 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1525310730612">
+      <file name="/a.dummy" timestamp="1525316528018">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/ui/views/ASENMainView.java" timestamp="1523410297942">
@@ -1712,12 +1712,12 @@
         <mark key="^" line="36" column="49" />
         <mark key="." line="36" column="49" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/domains/SalesOffice.java" timestamp="1525312125063">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/domains/SalesOffice.java" timestamp="1525315420136">
         <mark key="'" line="26" column="4" />
-        <mark key="[" line="78" column="5" />
-        <mark key="]" line="81" column="55" />
-        <mark key="." line="81" column="55" />
-        <mark key="^" line="81" column="55" />
+        <mark key="[" line="81" column="32" />
+        <mark key="]" line="81" column="33" />
+        <mark key="." line="81" column="33" />
+        <mark key="^" line="81" column="33" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/java/com/jtbhawaii/fzkmock/XMLBean.java" timestamp="1512170862685">
         <mark key="[" line="12" column="48" />
@@ -2107,6 +2107,13 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/ANPIMainControllerView.java" timestamp="1525316080023">
+        <mark key="'" line="30" column="7" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="38" column="129" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dataframe/src/main/resources/static/index.html" timestamp="1513713667873">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="5" column="3" />
@@ -2190,12 +2197,12 @@
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" timestamp="1525312135810">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="42" column="65" />
-        <mark key="]" line="42" column="79" />
-        <mark key="." line="42" column="79" />
-        <mark key="^" line="42" column="79" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" timestamp="1525316668946">
+        <mark key="'" line="60" column="43" />
+        <mark key="[" line="37" column="54" />
+        <mark key="]" line="37" column="55" />
+        <mark key="^" line="37" column="55" />
+        <mark key="." line="37" column="55" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/AnpiSystem/app/src/main/java/com/jtb_hawaii/anpisystem/FullscreenActivity.java" timestamp="1513389776100">
         <mark key="[" line="94" column="32" />
@@ -2477,11 +2484,11 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1525292586995">
+      <file name="/fragment.java" timestamp="1525316212317">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/springcli/src/main/java/com/jtbhawaii/springcli/SpringCLIApplication.java" timestamp="1509047651596">
         <mark key="[" line="48" column="9" />
@@ -3404,10 +3411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="15" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main.js" />
-      <jump line="81" column="18" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main_jq.js" />
-      <jump line="8" column="28" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main_jq.js" />
-      <jump line="17" column="7" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main_jq.js" />
       <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main_jq.js" />
       <jump line="14" column="41" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/js/main_jq.js" />
       <jump line="120" column="26" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/sockettrio/public/css/styles.css" />
@@ -3504,49 +3507,55 @@
       <jump line="71" column="44" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" />
       <jump line="65" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" />
       <jump line="26" column="4" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/domains/SalesOffice.java" />
+      <jump line="30" column="7" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/ANPIMainControllerView.java" />
+      <jump line="67" column="47" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" />
+      <jump line="89" column="12" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" />
+      <jump line="55" column="43" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>getSalesOfficeId</text>
+        <text>getWindowHeight</text>
       </register>
       <register name="-" type="4">
-        <text>getSalesOfficeId</text>
+        <text>getWindowHeight</text>
       </register>
       <register name="/" type="4">
         <text>buildTa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb21wb25lbnRBbGlnbm1lbnQocXVlcnlGaWVsZCwgQWxpZ25tZW50LlRPUF9MRUZUKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc2NyZWVuV2lkdGggPSBQYWdlLmdldEN1cnJlbnQoKS5nZXRCcm93c2VyV2luZG93V2lkdGgoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb21wb25lbnRBbGlnbm1lbnQocXVlcnlMYWJlbCwgQWxpZ25tZW50LlRPUF9MRUZUKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgd2luZG93V2lkdGggPSBhcHBDb25maWcuZ2V0V2luZG93V2lkdGgoKTsKICAgICAgICBpbnQgd2luZG93SGVpZ2h0ID0gYXBwQ29uZmlnLmdldFdpbmRvd0hlaWdodCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMYWJlbCBxdWVyeUxhYmVsID0gbmV3IExhYmVsKCJDb21tYW5kIik7CiAgICAgICAgcXVlcnlMYWJlbC5zZXRXaWR0aFVuZGVmaW5lZCgpOwoK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsKCmltcG9ydCBqYXZheC5hbm5vdGF0aW9uLlBvc3RDb25zdHJ1Y3Q7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uc2VydmVyLlBhZ2U7CmltcG9ydCBjb20udmFhZGluLnNwcmluZy5hbm5vdGF0aW9uLlNwcmluZ0NvbXBvbmVudDsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>else {
+                    i++;
+                }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFucGlXaW5kb3cuc2V0UG9zaXRpb25YKGkgKiB3aW5kb3dXaWR0aCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEVudGl0eQo=</text>
+        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbW1hbmRCYXIgPSBjb21tYW5kQmFyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5qdGJoYXdhaWkubWlzLmFucGlfc3lzdGVtLmFwcC5kb21haW5zLkN1c3RvbWVyOwppbXBvcnQgY29tLmp0Ymhhd2FpaS5taXMuYW5waV9zeXN0ZW0uYXBwLnNlcnZpY2VzLkN1c3RvbWVyUHJvdmlkZXI7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQU5QSUNvbW1hbmRCYXIgY29tbWFuZEJhcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGkgPSAwOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5qdGJoYXdhaWkubWlzLmFucGlfc3lzdGVtLmFwcC5kb21haW5zLlNhbGVzT2ZmaWNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
