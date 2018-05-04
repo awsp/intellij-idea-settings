@@ -2228,11 +2228,8 @@
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" timestamp="1525467094187">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" timestamp="1525469500596">
         <mark key="'" line="42" column="13" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/AnpiSystem/app/src/main/java/com/jtb_hawaii/anpisystem/FullscreenActivity.java" timestamp="1513389776100">
         <mark key="[" line="94" column="32" />
@@ -3547,7 +3544,7 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWNlaXZlci4K</text>
+        <text encoding="base64">ICAgICAgICB1cGxvYWQuZwo=</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -3559,31 +3556,31 @@
         <text encoding="base64">ICAgICAgICBzdXBlcigpOwogICAgICAgIHNldENhcHRpb24oZ2V0V2luZG93Q2FwdGlvbihzYWxlc09mZmljZSkpOwogICAgICAgIHNldFdpZHRoKHdpbmRvd1dpZHRoLCBVbml0LlBJWEVMUyk7CiAgICAgICAgc2V0SGVpZ2h0KHdpbmRvd0hlaWdodCwgVW5pdC5QSVhFTFMpOwogICAgICAgIGluaXQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWNlaXZlci4K</text>
+        <text encoding="base64">ICAgICAgICB1cGxvYWQuZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1cGxvYWQuCg==</text>
+        <text encoding="base64">ICAgICAgICByZWNlaXZlci4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICB1cGxvYWQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFByaW1hcnkK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmN1c3RvbWVyUHJvdmlkZXIK</text>
+        <text encoding="base64">QFByaW1hcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEN1c3RvbWVyUmVwbyByZXBvID0gbmV3IAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmN1c3RvbWVyUHJvdmlkZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuYWx5emVyLmRlZmVyZW5jZSgiU2hlZXQxIiwgIkEyIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEN1c3RvbWVyUmVwbyByZXBvID0gbmV3IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21lci5zYXYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuYWx5emVyLmRlZmVyZW5jZSgiU2hlZXQxIiwgIkEyIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXN0b21lci5zYXYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
