@@ -1725,12 +1725,12 @@
         <mark key="^" line="36" column="49" />
         <mark key="." line="36" column="49" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/domains/SalesOffice.java" timestamp="1525824389829">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/domains/SalesOffice.java" timestamp="1525825635386">
         <mark key="'" line="70" column="0" />
-        <mark key="[" line="22" column="26" />
-        <mark key="]" line="23" column="7" />
-        <mark key="^" line="23" column="7" />
-        <mark key="." line="23" column="7" />
+        <mark key="[" line="88" column="15" />
+        <mark key="]" line="88" column="15" />
+        <mark key="^" line="88" column="14" />
+        <mark key="." line="88" column="15" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/java/com/jtbhawaii/fzkmock/XMLBean.java" timestamp="1512170862685">
         <mark key="[" line="12" column="48" />
@@ -3567,11 +3567,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzYWxlc09mZmljZUNvbWJvQm94LnNldEl0ZW1zKHNhbGVzT2ZmaWNlUHJvdmlkZXIuZ2V0U2FsZXNPZmZpY2VzKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>soName</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>getSo</text>
