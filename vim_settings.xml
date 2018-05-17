@@ -145,6 +145,11 @@
         <mark key="." line="33" column="117" />
         <mark key="^" line="33" column="117" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cm_dayforce/src/main/java/com/jtbhawaii/mis/config/deprecated/PHCSDBConfig.java" timestamp="1526586375201">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jwtoken/src/main/java/com/jtbhawaii/jwtoken/rest/Person.java" timestamp="1523996470761">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="9" column="45" />
@@ -1337,9 +1342,6 @@
         <mark key="]" line="10" column="42" />
         <mark key="." line="3" column="89" />
         <mark key="^" line="3" column="89" />
-      </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cm_dayforce/src/main/java/com/jtbhawaii/mis/config/JETSecurityConfiguration.java" timestamp="1526508094053">
-        <mark key="'" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/resources/application.properties" timestamp="1512412810356">
         <mark key="[" line="0" column="16" />
@@ -2974,9 +2976,6 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/resources/application-dev.yml" timestamp="1526506948030">
-        <mark key="'" line="10" column="14" />
-      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs2/src/main/java/com/jtbhawaii/misdocs2/model/Document.java" timestamp="1517863333183">
         <mark key="[" line="28" column="22" />
         <mark key="]" line="28" column="21" />
@@ -3299,6 +3298,12 @@
         <mark key="." line="96" column="28" />
         <mark key="^" line="96" column="28" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cm_dayforce/src/main/java/com/jtbhawaii/mis/config/PHCSDbConfig.java" timestamp="1526587987370">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="26" column="82" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs/src/main/java/com/jtbhawaii/misdocs/ui/config/MISDocs.java" timestamp="1508294724688">
         <mark key="[" line="4" column="46" />
         <mark key="]" line="4" column="53" />
@@ -3521,7 +3526,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;enti&quot;</text>
+        <text>DataSourceBuilder.create().build();</text>
       </register>
       <register name="/" type="4">
         <text>jdbc</text>
@@ -3533,28 +3538,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZW50aXR5TWFuYWdlckZhCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRW1iZWRkZWREYXRhYmFzZUJ1aWxkZXIoKS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5qdGJoYXdhaWkubWlzLnJlcG9zaXRvcmllcy5QSENTRGFvOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5iZWFucy5mYWN0b3J5LmFubm90YXRpb24uQXV0b3dpcmVkOwo=</text>
+        <text encoding="base64">ICAgICAgICBmdmZ2ZnZmdmZ2ZnZmdmZ2ZnZmdmZ2ZnZmdmZ2ZmxrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYW8udGVzdCgpOwo=</text>
+        <text encoding="base64">ICAgIExvY2EK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHJ1bihTdHJpbmcuLi4gYXJncykgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgZGFvLnRlc3QoKTsKICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBwdWJsaWMgSkVUKFBIQ1NEYW8gZGFvKSB7CiAgICAgICAgdGhpcy5kYW8gPSBkYW87CiAgICB9Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZW50aXR5TWFuYWdlckZhCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZAogICAgcHVibGljIEpFVChQSENTRGFvIGRhbykgewogICAgICAgIHRoaXMuZGFvID0gZGFvOwogICAgfQo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5qdGJoYXdhaWkubWlzLnJlcG9zaXRvcmllcy5QSENTRGFvOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5iZWFucy5mYWN0b3J5LmFubm90YXRpb24uQXV0b3dpcmVkOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkYW8udGVzdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUEhDU0RhbyBkYW87Cg==</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHJ1bihTdHJpbmcuLi4gYXJncykgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgZGFvLnRlc3QoKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
