@@ -5,4 +5,9 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="utf8" value="&lt;meta charset=&quot;UTF-8&quot; /&gt;" description="UTF8 Meta" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>

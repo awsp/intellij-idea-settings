@@ -102,4 +102,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="gradle.gson" value="compile 'com.google.code.gson:gson:2.8.0'" description="Google JSON Library" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
