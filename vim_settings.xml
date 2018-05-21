@@ -622,12 +622,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/service/PayrollProductionService.java" timestamp="1526936210965">
-        <mark key="'" line="28" column="8" />
-        <mark key="[" line="17" column="76" />
-        <mark key="]" line="17" column="96" />
-        <mark key="^" line="17" column="96" />
-        <mark key="." line="17" column="96" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/service/PayrollProductionService.java" timestamp="1526940204248">
+        <mark key="'" line="35" column="8" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="29" column="69" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/javatrio/src/com/jtbhawaii/App.java" timestamp="1513995686283">
         <mark key="[" line="13" column="0" />
@@ -1652,12 +1652,12 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/AppController.java" timestamp="1526936170073">
-        <mark key="'" line="22" column="7" />
-        <mark key="[" line="55" column="72" />
-        <mark key="]" line="55" column="73" />
-        <mark key="." line="55" column="73" />
-        <mark key="^" line="55" column="73" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/AppController.java" timestamp="1526938415971">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="50" column="25" />
+        <mark key="]" line="46" column="51" />
+        <mark key="." line="46" column="51" />
+        <mark key="^" line="46" column="51" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/security/Role.java" timestamp="1516825923475">
         <mark key="[" line="2" column="0" />
@@ -2359,11 +2359,11 @@
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/resources/application.yml" timestamp="1523583107653">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/js/main.js" timestamp="1526934546411">
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="31" />
-        <mark key="." line="19" column="31" />
-        <mark key="^" line="19" column="31" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/js/main.js" timestamp="1526940170327">
+        <mark key="[" line="27" column="92" />
+        <mark key="]" line="27" column="92" />
+        <mark key="^" line="27" column="92" />
+        <mark key="." line="27" column="92" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/opentablepj/index.html" timestamp="1524191263913">
         <mark key="'" line="65" column="3" />
@@ -2542,7 +2542,7 @@
         <mark key="^" line="56" column="19" />
         <mark key="." line="56" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1526933897699">
+      <file name="/fragment.java" timestamp="1526936782272">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -3511,8 +3511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="47" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" />
-      <jump line="55" column="43" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" />
       <jump line="129" column="37" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" />
       <jump line="75" column="36" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" />
       <jump line="87" column="52" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" />
@@ -3611,49 +3609,56 @@
       <jump line="13" column="8" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/templates/index.hbs" />
       <jump line="20" column="7" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/AppController.java" />
       <jump line="28" column="8" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/service/PayrollProductionService.java" />
+      <jump line="47" column="42" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/AppController.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/AppController.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>PayrollMethodSerialNo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLkRhdGU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>PayrollMethodSerialNo</text>
+        <text>payllDates</text>
       </register>
       <register name="/" type="4">
         <text>DSL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBIYXNoTWFwPEludGVnZXIsIEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+PiBhdmFpbGFibGVEYXRlcyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBJbnRlZ2VyIGkgPSAwOwoKICAgICAgICB0cnkgewogICAgICAgICAgICBTdGF0ZW1lbnQgc3RhdGVtZW50ID0gUEhDU0RiQ29ubmVjdGlvbi5jb25uKCkuY3JlYXRlU3RhdGVtZW50KCk7CiAgICAgICAgICAgIGZpbmFsIFN0cmluZyBzcWwgPSAiU0VMRUNUICogRlJPTSB2d1BheXJvbGxQcm9kdWN0aW9ucyBHUk9VUCBCWSBQYXlyb2xsTWV0aG9kU2VyaWFsTm8iOwogICAgICAgICAgICBSZXN1bHRTZXQgcmVzdWx0U2V0ID0gc3RhdGVtZW50LmV4ZWN1dGVRdWVyeShzcWwpOwoKICAgICAgICAgICAgd2hpbGUgKHJlc3VsdFNldC5uZXh0KCkpIHsKICAgICAgICAgICAgICAgIEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+IHByb2R1Y3Rpb25EYXRlcz0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgICAgICAgICAgcHJvZHVjdGlvbkRhdGVzLnB1dCgic3RhcnREYXRlIiwgcmVzdWx0U2V0LmdldFN0cmluZygiU3RhcnREYXRlIikpOwogICAgICAgICAgICAgICAgcHJvZHVjdGlvbkRhdGVzLnB1dCgiZmluaXNoRGF0ZSIsIHJlc3VsdFNldC5nZXRTdHJpbmcoIkZpbmlzaERhdGUiKSk7CiAgICAgICAgICAgICAgICBhdmFpbGFibGVEYXRlcy5wdXQoaSsrLHByb2R1Y3Rpb25EYXRlcykgOwogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoU1FMRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3Rpb25EYXRlcy5wdXQoImZpbmlzaERhdGUiLCByZXN1bHRTZXQuZ2V0RGF0ZSgiRmluaXNoRGF0ZSIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUG9zdENvbnN0cnVjdCAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLkRhdGU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEdzb24oKS50b0pzb24oYXZhaWxhYmxlRGF0ZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhmb28pOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAvLyB3ZWJpeC5hamF4KCkuZ2V0KCIvYXBpL3BheXJvbGwvZGF0ZXMiLCBmdW5jdGlvbiAodGV4dCwgZGF0YSkgewogICAgLy8gICB2YXIgZGF0ZXMgPSBbXTsKICAgIC8vICAgdmFyIGkgPSAwOwogICAgLy8gICB2YXIganNvbkRhdGEgPSBkYXRhLmpzb24oKTsKICAgIC8vICAgZm9yICh2YXIgZCBpbiBqc29uRGF0YSkgewogICAgLy8gICAgIGlmICghanNvbkRhdGEuaGFzT3duUHJvcGVydHkoZCkpIGNvbnRpbnVlOwogICAgLy8gICAgIHZhciBpdGVtID0ganNvbkRhdGFbZF07CiAgICAvLyAgICAgZGF0ZXMucHVzaCh7CiAgICAvLyAgICAgICBpZDogaSsrLAogICAgLy8gICAgICAgdmFsdWU6IGl0ZW0uc3RhcnREYXRlICsgJyAtICcgKyBpdGVtLmZpbmlzaERhdGUKICAgIC8vICAgICB9KTsKICAgIC8vICAgfQogICAgLy8KICAgIC8vICAgdmFyIG9wdGlvbnMgPSB7CiAgICAvLyAgICAgZGF0YTogZGF0ZXMKICAgIC8vICAgfTsKICAgIC8vCiAgICAvLyAgIHZhciBsaXN0ID0gJCQoJ3BheXJvbGxEYXRlcycpLmdldFBvcHVwKCkuZ2V0TGlzdCgpOwogICAgLy8gICBsaXN0LmNsZWFyQWxsKCk7CiAgICAvLyAgIGxpc3QucGFyc2Uob3B0aW9ucyk7CiAgICAvLyB9KTs=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>{
+                    data: []
+                  }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZW1wbGF0ZTogJyNzdGFydERhdGUjJywK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>[
+          {id: 1, value: 'v1'},
+          {id: 2, value: 'v2'}
+        ]</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGFzaE1hcDxJbnRlZ2VyLCBIYXNoTWFwPFN0cmluZywgU3RyaW5nPj4gYXZhaWxhYmxlRGF0ZXMgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgICAgIEludGVnZXIgaSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkLnN0YXJ0RGF0ZSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTogJyNzdGFydERhdGUjJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
