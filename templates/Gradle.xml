@@ -64,4 +64,24 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="gradle.spark" value="compile 'com.sparkjava:spark-core:2.7.2'" description="Spark Java" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="gradle.slf4j" value="compile 'org.slf4j:slf4j-simple:1.7.25'" description="SLF4J Logger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="gradle.spark-handlebars" value="compile 'com.sparkjava:spark-tempalte-handlebars:2.7.1'" description="Handlebars Template Engine" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="gradle.handlebars" value="compile 'com.github.jknack:handlebars:4.0.6'" description="Handlebars Template Engine" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>

@@ -74,11 +74,19 @@
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
   <action id="AddToFavoritesPopup" />
+  <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Edit" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="ChangeTypeSignature" />
   <action id="CheckinProject" />
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
     <keyboard-shortcut first-keystroke="shift alt w" />
@@ -107,30 +115,35 @@
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.ColumnSortAsc" />
   <action id="Console.TableResult.ColumnSortDesc" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Console.TableResult.EditValueMaximized">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
+  <action id="Console.TableResult.NavigateAction" />
   <action id="Console.TableResult.SubmitAddedRow" />
+  <action id="CopyElement" />
   <action id="CopyPaths" />
   <action id="CopyReference" />
   <action id="Cvs.BrowseCVSRepository">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="DSM.OpenInEditor" />
   <action id="DatabaseView.CopyAction" />
+  <action id="DatabaseView.CopyTable" />
   <action id="DatabaseView.GenerateDDLAction" />
   <action id="DatabaseView.PropertiesAction" />
+  <action id="Debug" />
+  <action id="Debugger.EditArrayFilter" />
+  <action id="Debugger.EditFrameSource" />
   <action id="Diff.SelectedChange" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Diff.UpdatedFiles" />
-  <action id="DomCollectionControl.Edit">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="DomCollectionControl.Edit" />
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
+  <action id="EditSource" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="alt c" />
     <keyboard-shortcut first-keystroke="ctrl c" />
@@ -196,6 +209,7 @@
     <keyboard-shortcut first-keystroke="meta q" />
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
+  <action id="ExternalSystem.OpenConfig" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.TogglePathShowing" />
@@ -222,6 +236,9 @@
     <keyboard-shortcut first-keystroke="alt n" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="GotoAction" />
   <action id="GotoChangedFile" />
   <action id="GotoClass">
@@ -242,12 +259,17 @@
     <keyboard-shortcut first-keystroke="meta l" />
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="GotoNextError" />
+  <action id="GotoNextIncompletePropertyAction" />
   <action id="GotoRow" />
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="meta o" />
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
+  <action id="Graph.Faces.OpenSelectedPages" />
   <action id="GuiDesigner.Duplicate" />
+  <action id="GuiDesigner.EditComponent" />
+  <action id="GuiDesigner.EditGroup" />
   <action id="GuiDesigner.ExpandSelection" />
   <action id="HippieCompletion" />
   <action id="Images.Editor.ToggleGrid" />
@@ -256,6 +278,7 @@
     <keyboard-shortcut first-keystroke="meta j" />
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
+  <action id="Jdbc.OpenEditor" />
   <action id="Jdbc.RunQueryInConsole" />
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
@@ -267,6 +290,7 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="shift alt close_bracket" />
   </action>
+  <action id="OpenModuleSettings" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
@@ -291,15 +315,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="Refresh" />
-  <action id="RemoteHostView.EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="RemoteHostView.EditSource" />
   <action id="Replace" />
   <action id="Rerun" />
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-    <keyboard-shortcut first-keystroke="f10" />
-  </action>
+  <action id="RunDashboard.EditConfiguration" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
     <keyboard-shortcut first-keystroke="alt s" />
@@ -317,6 +336,9 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="SendEOF" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="ShowColorPicker">
     <keyboard-shortcut first-keystroke="shift ctrl alt c" />
   </action>
@@ -335,6 +357,16 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="meta f2" />
+    <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="meta alt t" />
     <keyboard-shortcut first-keystroke="shift alt s" />
@@ -350,17 +382,24 @@
   </action>
   <action id="TableResult.GrowSelection" />
   <action id="TagDocumentationNavigation" />
+  <action id="ToggleBookmark" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl meta f" />
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
+  <action id="UML.ApplyCurrentLayout" />
   <action id="Uml.ShowDiff" />
   <action id="UnselectPreviousOccurrence" />
+  <action id="Vcs.EditSource" />
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="WebOpenInAction" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.JumpToSource" />
+  <action id="XDebugger.SetValue" />
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
   <action id="com.github.setial.intellijjavadocs.action.JavaDocGenerateActionOnEditor" />
