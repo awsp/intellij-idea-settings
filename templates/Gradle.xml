@@ -84,4 +84,22 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="gradle.sparkjar" value="task fatJar(type: Jar) {&#10;&#9;manifest {&#10;        attributes 'Implementation-Title': '$appTitle$',  &#10;        &#9;'Implementation-Version': $version$,&#10;        &#9;'Main-Class': '$mainClass$'&#10;    }&#10;    baseName = project.name + '-all'&#10;    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }&#10;    with jar&#10;}" description="Executable Jar for Spark Java" toReformat="false" toShortenFQNames="true">
+    <variable name="appTitle" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="version" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="mainClass" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="gradle.mssql" value="compile 'com.microsoft.sqlserver:mssql-jdbc:6.4.0.jre8'" description="MSSQL" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="gradle.hibernate" value="compile 'org.hibernate:hibernate-core:5.2.10.Final'" description="Hibernate ORM" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
