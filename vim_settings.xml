@@ -622,12 +622,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/service/PayrollProductionService.java" timestamp="1526952266212">
-        <mark key="'" line="82" column="8" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="55" column="41" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/service/PayrollProductionService.java" timestamp="1526954871114">
+        <mark key="'" line="78" column="8" />
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="75" />
+        <mark key="." line="22" column="75" />
+        <mark key="^" line="22" column="75" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/javatrio/src/com/jtbhawaii/App.java" timestamp="1513995686283">
         <mark key="[" line="13" column="0" />
@@ -1119,12 +1119,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/templates/index.hbs" timestamp="1526950538104">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/templates/index.hbs" timestamp="1526955489748">
         <mark key="'" line="20" column="59" />
-        <mark key="[" line="54" column="54" />
-        <mark key="]" line="54" column="61" />
-        <mark key="." line="54" column="54" />
-        <mark key="^" line="54" column="53" />
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="84" />
+        <mark key="." line="17" column="18" />
+        <mark key="^" line="17" column="17" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/js/moment.js" timestamp="1526949785685">
         <mark key="[" line="0" column="0" />
@@ -1367,12 +1367,12 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/styles.css" timestamp="1526950493984">
-        <mark key="'" line="48" column="16" />
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="23" />
-        <mark key="^" line="6" column="23" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/styles.css" timestamp="1526955592744">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="112" column="3" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFResponseFile.java" timestamp="1515807761207">
         <mark key="[" line="5" column="0" />
@@ -1989,11 +1989,11 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/model/PayrollDutyCollection.java" timestamp="1526952256290">
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="29" />
-        <mark key="^" line="19" column="29" />
-        <mark key="." line="19" column="29" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/model/PayrollDutyCollection.java" timestamp="1526953350919">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="54" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/build.gradle" timestamp="1526935034053">
         <mark key="[" line="33" column="29" />
@@ -2569,7 +2569,7 @@
         <mark key="^" line="56" column="19" />
         <mark key="." line="56" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1526941030223">
+      <file name="/fragment.java" timestamp="1526953410429">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -3538,10 +3538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="25" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" />
-      <jump line="35" column="39" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" />
-      <jump line="21" column="25" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" />
-      <jump line="36" column="39" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" />
       <jump line="46" column="19" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/services/ExcelAnalyzer.java" />
       <jump line="56" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" />
       <jump line="66" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPICommandBar.java" />
@@ -3638,49 +3634,53 @@
       <jump line="43" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/model/PayrollDuty.java" />
       <jump line="10" column="29" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/model/PayrollDuty.java" />
       <jump line="65" column="21" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/model/PayrollDuty.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/model/PayrollDutyCollection.java" />
+      <jump line="107" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/styles.css" />
+      <jump line="10" column="2" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/styles.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/styles.css" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>addPayrollDuties</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>Float</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHV0eS5zZXRQYXlyb2xsUHJvZHVjdGlvblN0YXJ0KHJlc3VsdFNldC5nZXRTdHJpbmcoIlBheXJvbGxQcm9kdWN0aW9uRGV0YWlsU3RhcnREYXRlVGltZSIpKTsK</text>
+        <text encoding="base64">ICA8IS0tPHRmb290Pi0tPgogIDwhLS08dHI+LS0+CiAgPCEtLTx0aD4tLT4KICA8IS0tPGRpdiBjbGFzcz0icG9zdC1jaGVjayI+UG9zdCBDaGVjazwvZGl2Pi0tPgogIDwhLS08L3RoPi0tPgogIDwhLS08dGg+LS0+CiAgPCEtLTxzcGFuIGNsYXNzPSJlYXJuZWQtaG91cnMiPnslcG9zdENoZWNrVGltZSV9PC9zcGFuPi0tPgogIDwhLS08L3RoPi0tPgogIDwhLS08L3RyPi0tPgogIDwhLS08dHI+LS0+CiAgPCEtLTx0aD5Ub3RhbDwvdGg+LS0+CiAgPCEtLTx0aD4uLi48L3RoPi0tPgogIDwhLS08L3RyPi0tPgogIDwhLS08L3Rmb290Pi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5hZGQoZHV0eSk7Cg==</text>
+        <text encoding="base64">bmF2IHVsIGxpIHsKICAgIGxpc3Qtc3R5bGU6IG5vbmU7CiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOyAK</text>
+        <text encoding="base64">ICAgICAgPC91bD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEhhc2hNYXA8U3RyaW5nLCBQYXlyb2xsRHV0eUNvbGxlY3Rpb24+IGRyaXZlckR1dGllcyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgPHVsPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZHV0aWVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBcnJheUxpc3Q8UGF5cm9sbER1dHk+IGdldER1dGllcygpIHsKICAgICAgICByZXR1cm4gZHV0aWVzOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4gZHV0eSA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICAgICAgZHV0eS5wdXQoImRyaXZlcl9pZCIsIHJlc3VsdFNldC5nZXRTdHJpbmcoIkRyaXZlcklEIikpOwogICAgICAgICAgICBkdXR5LnB1dCgiZHJpdmVyX3R5cGUiLCByZXN1bHRTZXQuZ2V0U3RyaW5nKCJEcml2ZXJUeXBlIikpOwogICAgICAgICAgICBkdXR5LnB1dCgic3VybmFtZSIsIHJlc3VsdFNldC5nZXRTdHJpbmcoIlN1cm5hbWUiKSk7CiAgICAgICAgICAgIGR1dHkucHV0KCJmaXJzdG5hbWUiLCByZXN1bHRTZXQuZ2V0U3RyaW5nKCJGaXJzdE5hbWUiKSk7CiAgICAgICAgICAgIGR1dHkucHV0KCJob3VycyIsIHJlc3VsdFNldC5nZXRGbG9hdCgiSG91cnMiKSk7CiAgICAgICAgICAgIGR1dHkucHV0KCJib29raW5nX2lkIiwgcmVzdWx0U2V0LmdldFN0cmluZygiQm9va2luZ0lEIikpOwogICAgICAgICAgICBkdXR5LnB1dCgiYm9va2luZ190eXBlIiwgcmVzdWx0U2V0LmdldFN0cmluZygiQm9va2luZ1R5cGUiKSk7CiAgICAgICAgICAgIGR1dHkucHV0KCJwaWNrdXAiLCByZXN1bHRTZXQuZ2V0U3RyaW5nKCJQaWNrdXAiKSk7CiAgICAgICAgICAgIGR1dHkucHV0KCJkZXN0aW5hdGlvbiIsIHJlc3VsdFNldC5nZXRTdHJpbmcoIkRlc3RpbmF0aW9uIikpOwogICAgICAgICAgICBkdXR5LnB1dCgicGF5cm9sbF9wcm9kdWN0aW9uX3N0YXJ0IiwgcmVzdWx0U2V0LmdldFN0cmluZygiUGF5cm9sbFByb2R1Y3Rpb25EZXRhaWxTdGFydERhdGVUaW1lIikpOwogICAgICAgICAgICBkdXR5LnB1dCgicGF5cm9sbF9wcm9kdWN0aW9uX2ZpbmlzaCIsIHJlc3VsdFNldC5nZXRTdHJpbmcoIlBheXJvbGxQcm9kdWN0aW9uRGV0YWlsRmluaXNoRGF0ZVRpbWUiKSk7Cg==</text>
+        <text encoding="base64">ICAgIDxoNj48L2g2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHV0eS5zZXRCb29raW5nSWQoKTsK</text>
+        <text encoding="base64">ICAgIDxoNT48L2g1Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
