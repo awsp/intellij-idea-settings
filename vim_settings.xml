@@ -622,12 +622,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/service/PayrollProductionService.java" timestamp="1526954871114">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/service/PayrollProductionService.java" timestamp="1527036376447">
         <mark key="'" line="78" column="8" />
-        <mark key="[" line="22" column="40" />
-        <mark key="]" line="22" column="75" />
-        <mark key="." line="22" column="75" />
-        <mark key="^" line="22" column="75" />
+        <mark key="[" line="20" column="60" />
+        <mark key="]" line="20" column="61" />
+        <mark key="." line="20" column="61" />
+        <mark key="^" line="20" column="61" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/javatrio/src/com/jtbhawaii/App.java" timestamp="1513995686283">
         <mark key="[" line="13" column="0" />
@@ -3646,16 +3646,16 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>foot</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiIG5nLWNsaWNrPSJkcml2ZXJQYXlyb2xsRHV0aWVzLmNoYW5nZU1vZGUoKSIgY2xhc3M9ImJ1dHRvbiI+Q29udmVydCB0byB7JWRyaXZlclBheXJvbGxEdXRpZXMubW9kZSV9PC9hPgo=</text>
+      <register name="0" type="4">
+        <text>00:00:00</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
