@@ -624,7 +624,7 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/service/PayrollProductionService.java" timestamp="1527191554130">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/service/PayrollProductionService.java" timestamp="1527206690468">
         <mark key="'" line="83" column="8" />
         <mark key="[" line="94" column="34" />
         <mark key="]" line="94" column="34" />
@@ -1049,12 +1049,12 @@
         <mark key="^" line="60" column="43" />
         <mark key="." line="60" column="43" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/js/app.js" timestamp="1527192003414">
-        <mark key="'" line="88" column="63" />
-        <mark key="[" line="116" column="1" />
-        <mark key="]" line="116" column="1" />
-        <mark key="." line="116" column="1" />
-        <mark key="^" line="116" column="1" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/js/app.js" timestamp="1527209855867">
+        <mark key="'" line="139" column="0" />
+        <mark key="[" line="174" column="58" />
+        <mark key="]" line="175" column="33" />
+        <mark key="." line="175" column="33" />
+        <mark key="^" line="175" column="33" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/repositories/CustomerRepository.java" timestamp="1523066085271">
         <mark key="[" line="7" column="75" />
@@ -1116,6 +1116,11 @@
         <mark key="." line="23" column="54" />
         <mark key="^" line="23" column="61" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/select.css" timestamp="1527209487136">
+        <mark key="[" line="25" column="1" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/gradletrio2/src/main/java/com/jtbhawaii/gradletrio2/MainController.java" timestamp="1516824409902">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="8" />
@@ -1128,12 +1133,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/templates/index.hbs" timestamp="1527193336184">
-        <mark key="'" line="128" column="51" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-        <mark key="^" line="128" column="24" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/templates/index.hbs" timestamp="1527210324938">
+        <mark key="'" line="22" column="64" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="128" column="72" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/js/moment.js" timestamp="1526949785685">
         <mark key="[" line="0" column="0" />
@@ -1162,10 +1167,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/data/codes.json" timestamp="1527187349524">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/data/codes.json" timestamp="1527210233044">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="7" column="14" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/service/TargetDBSQLite.java" timestamp="1510859362468">
         <mark key="[" line="25" column="36" />
@@ -1381,12 +1387,12 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/styles.css" timestamp="1527193146211">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="38" column="16" />
-        <mark key="]" line="38" column="19" />
-        <mark key="." line="38" column="19" />
-        <mark key="^" line="38" column="19" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/styles.css" timestamp="1527208093146">
+        <mark key="'" line="18" column="16" />
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="20" column="16" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/IFResponseFile.java" timestamp="1515807761207">
         <mark key="[" line="5" column="0" />
@@ -2593,7 +2599,7 @@
         <mark key="^" line="56" column="19" />
         <mark key="." line="56" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1526953410429">
+      <file name="/fragment.java" timestamp="1527206391637">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -3568,11 +3574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cm_dayforce/src/main/resources/application.yml" />
-      <jump line="43" column="31" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cm_dayforce/build.gradle" />
-      <jump line="44" column="40" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cm_dayforce/build.gradle" />
-      <jump line="48" column="43" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cm_dayforce/build.gradle" />
-      <jump line="7" column="1" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cm_dayforce/src/main/java/com/jtbhawaii/mis/repositories/PHCSDao.java" />
       <jump line="9" column="1" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cm_dayforce/src/main/java/com/jtbhawaii/mis/security/AdminSeeder.java" />
       <jump line="29" column="13" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cm_dayforce/src/main/java/com/jtbhawaii/mis/config/DefaultDataSourceConfig.java" />
       <jump line="57" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.0.4.RELEASE/45a01e8f652600f37a5535f96278be07422b47b4/spring-tx-5.0.4.RELEASE-sources.jar!/org/springframework/transaction/annotation/Transactional.java" />
@@ -3630,7 +3631,6 @@
       <jump line="17" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/js/app.js" />
       <jump line="32" column="31" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/js/app.js" />
       <jump line="24" column="9" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/templates/index.hbs" />
-      <jump line="85" column="12" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/templates/index.hbs" />
       <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/templates/index.hbs" />
       <jump line="113" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/styles.css" />
       <jump line="40" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/model/PayrollDutyCollection.java" />
@@ -3668,67 +3668,69 @@
       <jump line="34" column="16" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/styles.css" />
       <jump line="128" column="51" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/templates/index.hbs" />
       <jump line="20" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/styles.css" />
+      <jump line="55" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/styles.css" />
+      <jump line="18" column="16" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/styles.css" />
+      <jump line="42" column="41" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/js/app.js" />
+      <jump line="139" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/js/app.js" />
+      <jump line="85" column="13" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/templates/index.hbs" />
+      <jump line="22" column="64" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/templates/index.hbs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7JXRoZUIubmFtZSV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7JWNvZGVzIHwganNvbiV9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>rga</text>
       </register>
       <register name="/" type="4">
-        <text>#payroll-module ul li</text>
+        <text>ui-select</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGF5cm9sbFByb2R1Y3Rpb25TZXJ2aWNlIHNlcnZpY2UgPSBuZXcgUGF5cm9sbFByb2R1Y3Rpb25TZXJ2aWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8YSBuZy1yZXBlYXQ9ImNvZGUgaW4gY29kZXMiIGhyZWY9IiMiIGNsYXNzPSJiZWZvcmUtYmFybiIgbmctY2xpY2s9ImRhaWx5RHV0eS5zZXRCZWZvcmVCYXJuKCRldmVudCwgY29kZSkiPnslY29kZS5uYW1lJX08L2E+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7JXRoZUIubmFtZSV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7JWNvZGVzIHwganNvbiV9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7JXRoZUIubmFtZSV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8YSBuZy1yZXBlYXQ9Iihjb2RlLCByYXRlKSBpbiBjb2RlcyIgaHJlZj0iIyIgY2xhc3M9ImJlZm9yZS1iYXJuIiBuZy1jbGljaz0iZGFpbHlEdXR5LnNldEJlZm9yZUJhcm4oJGV2ZW50LCBjb2RlKSI+eyVjb2RlJX08L2E+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Ii9jc3Mvc3R5bGVzLmNzcyIgdHlwZT0idGV4dC9jc3MiLz4K</text>
+        <text encoding="base64">ICAiQmFybjMwIgogIDoKICAwLjUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Ii9jc3Mvc2VsZWN0LmNzcyIgdHlwZT0idGV4dC9jc3MiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNtYWxsPgogICAgICAgICAgICBuYW1lOiB7JXBlcnNvbi5uYW1lJX0KICAgICAgICAgICAgYWdlOiA8c3BhbiBuZy1iaW5kLWh0bWw9IicnK3RoZUIuYWdlIHwgaGlnaGxpZ2h0OiAkc2VsZWN0LnNlYXJjaCI+PC9zcGFuPgogICAgICAgICAgICA8L3NtYWxsPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMTAwJTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmRhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMTAwJTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLmRhdGEgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>#payroll-module ul li</last-search>
+      <last-search>ui-select</last-search>
       <last-offset />
-      <last-pattern>#payroll-module ul li</last-pattern>
+      <last-pattern>ui-select</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>time-frame-table</entry>
-        <entry>text-center</entry>
-        <entry>postCheck</entry>
-        <entry>convertTo</entry>
         <entry>thead</entry>
         <entry>tfoot</entry>
         <entry>foot</entry>
@@ -3740,11 +3742,15 @@
         <entry>Contorller</entry>
         <entry>Controller</entry>
         <entry>debu</entry>
-        <entry>main</entry>
         <entry>h5</entry>
         <entry>nav</entry>
         <entry>itemName</entry>
         <entry>#payroll-module ul li</entry>
+        <entry>toFixed</entry>
+        <entry>main</entry>
+        <entry>bar</entry>
+        <entry>select.css</entry>
+        <entry>ui-select</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
