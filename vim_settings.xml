@@ -212,12 +212,12 @@
         <mark key="^" line="27" column="5" />
         <mark key="." line="27" column="5" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/ui/DFAppController.java" timestamp="1528336906954">
-        <mark key="'" line="14" column="77" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="45" column="79" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/ui/DFAppController.java" timestamp="1528338063783">
+        <mark key="'" line="17" column="77" />
+        <mark key="[" line="60" column="83" />
+        <mark key="]" line="60" column="88" />
+        <mark key="." line="60" column="88" />
+        <mark key="^" line="60" column="88" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi-system/src/main/java/com/jtbhawaii/anpisystem/repository/SalesOfficeRepository.java" timestamp="1513393251001">
         <mark key="[" line="6" column="0" />
@@ -559,12 +559,12 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/TPT2000OGG.java" timestamp="1528333635275">
-        <mark key="'" line="10" column="31" />
-        <mark key="[" line="23" column="43" />
-        <mark key="]" line="23" column="48" />
-        <mark key="." line="23" column="48" />
-        <mark key="^" line="23" column="48" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/TPT2000OGG.java" timestamp="1528339167037">
+        <mark key="'" line="13" column="31" />
+        <mark key="[" line="44" column="50" />
+        <mark key="]" line="44" column="57" />
+        <mark key="." line="44" column="57" />
+        <mark key="^" line="44" column="57" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/procedure.asciidoc" timestamp="1509417051486">
         <mark key="[" line="2" column="0" />
@@ -1106,11 +1106,11 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/ui/tasks/PayrollGenerateService.java" timestamp="1528334992259">
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="32" />
-        <mark key="^" line="31" column="32" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/ui/tasks/PayrollGenerateService.java" timestamp="1528338606496">
+        <mark key="[" line="31" column="35" />
+        <mark key="]" line="32" column="15" />
+        <mark key="." line="32" column="15" />
+        <mark key="^" line="32" column="15" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/unit_testing/src/main/resources/application.properties" timestamp="1519176543972">
         <mark key="[" line="1" column="0" />
@@ -2705,7 +2705,7 @@
         <mark key="^" line="56" column="19" />
         <mark key="." line="56" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1528321956021">
+      <file name="/fragment.java" timestamp="1528338142735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -2863,11 +2863,11 @@
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/js/angular.min.js" timestamp="1526943756704">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/TPT2000.java" timestamp="1528333624275">
-        <mark key="[" line="25" column="52" />
-        <mark key="]" line="25" column="57" />
-        <mark key="^" line="25" column="57" />
-        <mark key="." line="25" column="57" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/TPT2000.java" timestamp="1528339130129">
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="29" column="32" />
+        <mark key="^" line="29" column="32" />
+        <mark key="." line="29" column="32" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/concurrenttest/src/main/java/ConcurrentTest.java" timestamp="1510017705425">
         <mark key="[" line="12" column="43" />
@@ -3849,11 +3849,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gIlNFTEVDVCBQQVlfTk8sIERfSE9VUiwgVFJBTl9EQVRFLCBEX05PXG4iICsKICAgICAgICAgICAgICAgICJGUk9NIHRibERhaWx5VHJpcFNoZWV0IGR0XG4iICsKICAgICAgICAgICAgICAgICJMRUZUIEpPSU4gdGJsRHJpdmVyIGQgT04gKGR0LkRfTk8gPSBkLkdVSURFX05PIEFORCBQQVlfTk8gPD4gJycpXG4iICsKICAgICAgICAgICAgICAgICJXSEVSRSBUUkFOX0RBVEUgQkVUV0VFTiA/IEFORCA/IEFORCBEX0hPVVIgPiAwIjsKICAgICAgICBQcmVwYXJlZFN0YXRlbWVudCBzdGF0ZW1lbnQgPSBjb25uZWN0aW9uLnByZXBhcmVTdGF0ZW1lbnQoc3FsKTsKICAgICAgICBTaW1wbGVEYXRlRm9ybWF0IHNkZiA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5LU1NLWRkIik7CiAgICAgICAgRGF0ZSBmcm9tRGF0ZSA9IG5ldyBEYXRlKHNkZi5wYXJzZShmcm9tKS5nZXRUaW1lKCkpOwogICAgICAgIERhdGUgdG9EYXRlID0gbmV3IERhdGUoc2RmLnBhcnNlKHRvKS5nZXRUaW1lKCkpOwoKICAgICAgICBzdGF0ZW1lbnQuc2V0RGF0ZSgxLCBmcm9tRGF0ZSk7CiAgICAgICAgc3RhdGVtZW50LnNldERhdGUoMiwgdG9EYXRlKTsKCiAgICAgICAgUmVzdWx0U2V0IHJlc3VsdFNldCA9IHN0YXRlbWVudC5leGVjdXRlUXVlcnkoKTsKCiAgICAgICAgd2hpbGUgKHJlc3VsdFNldC5uZXh0KCkpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc3VsdFNldC5nZXRTdHJpbmcoIlBBWV9OTyIpICsgIiAiICsgcmVzdWx0U2V0LmdldEZsb2F0KCJEX0hPVVIiKSArICIgIiArIHJlc3VsdFNldC5nZXREYXRlKCJUUkFOX0RBVEUiKSk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getString</text>
       </register>
       <register name="-" type="4">
-        <text>, errorLog</text>
+        <text>getString</text>
       </register>
       <register name="/" type="4">
         <text>task</text>
@@ -3862,41 +3862,31 @@
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZyb21EYXRlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZyb21EYXRlKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRvRGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXN1bHRTZXQuZ2V0U3RyaW5nKCJQQVlfTk8iKSArICIgIiArIHJlc3VsdFNldC5nZXRGbG9hdCgiRF9IT1VSIikgKyAiICIgKyByZXN1bHRTZXQuZ2V0RGF0ZSgiVFJBTl9EQVRFIikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9nNGouYXBwZW5kZXIuaW5mb0xvZz1vcmcuYXBhY2hlLmxvZzRqLkRhaWx5Um9sbGluZ0ZpbGVBcHBlbmRlcgpsb2c0ai5hcHBlbmRlci5pbmZvTG9nLmVuY29kaW5nPVVURi04CmxvZzRqLmFwcGVuZGVyLmluZm9Mb2cuRmlsZT1sb2cvZmQtZGFpbHktcmVwb3J0LmxvZwpsb2c0ai5hcHBlbmRlci5pbmZvTG9nLkRhdGVQYXR0ZXJuPSctJ3l5eXktTU0tZGQKbG9nNGouYXBwZW5kZXIuaW5mb0xvZy5sYXlvdXQ9b3JnLmFwYWNoZS5sb2c0ai5QYXR0ZXJuTGF5b3V0CmxvZzRqLmFwcGVuZGVyLmluZm9Mb2cubGF5b3V0LkNvbnZlcnNpb25QYXR0ZXJuPSVke3l5eXktTU0tZGQgSEg6bW06c3N9ICUtNXAgJWN7MX06JUwgLSAlbSVuCmxvZzRqLmFwcGVuZGVyLmluZm9Mb2cuZmlsdGVyLkE9b3JnLmFwYWNoZS5sb2c0ai52YXJpYS5MZXZlbFJhbmdlRmlsdGVyCmxvZzRqLmFwcGVuZGVyLmluZm9Mb2cuZmlsdGVyLkEuTGV2ZWxNaW49VFJBQ0UKbG9nNGouYXBwZW5kZXIuaW5mb0xvZy5maWx0ZXIuQS5MZXZlbE1heD1JTkZPCmxvZzRqLmFwcGVuZGVyLmluZm9Mb2cuZmlsdGVyLkEuQWNjZXB0T25NYXRjaD10cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNhbGwgRGF5Rm9yY2UgbGlicmFyeSB0byBzYXZlIGZpbGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBSZWRpcmVjdCBsb2cgbWVzc2FnZXMgdG8gcmVwb3J0IGZpbGUgZGFpbHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZyb21EYXRlKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRvRGF0ZSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text># Redirect log messages to report file daily
-log4j.appender.infoLog=org.apache.log4j.DailyRollingFileAppender
-log4j.appender.infoLog.encoding=UTF-8
-log4j.appender.infoLog.File=log/fd-daily-report.log
-log4j.appender.infoLog.DatePattern='-'yyyy-MM-dd
-log4j.appender.infoLog.layout=org.apache.log4j.PatternLayout
-log4j.appender.infoLog.layout.ConversionPattern=%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n
-log4j.appender.infoLog.filter.A=org.apache.log4j.varia.LevelRangeFilter
-log4j.appender.infoLog.filter.A.LevelMin=TRACE
-log4j.appender.infoLog.filter.A.LevelMax=INFO
-log4j.appender.infoLog.filter.A.AcceptOnMatch=true</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
