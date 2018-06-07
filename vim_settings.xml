@@ -115,11 +115,11 @@
         <mark key="." line="15" column="37" />
         <mark key="^" line="62" column="3" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/TPT2000OGG2.java" timestamp="1528396559230">
-        <mark key="[" line="9" column="65" />
-        <mark key="]" line="10" column="2" />
-        <mark key="^" line="10" column="2" />
-        <mark key="." line="10" column="2" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/TPT2000OGG2.java" timestamp="1528400140830">
+        <mark key="[" line="20" column="65" />
+        <mark key="]" line="20" column="68" />
+        <mark key="." line="20" column="68" />
+        <mark key="^" line="20" column="68" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/FileCollector.java" timestamp="1515190262341">
         <mark key="[" line="89" column="16" />
@@ -1906,9 +1906,9 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/resources/application.conf" timestamp="1528328491569">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="12" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/resources/application.conf" timestamp="1528399626528">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="78" />
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="12" />
       </file>
@@ -3851,17 +3851,17 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gIlNFTEVDVCBQQVlfTk8sIERfSE9VUiwgVFJBTl9EQVRFLCBEX05PXG4iICsKICAgICAgICAgICAgICAgICJGUk9NIHRibERhaWx5VHJpcFNoZWV0IGR0XG4iICsKICAgICAgICAgICAgICAgICJMRUZUIEpPSU4gdGJsRHJpdmVyIGQgT04gKGR0LkRfTk8gPSBkLkdVSURFX05PIEFORCBQQVlfTk8gPD4gJycpXG4iICsKICAgICAgICAgICAgICAgICJXSEVSRSBUUkFOX0RBVEUgQkVUV0VFTiA/IEFORCA/IEFORCBEX0hPVVIgPiAwIjsKICAgICAgICBQcmVwYXJlZFN0YXRlbWVudCBzdGF0ZW1lbnQgPSBjb25uZWN0aW9uLnByZXBhcmVTdGF0ZW1lbnQoc3FsKTsKICAgICAgICBTaW1wbGVEYXRlRm9ybWF0IHNkZiA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5LU1NLWRkIik7CiAgICAgICAgRGF0ZSBmcm9tRGF0ZSA9IG5ldyBEYXRlKHNkZi5wYXJzZShmcm9tKS5nZXRUaW1lKCkpOwogICAgICAgIERhdGUgdG9EYXRlID0gbmV3IERhdGUoc2RmLnBhcnNlKHRvKS5nZXRUaW1lKCkpOwoKICAgICAgICBzdGF0ZW1lbnQuc2V0RGF0ZSgxLCBmcm9tRGF0ZSk7CiAgICAgICAgc3RhdGVtZW50LnNldERhdGUoMiwgdG9EYXRlKTsKCiAgICAgICAgUmVzdWx0U2V0IHJlc3VsdFNldCA9IHN0YXRlbWVudC5leGVjdXRlUXVlcnkoKTsKCiAgICAgICAgd2hpbGUgKHJlc3VsdFNldC5uZXh0KCkpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc3VsdFNldC5nZXRTdHJpbmcoIlBBWV9OTyIpICsgIiAiICsgcmVzdWx0U2V0LmdldEZsb2F0KCJEX0hPVVIiKSArICIgIiArIHJlc3VsdFNldC5nZXREYXRlKCJUUkFOX0RBVEUiKSk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>TRAN_DATE</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>TRAN_DATE</text>
       </register>
       <register name="/" type="4">
         <text>task</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZyb21EYXRlKTsK</text>
+      <register name="0" type="4">
+        <text>\\\\10.20.230.231\\Users\\awu\\Desktop\\tpt2000ogg\\tptMauiData.mdb</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
