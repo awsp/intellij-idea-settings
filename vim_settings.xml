@@ -205,12 +205,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/ui/DFAppController.java" timestamp="1528338063783">
-        <mark key="'" line="17" column="77" />
-        <mark key="[" line="60" column="83" />
-        <mark key="]" line="60" column="88" />
-        <mark key="." line="60" column="88" />
-        <mark key="^" line="60" column="88" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/ui/DFAppController.java" timestamp="1528510649427">
+        <mark key="'" line="45" column="8" />
+        <mark key="[" line="52" column="52" />
+        <mark key="]" line="52" column="52" />
+        <mark key="." line="52" column="52" />
+        <mark key="^" line="51" column="20" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi-system/src/main/java/com/jtbhawaii/anpisystem/repository/SalesOfficeRepository.java" timestamp="1513393251001">
         <mark key="[" line="6" column="0" />
@@ -539,12 +539,12 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/TPT2000OGG.java" timestamp="1528506427146">
-        <mark key="'" line="14" column="31" />
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="31" />
-        <mark key="." line="14" column="31" />
-        <mark key="^" line="14" column="31" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/TPT2000OGG.java" timestamp="1528509966869">
+        <mark key="'" line="50" column="8" />
+        <mark key="[" line="25" column="75" />
+        <mark key="]" line="25" column="79" />
+        <mark key="." line="25" column="79" />
+        <mark key="^" line="25" column="79" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/procedure.asciidoc" timestamp="1509417051486">
         <mark key="[" line="2" column="0" />
@@ -1045,11 +1045,12 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/ui/tasks/PayrollGenerateService.java" timestamp="1528503387798">
-        <mark key="[" line="30" column="32" />
-        <mark key="]" line="30" column="32" />
-        <mark key="." line="30" column="32" />
-        <mark key="^" line="30" column="32" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/ui/tasks/PayrollGenerateService.java" timestamp="1528508477116">
+        <mark key="'" line="28" column="12" />
+        <mark key="[" line="51" column="48" />
+        <mark key="]" line="52" column="16" />
+        <mark key="." line="52" column="16" />
+        <mark key="^" line="52" column="16" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/unit_testing/src/main/resources/application.properties" timestamp="1519176543972">
         <mark key="[" line="1" column="0" />
@@ -1155,6 +1156,12 @@
         <mark key="]" line="13" column="13" />
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/resources/app.fxml" timestamp="1528508004032">
+        <mark key="[" line="14" column="108" />
+        <mark key="]" line="14" column="107" />
+        <mark key="." line="14" column="107" />
+        <mark key="^" line="14" column="107" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/xls_analyzer/src/main/resources/application-dev.yml" timestamp="1524537940614">
         <mark key="[" line="2" column="0" />
@@ -1548,11 +1555,11 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/TPT2000HNL.java" timestamp="1528330793033">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="3" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/TPT2000HNL.java" timestamp="1528510583064">
+        <mark key="'" line="39" column="8" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/network-diagram/big_island.koa_office/index.html" timestamp="1516656877852">
         <mark key="[" line="13" column="63" />
@@ -1680,6 +1687,12 @@
         <mark key="^" line="1" column="67" />
         <mark key="." line="1" column="67" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/conn/TPT2000Conn.java" timestamp="1528509081735">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="17" column="76" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs2/src/test/java/com/jtbhawaii/misdocs2/model/DocumentTest.java" timestamp="1517863480181">
         <mark key="[" line="27" column="71" />
         <mark key="]" line="27" column="75" />
@@ -1752,11 +1765,11 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/resources/application.conf" timestamp="1528419038513">
-        <mark key="[" line="2" column="67" />
-        <mark key="]" line="2" column="80" />
-        <mark key="^" line="2" column="80" />
-        <mark key="." line="2" column="80" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/resources/application.conf" timestamp="1528510110716">
+        <mark key="[" line="3" column="92" />
+        <mark key="]" line="3" column="95" />
+        <mark key="^" line="3" column="95" />
+        <mark key="." line="3" column="95" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cm_dayforce/src/main/java/com/jtbhawaii/mis/config/PHCSDBConfiguration.java" timestamp="1526519164222">
         <mark key="[" line="3" column="0" />
@@ -2641,11 +2654,11 @@
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/js/angular.min.js" timestamp="1526943756704">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/TPT2000.java" timestamp="1528339130129">
-        <mark key="[" line="29" column="31" />
-        <mark key="]" line="29" column="32" />
-        <mark key="^" line="29" column="32" />
-        <mark key="." line="29" column="32" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/TPT2000.java" timestamp="1528509636302">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="49" column="94" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/concurrenttest/src/main/java/ConcurrentTest.java" timestamp="1510017705425">
         <mark key="[" line="12" column="43" />
@@ -2846,10 +2859,10 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/DayForceExport.java" timestamp="1528400786585">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="21" column="60" />
-        <mark key="." line="16" column="16" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/DayForceExport.java" timestamp="1528507203545">
+        <mark key="[" line="28" column="44" />
+        <mark key="]" line="28" column="45" />
+        <mark key="." line="28" column="45" />
         <mark key="^" line="16" column="16" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/filecollector/src/main/java/com/jtbhawaii/filecollector/model/IFResponseFile.java" timestamp="1515807764598">
@@ -3506,16 +3519,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="35" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/js/app.js" />
-      <jump line="165" column="4" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/js/app.js" />
-      <jump line="28" column="64" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/templates/index.hbs" />
-      <jump line="10" column="56" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/js/app.js" />
-      <jump line="89" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/js/app.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/styles.css" />
-      <jump line="120" column="13" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/templates/index.hbs" />
-      <jump line="267" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/styles.css" />
-      <jump line="17" column="21" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/styles.css" />
-      <jump line="1" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/styles.css" />
       <jump line="118" column="51" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/templates/index.hbs" />
       <jump line="14" column="17" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/styles.css" />
       <jump line="109" column="111" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/css/styles.css" />
@@ -3606,64 +3609,73 @@
       <jump line="41" column="17" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/TPT2000OGG2.java" />
       <jump line="36" column="33" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/TPT2000OGG2.java" />
       <jump line="108" column="8" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/TPT2000OGG2.java" />
+      <jump line="57" column="46" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/ui/DFAppController.java" />
+      <jump line="38" column="27" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/ui/DFAppController.java" />
+      <jump line="20" column="25" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/resources/app.fxml" />
+      <jump line="33" column="38" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/resources/app.fxml" />
+      <jump line="81" column="25" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/ui/DFAppController.java" />
+      <jump line="42" column="8" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/ui/DFAppController.java" />
+      <jump line="23" column="12" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/ui/tasks/PayrollGenerateService.java" />
+      <jump line="41" column="8" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/TPT2000HNL.java" />
+      <jump line="35" column="60" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/TPT2000OGG.java" />
+      <jump line="50" column="8" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/tpt2000/TPT2000OGG.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gIlNFTEVDVCBQQVlfTk8sIERfSE9VUiwgVFJBTl9EQVRFLCBEX05PXG4iICsKICAgICAgICAgICAgICAgICJGUk9NIHRibERhaWx5VHJpcFNoZWV0IGR0XG4iICsKICAgICAgICAgICAgICAgICJMRUZUIEpPSU4gdGJsRHJpdmVyIGQgT04gKGR0LkRfTk8gPSBkLkdVSURFX05PIEFORCBQQVlfTk8gPD4gJycpXG4iICsKICAgICAgICAgICAgICAgICJXSEVSRSBUUkFOX0RBVEUgQkVUV0VFTiA/IEFORCA/IEFORCBEX0hPVVIgPiAwIjsKICAgICAgICBQcmVwYXJlZFN0YXRlbWVudCBzdGF0ZW1lbnQgPSBjb25uZWN0aW9uLnByZXBhcmVTdGF0ZW1lbnQoc3FsKTsKICAgICAgICBTaW1wbGVEYXRlRm9ybWF0IHNkZiA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5LU1NLWRkIik7CiAgICAgICAgRGF0ZSBmcm9tRGF0ZSA9IG5ldyBEYXRlKHNkZi5wYXJzZShmcm9tKS5nZXRUaW1lKCkpOwogICAgICAgIERhdGUgdG9EYXRlID0gbmV3IERhdGUoc2RmLnBhcnNlKHRvKS5nZXRUaW1lKCkpOwoKICAgICAgICBzdGF0ZW1lbnQuc2V0RGF0ZSgxLCBmcm9tRGF0ZSk7CiAgICAgICAgc3RhdGVtZW50LnNldERhdGUoMiwgdG9EYXRlKTsKCiAgICAgICAgUmVzdWx0U2V0IHJlc3VsdFNldCA9IHN0YXRlbWVudC5leGVjdXRlUXVlcnkoKTsKCiAgICAgICAgd2hpbGUgKHJlc3VsdFNldC5uZXh0KCkpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc3VsdFNldC5nZXRTdHJpbmcoIlBBWV9OTyIpICsgIiAiICsgcmVzdWx0U2V0LmdldEZsb2F0KCJEX0hPVVIiKSArICIgIiArIHJlc3VsdFNldC5nZXREYXRlKCJUUkFOX0RBVEUiKSk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZy4uLiBhcmdzKSB7CiAgICAgICAgLy8gQ29uZmlnIGNvbmZpZwogICAgICAgIEJhc2ljQ29uZmlndXJhdG9yLmNvbmZpZ3VyZSgpOwogICAgICAgIFByb3BlcnR5Q29uZmlndXJhdG9yLmNvbmZpZ3VyZSgiLi9sb2c0ai5wcm9wZXJ0aWVzIik7CiAgICAgICAgVFBUMjAwME9HRyB0cHQyMDAwT0dHID0gbmV3IFRQVDIwMDBPR0coKTsKICAgICAgICB0cHQyMDAwT0dHLmdldERhdGEoIjIwMTgtMDYtMDIiLCAiMjAxOC0wNi0wMiIpOwogICAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>TPT2000OGG2</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>task</text>
+        <text>Combo</text>
       </register>
-      <register name="0" type="4">
-        <text>new File(connectionString)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0b0RhdGVGaWVsZC5zZXRWYWx1ZShMb2NhbERhdGUub2YoMjAxOCwgNSwgMjApKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZy4uLiBhcmdzKSB7CiAgICAgICAgLy8gQ29uZmlnIGNvbmZpZwogICAgICAgIEJhc2ljQ29uZmlndXJhdG9yLmNvbmZpZ3VyZSgpOwogICAgICAgIFByb3BlcnR5Q29uZmlndXJhdG9yLmNvbmZpZ3VyZSgiLi9sb2c0ai5wcm9wZXJ0aWVzIik7CiAgICAgICAgVFBUMjAwME9HRyB0cHQyMDAwT0dHID0gbmV3IFRQVDIwMDBPR0coKTsKICAgICAgICB0cHQyMDAwT0dHLmdldERhdGEoIjIwMTgtMDYtMDIiLCAiMjAxOC0wNi0wMiIpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGFzay5leGNlcHRpb25Qcm9wZXJ0eSgpLmFkZExpc3RlbmVyKChvYnNlcnZhYmxlLCBuZXdWYWx1ZSwgb2xkVmFsdWUpIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChuZXdWYWx1ZSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRXhjZXB0aW9uIGV4ID0gKEV4Y2VwdGlvbikgbmV3VmFsdWU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXgucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGIgPSBEYXRhYmFzZUJ1aWxkZXIub3BlbihuZXcgRmlsZShjb25uZWN0aW9uU3RyaW5nKSk7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihkYXRlKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0PD4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0RGF0YSgiMjAxOC0wNS0yMCIsICIyMDE4LTA2LTAyIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cHQyMDAwT0dHMi5nZXREYXRhKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHJpdmF0ZSBUcmVlTWFwPFN0cmluZywgVHJlZU1hcDxTdHJpbmcsIERhaWx5RHJpdmVyV29yaz4+IGdldERhdGFGcm9tQWNjZXNzKFN0cmluZyBmcm9tLCBTdHJpbmcgdG8pIHsKICAgICAgICBUYWJsZSBkYWlseVRyaXBTaGVldFRhYmxlLCBkcml2ZXJUYWJsZTsKCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgZGFpbHlUcmlwU2hlZXRUYWJsZSA9IGRiLmdldFRhYmxlKCJ0YmxEYWlseVRyaXBTaGVldCIpOwogICAgICAgICAgICBkcml2ZXJUYWJsZSA9IGRiLmdldFRhYmxlKCJ0YmxEcml2ZXIiKTsKICAgICAgICAgICAgQ3Vyc29yIHRzQ3Vyc29yID0gQ3Vyc29yQnVpbGRlci5jcmVhdGVDdXJzb3IoZGFpbHlUcmlwU2hlZXRUYWJsZSk7CiAgICAgICAgICAgIEN1cnNvciBkdEN1cnNvciA9IEN1cnNvckJ1aWxkZXIuY3JlYXRlQ3Vyc29yKGRyaXZlclRhYmxlKTsKCiAgICAgICAgICAgIGxvbmcgZGlmZiA9IGRpZmZlcmVuY2VJbkRheXMoZnJvbSwgdG8pOwoKICAgICAgICAgICAgRGF0ZSBmcm9tRGF0ZSA9IGNvbnZlcnRTUUxEYXRlKGZyb20pOwogICAgICAgICAgICBDYWxlbmRhciBjYWxjID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKTsKICAgICAgICAgICAgY2FsYy5zZXRUaW1lKGZyb21EYXRlKTsKCiAgICAgICAgICAgIFRyZWVNYXA8U3RyaW5nLCBUcmVlTWFwPFN0cmluZywgRGFpbHlEcml2ZXJXb3JrPj4gZGF0YSA9IG5ldyBUcmVlTWFwPD4oKTsKCiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDw9IGRpZmY7IGkrKykgewogICAgICAgICAgICAgICAgZm9yIChSb3cgcm93IDogdHNDdXJzb3IubmV3SXRlcmFibGUoKS5hZGRNYXRjaFBhdHRlcm4oIlRSQU5fREFURSIsIGNhbGMuZ2V0VGltZSgpKSkgewogICAgICAgICAgICAgICAgICAgIFN0cmluZyBkYXRlU3RyaW5nID0gY29udmVydFRleHREYXRlKG5ldyBqYXZhLnNxbC5EYXRlKGNhbGMuZ2V0VGltZUluTWlsbGlzKCkpKTsKICAgICAgICAgICAgICAgICAgICBpZiAoIWRhdGEuY29udGFpbnNLZXkoZGF0ZVN0cmluZykpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZGF0YS5wdXQoZGF0ZVN0cmluZywgbmV3IFRyZWVNYXA8PigpKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIGZvciAoUm93IGRSb3cgOiBkdEN1cnNvci5uZXdJdGVyYWJsZSgpLmFkZE1hdGNoUGF0dGVybigiR1VJREVfTk8iLCByb3cuZ2V0KCJEX05PIikpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGRvdWJsZSBob3VycyA9IHJvdy5nZXRCaWdEZWNpbWFsKCJEX0hPVVIiKS5kb3VibGVWYWx1ZSgpOwoKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGRSb3cuZ2V0KCJQQVlfTk8iKSAhPSBudWxsICYmIGhvdXJzID4gMCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGRyaXZlcklkID0gcm93LmdldEJpZ0RlY2ltYWwoIkRfTk8iKS50b1N0cmluZygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFkYXRhLmdldChkYXRlU3RyaW5nKS5jb250YWluc0tleShkcml2ZXJJZCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLmdldChkYXRlU3RyaW5nKS5wdXQoZHJpdmVySWQsIG5ldyBEYWlseURyaXZlcldvcmsoZFJvdy5nZXRTdHJpbmcoIlBBWV9OTyIpLCBkYXRlU3RyaW5nKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YS5nZXQoZGF0ZVN0cmluZykuZ2V0KGRyaXZlcklkKS5hZGQoaG91cnMpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLy8gSW5jcmVtZW50IDEgZGF5CiAgICAgICAgICAgICAgICBjYWxjLmFkZChDYWxlbmRhci5EQVRFLCAxKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIGRhdGE7CgogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>task</last-search>
+      <last-search>Combo</last-search>
       <last-offset />
-      <last-pattern>task</last-pattern>
+      <last-pattern>Combo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>DayForce</entry>
         <entry>process-data</entry>
         <entry>vwPay</entry>
         <entry>codes</entry>
@@ -3683,6 +3695,7 @@
         <entry>barnSql</entry>
         <entry>test</entry>
         <entry>task</entry>
+        <entry>Combo</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
