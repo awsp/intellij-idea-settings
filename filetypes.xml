@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="WEB-INF" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
