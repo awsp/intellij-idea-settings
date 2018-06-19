@@ -2194,10 +2194,10 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jtl-app-2/src/electron/implementations/PUL2016LKPHON.ts" timestamp="1529433670738">
-        <mark key="[" line="140" column="43" />
-        <mark key="]" line="140" column="43" />
-        <mark key="." line="140" column="43" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jtl-app-2/src/electron/implementations/PUL2016LKPHON.ts" timestamp="1529437556105">
+        <mark key="[" line="140" column="52" />
+        <mark key="]" line="140" column="52" />
+        <mark key="." line="140" column="52" />
         <mark key="^" line="140" column="43" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmvadn_payroll/src/main/java/com/jtbhawaii/cmpayroll/service/PayrollUtils.java" timestamp="1511233835662">
@@ -2214,6 +2214,12 @@
       </file>
       <file name="/HTML File.txt.ft" timestamp="1526927814143">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jtl-app-2/package-lock.json" timestamp="1529436923945">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4025" column="22" />
+        <mark key="]" line="4025" column="23" />
+        <mark key="." line="4025" column="23" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/service/FCFileService.java" timestamp="1515191234735">
         <mark key="[" line="23" column="86" />
@@ -3929,7 +3935,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="38" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/db_schemes/migrations01.sql" />
       <jump line="201" column="35" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/js/app.js" />
       <jump line="169" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/service/PayrollProductionService.java" />
       <jump line="37" column="85" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/templates/index.hbs" />
@@ -4029,19 +4034,20 @@
       <jump line="151" column="33" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jtl-app-2/src/electron/implementations/PUL2016LKPHON.ts" />
       <jump line="86" column="16" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jtl-app-2/src/electron/implementations/PUL2016LKPHON.ts" />
       <jump line="136" column="46" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jtl-app-2/src/electron/implementations/PUL2016LKPHON.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jtl-app-2/package-lock.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gIlNFTEVDVCBQQVlfTk8sIERfSE9VUiwgVFJBTl9EQVRFLCBEX05PXG4iICsKICAgICAgICAgICAgICAgICJGUk9NIHRibERhaWx5VHJpcFNoZWV0IGR0XG4iICsKICAgICAgICAgICAgICAgICJMRUZUIEpPSU4gdGJsRHJpdmVyIGQgT04gKGR0LkRfTk8gPSBkLkdVSURFX05PIEFORCBQQVlfTk8gPD4gJycpXG4iICsKICAgICAgICAgICAgICAgICJXSEVSRSBUUkFOX0RBVEUgQkVUV0VFTiA/IEFORCA/IEFORCBEX0hPVVIgPiAwIjsKICAgICAgICBQcmVwYXJlZFN0YXRlbWVudCBzdGF0ZW1lbnQgPSBjb25uZWN0aW9uLnByZXBhcmVTdGF0ZW1lbnQoc3FsKTsKICAgICAgICBTaW1wbGVEYXRlRm9ybWF0IHNkZiA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5LU1NLWRkIik7CiAgICAgICAgRGF0ZSBmcm9tRGF0ZSA9IG5ldyBEYXRlKHNkZi5wYXJzZShmcm9tKS5nZXRUaW1lKCkpOwogICAgICAgIERhdGUgdG9EYXRlID0gbmV3IERhdGUoc2RmLnBhcnNlKHRvKS5nZXRUaW1lKCkpOwoKICAgICAgICBzdGF0ZW1lbnQuc2V0RGF0ZSgxLCBmcm9tRGF0ZSk7CiAgICAgICAgc3RhdGVtZW50LnNldERhdGUoMiwgdG9EYXRlKTsKCiAgICAgICAgUmVzdWx0U2V0IHJlc3VsdFNldCA9IHN0YXRlbWVudC5leGVjdXRlUXVlcnkoKTsKCiAgICAgICAgd2hpbGUgKHJlc3VsdFNldC5uZXh0KCkpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc3VsdFNldC5nZXRTdHJpbmcoIlBBWV9OTyIpICsgIiAiICsgcmVzdWx0U2V0LmdldEZsb2F0KCJEX0hPVVIiKSArICIgIiArIHJlc3VsdFNldC5nZXREYXRlKCJUUkFOX0RBVEUiKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>dist</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>dist</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>GPAM</text>
+        <text>natives</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJidWlsZCI6ICJucG0gcnVuIGNvcHkgJiYgdHNjIiwK</text>
@@ -4078,15 +4084,14 @@
       </register>
     </registers>
     <search>
-      <last-search>GPAM</last-search>
+      <last-search>natives</last-search>
       <last-offset />
-      <last-pattern>GPAM</last-pattern>
+      <last-pattern>natives</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Save</entry>
         <entry>import</entry>
         <entry>barnsql</entry>
         <entry>barnSql</entry>
@@ -4106,6 +4111,7 @@
         <entry>ANPIWindow</entry>
         <entry>FRJ</entry>
         <entry>GPAM</entry>
+        <entry>natives</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
