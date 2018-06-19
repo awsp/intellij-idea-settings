@@ -2167,6 +2167,12 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jtl-app-2/src/electron/implementations/PUL2016LKPHON.ts" timestamp="1529433047792">
+        <mark key="[" line="140" column="45" />
+        <mark key="]" line="140" column="50" />
+        <mark key="." line="140" column="50" />
+        <mark key="^" line="140" column="50" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmvadn_payroll/src/main/java/com/jtbhawaii/cmpayroll/service/PayrollUtils.java" timestamp="1511233835662">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="16" column="1" />
@@ -3903,10 +3909,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/service/PayrollProductionService.java" />
-      <jump line="220" column="7" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/service/PayrollProductionService.java" />
-      <jump line="221" column="39" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/service/PayrollProductionService.java" />
-      <jump line="72" column="61" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/service/PayrollProductionService.java" />
       <jump line="2" column="38" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/db_schemes/migrations01.sql" />
       <jump line="201" column="35" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/resources/public/js/app.js" />
       <jump line="169" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/service/PayrollProductionService.java" />
@@ -4003,65 +4005,67 @@
       <jump line="80" column="28" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/SalesOfficeLauncher.java" />
       <jump line="28" column="41" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/SearchBar.java" />
       <jump line="43" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/auth/LoginUI.java" />
+      <jump line="103" column="12" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jtl-app-2/src/electron/implementations/PUL2016LKPHON.ts" />
+      <jump line="151" column="33" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jtl-app-2/src/electron/implementations/PUL2016LKPHON.ts" />
+      <jump line="86" column="16" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jtl-app-2/src/electron/implementations/PUL2016LKPHON.ts" />
+      <jump line="136" column="46" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jtl-app-2/src/electron/implementations/PUL2016LKPHON.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gIlNFTEVDVCBQQVlfTk8sIERfSE9VUiwgVFJBTl9EQVRFLCBEX05PXG4iICsKICAgICAgICAgICAgICAgICJGUk9NIHRibERhaWx5VHJpcFNoZWV0IGR0XG4iICsKICAgICAgICAgICAgICAgICJMRUZUIEpPSU4gdGJsRHJpdmVyIGQgT04gKGR0LkRfTk8gPSBkLkdVSURFX05PIEFORCBQQVlfTk8gPD4gJycpXG4iICsKICAgICAgICAgICAgICAgICJXSEVSRSBUUkFOX0RBVEUgQkVUV0VFTiA/IEFORCA/IEFORCBEX0hPVVIgPiAwIjsKICAgICAgICBQcmVwYXJlZFN0YXRlbWVudCBzdGF0ZW1lbnQgPSBjb25uZWN0aW9uLnByZXBhcmVTdGF0ZW1lbnQoc3FsKTsKICAgICAgICBTaW1wbGVEYXRlRm9ybWF0IHNkZiA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5LU1NLWRkIik7CiAgICAgICAgRGF0ZSBmcm9tRGF0ZSA9IG5ldyBEYXRlKHNkZi5wYXJzZShmcm9tKS5nZXRUaW1lKCkpOwogICAgICAgIERhdGUgdG9EYXRlID0gbmV3IERhdGUoc2RmLnBhcnNlKHRvKS5nZXRUaW1lKCkpOwoKICAgICAgICBzdGF0ZW1lbnQuc2V0RGF0ZSgxLCBmcm9tRGF0ZSk7CiAgICAgICAgc3RhdGVtZW50LnNldERhdGUoMiwgdG9EYXRlKTsKCiAgICAgICAgUmVzdWx0U2V0IHJlc3VsdFNldCA9IHN0YXRlbWVudC5leGVjdXRlUXVlcnkoKTsKCiAgICAgICAgd2hpbGUgKHJlc3VsdFNldC5uZXh0KCkpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc3VsdFNldC5nZXRTdHJpbmcoIlBBWV9OTyIpICsgIiAiICsgcmVzdWx0U2V0LmdldEZsb2F0KCJEX0hPVVIiKSArICIgIiArIHJlc3VsdFNldC5nZXREYXRlKCJUUkFOX0RBVEUiKSk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>GPAMCB</text>
       </register>
       <register name="/" type="4">
-        <text>ANPIWindow</text>
+        <text>GPAM</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtLnNldE1hcmdpbih0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdDQuQ29kZSBMSUtFICclVFJHUEFNQ0IlJyBPUiAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4udWkudGhlbWVzLlZhbG9UaGVtZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUYWJTaGVldCBzaGVldCA9IG5ldyBUYWJTaGVldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdDQuQ29kZSBMSUtFICclVFJUS01TTCUnIE9SIAogICAgICAgICAgICAgICAgICB0NC5Db2RlIExJS0UgJyVUUkdMT1NMJScgT1IgCiAgICAgICAgICAgICAgICAgIHQ0LkNvZGUgTElLRSAnJVRSV1RCU0wlJyBPUiAKICAgICAgICAgICAgICAgICAgdDQuQ29kZSBMSUtFICclVFJBUkxTVyUnIE9SIAogICAgICAgICAgICAgICAgICB0NC5Db2RlIExJS0UgJyVUUkFSTFNSJScgT1IgCiAgICAgICAgICAgICAgICAgIHQ0LkNvZGUgTElLRSAnJVRSQ09VU0wlJyBPUiAKICAgICAgICAgICAgICAgICAgdDQuQ29kZSBMSUtFICclVFJCU1RTTCUnIE9SIAogICAgICAgICAgICAgICAgICB0NC5Db2RlIExJS0UgJyVUUkZTU1NMJScgT1IgCiAgICAgICAgICAgICAgICAgIHQ0LkNvZGUgTElLRSAnJVRSU1lNU0wlJyBPUiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaGVldC5hZGRTdHlsZU5hbWUoVmFsb1RoZW1lLlRBQik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtLnNldE1hcmdpbih0cnVlKTsKICAgICAgICBmb3JtLnNldFNwYWNpbmcodHJ1ZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4udWkudGhlbWVzLlZhbG9UaGVtZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRDb21wb25lbnRhYnVpbGRGb3JtKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUYWJTaGVldCBzaGVldCA9IG5ldyBUYWJTaGVldCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjbGVhcklucHV0KCkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzaGVldC5hZGRTdHlsZU5hbWUoVmFsb1RoZW1lLlRBQik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dpbkJ1dHRvbi5hZGRTdHlsZU5hbWUoVmFsb1RoZW1lLkJVVFRPTl9QUklNQVJZKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3JtLnNldE1hcmdpbih0cnVlKTsKICAgICAgICBmb3JtLnNldFNwYWNpbmcodHJ1ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ANPIWindow</last-search>
+      <last-search>GPAM</last-search>
       <last-offset />
-      <last-pattern>ANPIWindow</last-pattern>
+      <last-pattern>GPAM</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>prepare</entry>
-        <entry>driver</entry>
         <entry>Save</entry>
         <entry>import</entry>
         <entry>barnsql</entry>
@@ -4080,6 +4084,8 @@
         <entry>anpi</entry>
         <entry>buildTable</entry>
         <entry>ANPIWindow</entry>
+        <entry>FRJ</entry>
+        <entry>GPAM</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
