@@ -366,12 +366,12 @@
         <mark key="." line="27" column="34" />
         <mark key="^" line="27" column="34" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jtl-app-2/package.json" timestamp="1529452687795">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jtl-app-2/package.json" timestamp="1529456701132">
         <mark key="'" line="61" column="16" />
-        <mark key="[" line="53" column="4" />
-        <mark key="]" line="53" column="4" />
-        <mark key="." line="53" column="4" />
-        <mark key="^" line="80" column="3" />
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="19" column="70" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jwtoken/src/main/java/com/jtbhawaii/jwtoken/config/WebSecurityConfig.java" timestamp="1523996705099">
         <mark key="[" line="14" column="48" />
@@ -4046,10 +4046,10 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gIlNFTEVDVCBQQVlfTk8sIERfSE9VUiwgVFJBTl9EQVRFLCBEX05PXG4iICsKICAgICAgICAgICAgICAgICJGUk9NIHRibERhaWx5VHJpcFNoZWV0IGR0XG4iICsKICAgICAgICAgICAgICAgICJMRUZUIEpPSU4gdGJsRHJpdmVyIGQgT04gKGR0LkRfTk8gPSBkLkdVSURFX05PIEFORCBQQVlfTk8gPD4gJycpXG4iICsKICAgICAgICAgICAgICAgICJXSEVSRSBUUkFOX0RBVEUgQkVUV0VFTiA/IEFORCA/IEFORCBEX0hPVVIgPiAwIjsKICAgICAgICBQcmVwYXJlZFN0YXRlbWVudCBzdGF0ZW1lbnQgPSBjb25uZWN0aW9uLnByZXBhcmVTdGF0ZW1lbnQoc3FsKTsKICAgICAgICBTaW1wbGVEYXRlRm9ybWF0IHNkZiA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5LU1NLWRkIik7CiAgICAgICAgRGF0ZSBmcm9tRGF0ZSA9IG5ldyBEYXRlKHNkZi5wYXJzZShmcm9tKS5nZXRUaW1lKCkpOwogICAgICAgIERhdGUgdG9EYXRlID0gbmV3IERhdGUoc2RmLnBhcnNlKHRvKS5nZXRUaW1lKCkpOwoKICAgICAgICBzdGF0ZW1lbnQuc2V0RGF0ZSgxLCBmcm9tRGF0ZSk7CiAgICAgICAgc3RhdGVtZW50LnNldERhdGUoMiwgdG9EYXRlKTsKCiAgICAgICAgUmVzdWx0U2V0IHJlc3VsdFNldCA9IHN0YXRlbWVudC5leGVjdXRlUXVlcnkoKTsKCiAgICAgICAgd2hpbGUgKHJlc3VsdFNldC5uZXh0KCkpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc3VsdFNldC5nZXRTdHJpbmcoIlBBWV9OTyIpICsgIiAiICsgcmVzdWx0U2V0LmdldEZsb2F0KCJEX0hPVVIiKSArICIgIiArIHJlc3VsdFNldC5nZXREYXRlKCJUUkFOX0RBVEUiKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>resolution</text>
