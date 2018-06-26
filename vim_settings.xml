@@ -292,6 +292,12 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/beverage-starter-flow/src/main/resources/application.properties" timestamp="1530047445062">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi-system/src/main/webapp/VAADIN/themes/anpi/styles.scss" timestamp="1513625758239">
         <mark key="[" line="30" column="7" />
         <mark key="]" line="32" column="26" />
@@ -824,7 +830,7 @@
         <mark key="^" line="3" column="53" />
         <mark key="." line="3" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529972990482">
+      <file name="/Dummy.txt" timestamp="1530047593921">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/TPTDayForceApplication.java" timestamp="1527645592668">
@@ -2269,6 +2275,12 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadinten/src/main/java/com/jtbhawaii/mis/vaadinten/AppUI.java" timestamp="1530037473088">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/370665e7-a1f6-4cdc-9407-684a70f52ee4/console.sql" timestamp="1507840483762">
         <mark key="[" line="0" column="35" />
         <mark key="]" line="0" column="34" />
@@ -2664,7 +2676,7 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1529978254508">
+      <file name="/fragment.java" timestamp="1530037474105">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="52" />
         <mark key="^" line="0" column="19" />
@@ -3777,11 +3789,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBGWE1MTG9hZGVyIGxvYWRlciA9IEZYTUxMb2FkZXIubG9hZChnZXRDbGFzcygpLmdldFJlc291cmNlKCJsb2dpbi5meG1sIikpOwogICAgICAgICAgICBzY2VuZS5zZXRSb290KChQYXJlbnQpIGxvYWRlci5sb2FkKCkpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGlvZSkgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIlVuYWJsZSB0byBsb2FkIGxvZ2luLmZ4bWwuICIsIGlvZSkgOyAKICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRXaWR0aCgzNTAsIFVuaXQuUElYRUxTKTsKICAgICAgICBzZXRFCg==</text>
+      <register name="&quot;" type="4">
+        <text>Application</text>
       </register>
       <register name="-" type="4">
-        <text>PIXELS</text>
+        <text>Application</text>
       </register>
       <register name="/" type="4">
         <text>setIcon</text>
