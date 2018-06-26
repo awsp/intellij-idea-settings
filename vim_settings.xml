@@ -169,6 +169,12 @@
         <mark key="." line="32" column="46" />
         <mark key="^" line="32" column="46" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/my-starter-project/src/main/java/com/areamode/anthony/spring/MainView.java" timestamp="1530050453574">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="29" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/wifiCaptiveWeb/User-Auth-Example/authentication_en.js" timestamp="1518661971904">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="50" />
@@ -235,6 +241,7 @@
         <mark key="^" line="8" column="48" />
         <mark key="." line="8" column="48" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/beverage-starter-flow/src/main/java/com/vaadin/starter/beveragebuddy/ui/common/AbstractEditorDialog.java" timestamp="1530047829522" />
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/datasource_test/src/main/java/com/jtbhawaii/datasource_test/fx/domain/Difficulty.java" timestamp="1522111463895">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -2185,6 +2192,12 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/my-starter-project/src/main/resources/application.properties" timestamp="1530050257335">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/hibernate_test/src/main/java/com/jtbhawaii/hibernate_test/domain/Recipe.java" timestamp="1523394541853">
         <mark key="[" line="29" column="24" />
         <mark key="]" line="28" column="38" />
@@ -3789,11 +3802,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBGWE1MTG9hZGVyIGxvYWRlciA9IEZYTUxMb2FkZXIubG9hZChnZXRDbGFzcygpLmdldFJlc291cmNlKCJsb2dpbi5meG1sIikpOwogICAgICAgICAgICBzY2VuZS5zZXRSb290KChQYXJlbnQpIGxvYWRlci5sb2FkKCkpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGlvZSkgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIlVuYWJsZSB0byBsb2FkIGxvZ2luLmZ4bWwuICIsIGlvZSkgOyAKICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Application</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="-" type="4">
-        <text>Application</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>setIcon</text>
@@ -3802,31 +3815,31 @@
         <text encoding="base64">ICAgICAgICBhZGRUYWIoaW1wb3J0VGFiKS5zZXRDYXB0aW9uKEltcG9ydFRhYi5UQUJfTkFNRSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRXaWR0aCgzNTAsIFVuaXQuUElYRUxTKTsKICAgICAgICBzZXRFCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFucGlDb21tYW5kQmFyRm9ybSA9IGFucGlDb21tYW5kQmFyRm9ybTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVwbG9hZE1vZHVsZSA9IHVwbG9hZE1vZHVsZTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgcHJpdmF0ZSBBTlBJQ29tbWFuZEJhckZvcm0gYW5waUNvbW1hbmRCYXJGb3JtOwo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgVXBsb2FkTW9kdWxlIHVwbG9hZE1vZHVsZTsKIA==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRXaWR0aCgzNTAsIFVuaXQuUElYRUxTKTsKICAgICAgICBzZXRFCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmFucGlDb21tYW5kQmFyRm9ybSA9IGFucGlDb21tYW5kQmFyRm9ybTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnVwbG9hZE1vZHVsZSA9IHVwbG9hZE1vZHVsZTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgcHJpdmF0ZSBBTlBJQ29tbWFuZEJhckZvcm0gYW5waUNvbW1hbmRCYXJGb3JtOwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgVXBsb2FkTW9kdWxlIHVwbG9hZE1vZHVsZTsKIA==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRUYWIoaW1wb3J0VGFiKS5zZXRDYXB0aW9uKEltcG9ydFRhYi5UQUJfTkFNRSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
