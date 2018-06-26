@@ -888,6 +888,13 @@
         <mark key="^" line="6" column="101" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/beverage-starter-flow/src/main/java/com/vaadin/starter/beveragebuddy/ui/MainLayout.java" timestamp="1530051144713">
+        <mark key="'" line="52" column="22" />
+        <mark key="[" line="40" column="15" />
+        <mark key="]" line="40" column="24" />
+        <mark key="^" line="40" column="24" />
+        <mark key="." line="40" column="24" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/df_webapp/src/main/java/com/jtbhawaii/mis/dayforce/api/BaseController.java" timestamp="1527641097422">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="3" column="3" />
@@ -3697,7 +3704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="27" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/ui/DFAppController.java" />
       <jump line="20" column="25" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/resources/app.fxml" />
       <jump line="33" column="38" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/resources/app.fxml" />
       <jump line="81" column="25" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/main/java/com/jtbhawaii/ui/DFAppController.java" />
@@ -3797,16 +3803,17 @@
       <jump line="32" column="54" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPITabsContainer.java" />
       <jump line="26" column="34" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPITabsContainer.java" />
       <jump line="2" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPITabsContainer.java" />
+      <jump line="49" column="22" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/beverage-starter-flow/src/main/java/com/vaadin/starter/beveragebuddy/ui/MainLayout.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBGWE1MTG9hZGVyIGxvYWRlciA9IEZYTUxMb2FkZXIubG9hZChnZXRDbGFzcygpLmdldFJlc291cmNlKCJsb2dpbi5meG1sIikpOwogICAgICAgICAgICBzY2VuZS5zZXRSb290KChQYXJlbnQpIGxvYWRlci5sb2FkKCkpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGlvZSkgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIlVuYWJsZSB0byBsb2FkIGxvZ2luLmZ4bWwuICIsIGlvZSkgOyAKICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;Lumo&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;Lumo&quot;</text>
       </register>
       <register name="/" type="4">
         <text>setIcon</text>
