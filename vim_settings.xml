@@ -1001,6 +1001,12 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/kotlinjs/src/Main.kt" timestamp="1530153311864">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmfx-payroll/src/main/resources/fxml/main.fxml" timestamp="1511208069059">
         <mark key="[" line="5" column="104" />
         <mark key="]" line="5" column="112" />
@@ -1938,6 +1944,12 @@
         <mark key="]" line="94" column="30" />
         <mark key="^" line="94" column="30" />
         <mark key="." line="94" column="30" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/kotlinjs/index.html" timestamp="1530153206638">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa3/src/main/java/com/jtbhawaii/irlisa/auth/PlainLoginManager.java" timestamp="1529717039358">
         <mark key="[" line="18" column="82" />
@@ -3807,11 +3819,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBGWE1MTG9hZGVyIGxvYWRlciA9IEZYTUxMb2FkZXIubG9hZChnZXRDbGFzcygpLmdldFJlc291cmNlKCJsb2dpbi5meG1sIikpOwogICAgICAgICAgICBzY2VuZS5zZXRSb290KChQYXJlbnQpIGxvYWRlci5sb2FkKCkpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGlvZSkgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIlVuYWJsZSB0byBsb2FkIGxvZ2luLmZ4bWwuICIsIGlvZSkgOyAKICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5DYWxlbmRhcjsK</text>
+      <register name="&quot;" type="4">
+        <text>var</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>setIcon</text>
