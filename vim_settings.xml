@@ -1098,11 +1098,6 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/clients/ANPIClientAloha7View.java" timestamp="1530838095783">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmfx-payroll/src/main/resources/fxml/main.fxml" timestamp="1511208069059">
         <mark key="[" line="5" column="104" />
         <mark key="]" line="5" column="112" />
@@ -1428,11 +1423,6 @@
         <mark key="]" line="27" column="61" />
         <mark key="." line="27" column="61" />
         <mark key="^" line="27" column="61" />
-      </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/clients/ANPIClientJTBWorldVacationsView.java" timestamp="1530838119720">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/routine/HistoricalStockHolding.java" timestamp="1509753105953">
         <mark key="[" line="2" column="37" />
@@ -2304,10 +2294,11 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/BasicBuiltInIOControls.java" timestamp="1531443732367">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/BasicBuiltInIOControls.java" timestamp="1531445394023">
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="42" column="7" />
+        <mark key="." line="42" column="7" />
+        <mark key="^" line="42" column="7" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/service/FCFileService.java" timestamp="1515191234735">
         <mark key="[" line="23" column="86" />
@@ -2550,11 +2541,6 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/clients/ANPIClientJTBHawaiiView.java" timestamp="1530838103689">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/modals/UniqueURLModal.java" timestamp="1531276709222">
         <mark key="'" line="79" column="0" />
         <mark key="[" line="77" column="7" />
@@ -2591,11 +2577,6 @@
         <mark key="]" line="22" column="31" />
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
-      </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/ANPIMainControllerView.java" timestamp="1530915391720">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dataframe/src/main/resources/static/index.html" timestamp="1513713667873">
         <mark key="[" line="4" column="6" />
@@ -2669,11 +2650,6 @@
         <mark key="]" line="113" column="80" />
         <mark key="." line="68" column="26" />
         <mark key="^" line="68" column="26" />
-      </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/security/SecurityUserDetail.java" timestamp="1530843086315">
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-spring-security/src/main/resources/application.yml" timestamp="1516216916763">
         <mark key="[" line="4" column="24" />
@@ -3338,6 +3314,12 @@
         <mark key="." line="31" column="7" />
         <mark key="^" line="31" column="7" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/domains/CustomerStatus.java" timestamp="1531445439744">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="6" column="11" />
+        <mark key="^" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cm_dayforce/src/main/java/com/jtbhawaii/mis/ui/JetLoginUI.java" timestamp="1526508209755">
         <mark key="[" line="117" column="0" />
         <mark key="]" line="117" column="0" />
@@ -3994,11 +3976,6 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/clients/ViewContainer.java" timestamp="1530908569845">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/ui/ClientUI.java" timestamp="1531342137622">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -4232,17 +4209,17 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBGWE1MTG9hZGVyIGxvYWRlciA9IEZYTUxMb2FkZXIubG9hZChnZXRDbGFzcygpLmdldFJlc291cmNlKCJsb2dpbi5meG1sIikpOwogICAgICAgICAgICBzY2VuZS5zZXRSb290KChQYXJlbnQpIGxvYWRlci5sb2FkKCkpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGlvZSkgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIlVuYWJsZSB0byBsb2FkIGxvZ2luLmZ4bWwuICIsIGlvZSkgOyAKICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>missingCount</text>
       </register>
       <register name="-" type="4">
-        <text>MIDDLE_CENTER</text>
+        <text>missingCount</text>
       </register>
       <register name="/" type="4">
         <text>MenuItem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb21wb25lbnRBbGlnbm1lbnQocHJpbnRCdXR0b24sIEFsaWdubWVudC5NSURETEVfUklHSFQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMYWJlbCBtaXNzaW5nU3RhdHVzID0gbmV3IExhYmVsKCJNSVNTSU5HOiAiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
