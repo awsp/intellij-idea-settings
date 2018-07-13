@@ -1098,6 +1098,11 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/clients/ANPIClientAloha7View.java" timestamp="1530838095783">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmfx-payroll/src/main/resources/fxml/main.fxml" timestamp="1511208069059">
         <mark key="[" line="5" column="104" />
         <mark key="]" line="5" column="112" />
@@ -1423,6 +1428,11 @@
         <mark key="]" line="27" column="61" />
         <mark key="." line="27" column="61" />
         <mark key="^" line="27" column="61" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/clients/ANPIClientJTBWorldVacationsView.java" timestamp="1530838119720">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/routine/HistoricalStockHolding.java" timestamp="1509753105953">
         <mark key="[" line="2" column="37" />
@@ -2294,11 +2304,10 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/BasicBuiltInIOControls.java" timestamp="1531441961939">
-        <mark key="[" line="29" column="58" />
-        <mark key="]" line="29" column="68" />
-        <mark key="^" line="29" column="68" />
-        <mark key="." line="29" column="68" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/BasicBuiltInIOControls.java" timestamp="1531443732367">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/collector/service/FCFileService.java" timestamp="1515191234735">
         <mark key="[" line="23" column="86" />
@@ -2541,6 +2550,11 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/clients/ANPIClientJTBHawaiiView.java" timestamp="1530838103689">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/modals/UniqueURLModal.java" timestamp="1531276709222">
         <mark key="'" line="79" column="0" />
         <mark key="[" line="77" column="7" />
@@ -2577,6 +2591,11 @@
         <mark key="]" line="22" column="31" />
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/ANPIMainControllerView.java" timestamp="1530915391720">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dataframe/src/main/resources/static/index.html" timestamp="1513713667873">
         <mark key="[" line="4" column="6" />
@@ -2650,6 +2669,11 @@
         <mark key="]" line="113" column="80" />
         <mark key="." line="68" column="26" />
         <mark key="^" line="68" column="26" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/security/SecurityUserDetail.java" timestamp="1530843086315">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-spring-security/src/main/resources/application.yml" timestamp="1516216916763">
         <mark key="[" line="4" column="24" />
@@ -3970,6 +3994,11 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="30" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/clients/ViewContainer.java" timestamp="1530908569845">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/ui/ClientUI.java" timestamp="1531342137622">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -4203,11 +4232,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBGWE1MTG9hZGVyIGxvYWRlciA9IEZYTUxMb2FkZXIubG9hZChnZXRDbGFzcygpLmdldFJlc291cmNlKCJsb2dpbi5meG1sIikpOwogICAgICAgICAgICBzY2VuZS5zZXRSb290KChQYXJlbnQpIGxvYWRlci5sb2FkKCkpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGlvZSkgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIlVuYWJsZSB0byBsb2FkIGxvZ2luLmZ4bWwuICIsIGlvZSkgOyAKICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>MIDDLE_RIGHT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>MIDDLE_RIGHT</text>
+        <text>MIDDLE_CENTER</text>
       </register>
       <register name="/" type="4">
         <text>MenuItem</text>
@@ -4216,31 +4245,31 @@
         <text encoding="base64">ICAgICAgICBzZXRDb21wb25lbnRBbGlnbm1lbnQocHJpbnRCdXR0b24sIEFsaWdubWVudC5NSURETEVfUklHSFQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB5eXAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXNCYXIuc2V0TWFyZ2luKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBDb21wb25lbnQgcHJpbnRCdXR0b24gPSBidWlsZFByaW50QnV0dG9uKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVtYXJrc0J1dHRvbi5hZGRTdHlsZU5hbWUoVmFsb1RoZW1lLkJVVFRPTl9MSU5LKTsK</text>
+        <text encoding="base64">ICAgICAgICBhZGRDb21wb25lbnQoc3RhdHVzQmFyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgLnYtYnV0dG9uLWJvcmRlcmxlc3MgewogICAgYm9yZGVyOiAycHggc29saWQgdHJhbnNwYXJlbnQ7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb21wb25lbnRBbGlnbm1lbnQoc3RhdHVzQmFyLCBBbGlnbm1lbnQuTUlERExFX0xFRlQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRIZWlnaHRVbmRlZmluZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBhZGRDb21wb25lbnQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCdXR0b24gCg==</text>
+        <text encoding="base64">ICAgICAgICB5eXAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXNCYXIuc2V0TWFyZ2luKGZhbHNlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVtYXJrc0J1dHRvbi5hZGRTdHlsZU5hbWUoVmFsb1RoZW1lLkJVVFRPTl9MSU5LKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIAogICAgICAgIGlmIChIYXNCdWlsdEluQ29udHJvbHMuY2xhc3MuaXNBc3NpZ25hYmxlRnJvbSh0YWJsZS5nZXRDbGFzcygpKSkgewogICAgICAgICAgICBhZGRDb21wb25lbnQodGFibGUuZ2V0Q2xhc3MoKS4pOwogICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgLnYtYnV0dG9uLWJvcmRlcmxlc3MgewogICAgYm9yZGVyOiAycHggc29saWQgdHJhbnNwYXJlbnQ7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
