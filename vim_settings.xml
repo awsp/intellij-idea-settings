@@ -1114,6 +1114,7 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster/src/main/webapp/app/modules/home/home.tsx" timestamp="1532376744609" />
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmpayroll/src/main/java/com/jtbhawaii/cmpayroll/model/VwClients.java" timestamp="1510005341124">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="15" />
@@ -2206,6 +2207,13 @@
         <mark key="]" line="7" column="12" />
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/resources/config/application-dev.yml" timestamp="1532377419133">
+        <mark key="'" line="85" column="5" />
+        <mark key="[" line="93" column="10" />
+        <mark key="]" line="93" column="13" />
+        <mark key="." line="93" column="13" />
+        <mark key="^" line="93" column="13" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/services/ExcelAnalyzer.java" timestamp="1531275108761">
         <mark key="[" line="112" column="0" />
@@ -4459,9 +4467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/modals/UniqueURLModal.java" />
-      <jump line="79" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/modals/UniqueURLModal.java" />
-      <jump line="44" column="35" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/urlmodal/UniqueURLModal.java" />
       <jump line="47" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/urlmodal/ClientURLList.java" />
       <jump line="62" column="72" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/urlmodal/ClientURLList.java" />
       <jump line="3" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/resources/VAADIN/themes/anpi/styles.scss" />
@@ -4559,19 +4564,22 @@
       <jump line="86" column="5" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster/src/main/resources/config/application-dev.yml" />
       <jump line="61" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster/src/main/resources/templates/home/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/resources/config/application-dev.yml" />
+      <jump line="61" column="8" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/resources/config/application-dev.yml" />
+      <jump line="85" column="5" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/resources/config/application-dev.yml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBGWE1MTG9hZGVyIGxvYWRlciA9IEZYTUxMb2FkZXIubG9hZChnZXRDbGFzcygpLmdldFJlc291cmNlKCJsb2dpbi5meG1sIikpOwogICAgICAgICAgICBzY2VuZS5zZXRSb290KChQYXJlbnQpIGxvYWRlci5sb2FkKCkpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGlvZSkgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIlVuYWJsZSB0byBsb2FkIGxvZ2luLmZ4bWwuICIsIGlvZSkgOyAKICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCJob21lIikK</text>
+      <register name="&quot;" type="4">
+        <text>8080</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>8080</text>
       </register>
       <register name="/" type="4">
-        <text>devtools</text>
+        <text>port</text>
       </register>
       <register name="0" type="4">
         <text />
@@ -4608,9 +4616,9 @@
       </register>
     </registers>
     <search>
-      <last-search>devtools</last-search>
+      <last-search>port</last-search>
       <last-offset />
-      <last-pattern>devtools</last-pattern>
+      <last-pattern>port</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -4634,8 +4642,8 @@
         <entry>war</entry>
         <entry>jas</entry>
         <entry>808</entry>
-        <entry>port</entry>
         <entry>devtools</entry>
+        <entry>port</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
