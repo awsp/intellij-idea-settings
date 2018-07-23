@@ -444,6 +444,9 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="16" column="13" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster/pom.xml" timestamp="1532376500250">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/annotation/ModifyData.java" timestamp="1506461396500">
         <mark key="[" line="6" column="18" />
         <mark key="]" line="6" column="18" />
@@ -2265,6 +2268,13 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster/src/main/resources/templates/home/index.html" timestamp="1532376393934">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/java/com/jtbhawaii/fzkmock/controller/DefaultController.java" timestamp="1512412984918">
         <mark key="[" line="11" column="30" />
         <mark key="]" line="11" column="30" />
@@ -3589,6 +3599,12 @@
         <mark key="." line="57" column="31" />
         <mark key="^" line="57" column="31" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster/src/main/java/com/mycompany/myapp/controller/HomeController.java" timestamp="1532376630315">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="9" column="20" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cm_dayforce/src/main/java/com/jtbhawaii/mis/ui/JetLoginUI.java" timestamp="1526508209755">
         <mark key="[" line="117" column="0" />
         <mark key="]" line="117" column="0" />
@@ -4443,8 +4459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="32" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/modals/UniqueURLModal.java" />
-      <jump line="60" column="4" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/modals/UniqueURLModal.java" />
       <jump line="18" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/modals/UniqueURLModal.java" />
       <jump line="79" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/modals/UniqueURLModal.java" />
       <jump line="44" column="35" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/urlmodal/UniqueURLModal.java" />
@@ -4543,64 +4557,65 @@
       <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster/src/main/resources/config/application-dev.yml" />
       <jump line="62" column="8" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster/src/main/resources/config/application-dev.yml" />
       <jump line="86" column="5" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster/src/main/resources/config/application-dev.yml" />
+      <jump line="61" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster/src/main/resources/templates/home/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBGWE1MTG9hZGVyIGxvYWRlciA9IEZYTUxMb2FkZXIubG9hZChnZXRDbGFzcygpLmdldFJlc291cmNlKCJsb2dpbi5meG1sIikpOwogICAgICAgICAgICBzY2VuZS5zZXRSb290KChQYXJlbnQpIGxvYWRlci5sb2FkKCkpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGlvZSkgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIlVuYWJsZSB0byBsb2FkIGxvZ2luLmZ4bWwuICIsIGlvZSkgOyAKICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>8080</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCJob21lIikK</text>
       </register>
       <register name="-" type="4">
-        <text>8080</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>port</text>
+        <text>devtools</text>
       </register>
       <register name="0" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YVByb3ZpZGVyLnJlZnJlc2hBbGwoKTsK</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCJob21lIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFBhcmVudCByb290ID0gbnVsbDsgCg==</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvaG9tZSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">PGRpdiB0aDpyZXBsYWNlPSJmcmFnbWVudHMvaGVhZGVyIDo6IGhlYWRlciI+PC9kaXY+Cgo8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgPGgzIHRoOnRleHQ9IiN7d2VsY29tZV9oZWFkZXJ9Ij5XZWxjb21lIHRvIHRoZSBTcHJpbmcgQm9vdCArIFRoeW1lbGVhZiArIEhlcm9rdSB0ZW1wbGF0ZTwvaDM+CgogICAgPHAgdGg6dXRleHQ9IiN7ZGVzY3JpcHRpb25fdGV4dH0iPgogICAgICAgIFRoaXMgdGVtcGxhdGUgaGFzIGJlZW4gZGVzaWduZWQgdG8gYmUgdXNlZCBpbiBjb25qdW5jdGlvbiB3aXRoIDxhCiAgICAgICAgaHJlZj0iaHR0cHM6Ly9qaGlwc3Rlci5naXRodWIuaW8vIj5KSGlwc3RlcjwvYT4gdG8gZW5hYmxlIHJhcGlkIGRldmVsb3BtZW50IG9mIFNwcmluZyBCb290ICsKICAgICAgICBUaHltZWxlYWYgYXBwbGljYXRpb25zIHRoYXQgYXJlIGZ1bGx5IGRlcGxveWFibGUgdG8gSGVyb2t1LgogICAgPC9wPgogICAgPGJyLz4KCiAgICA8aDMgdGg6dGV4dD0iI3twcm9qZWN0X2hlYWRlcn0iPlRlY2hub2xvZ3kgU3RhY2s8L2gzPgogICAgPHVsPgogICAgICAgIDxsaT5TcHJpbmcgQm9vdCwgbm8teG1sIFNwcmluZyBNVkMgNCB3ZWIgYXBwbGljYXRpb24gZm9yIFNlcnZsZXQgMy4wIGVudmlyb25tZW50PC9saT4KICAgICAgICA8bGk+VGh5bWVsZWFmIHRlbXBsYXRlcyB3aXRoIGFkZGVkIEpvZGEgVGltZSAmYW1wOyBTcHJpbmcgU2VjdXJpdHkgRGlhbGVjdHM8L2xpPgogICAgICAgIDxsaT5IZXJva3UgZnVsbHkgY2xvdWQgZGVwbG95YWJsZTwvbGk+CiAgICAgICAgPGxpPkpQQSAyLjAgKFNwcmluZyBEYXRhIEpQQS9IaWJlcm5hdGUpPC9saT4KICAgICAgICA8bGk+RGF0YWJhc2UgKExpcXVpYmFzZS9Qb3N0Z3JlU1FML0gyIGVtYmVkZGVkL0hpa2FyaUNQKTwvbGk+CiAgICAgICAgPGxpPlRlc3RpbmcgKEpVbml0L01vY2tpdG8vTW9ja01WQy9Bc3NlcnRKL0hhbWNyZXN0KTwvbGk+CiAgICAgICAgPGxpPkphdmEgOCwgU3ByaW5nIFNlY3VyaXR5IDMuMiwgTWF2ZW4gMywgU0xGNEosIExvZ2JhY2ssIEJvb3RzdHJhcCAzLjMuNCwgalF1ZXJ5IDEuMTEuMiwgaTE4biwgZXRjPC9saT4KICAgIDwvdWw+CiAgICA8YnIvPgoKICAgIDxoMyB0aDp0ZXh0PSIje2xhYmVsX2NyZWRlbnRpYWxfaGVhZGVyfSI+Q3VycmVudCBDcmVkaWVudGlhbHM8L2gzPgogICAgPGRpdiBzZWM6YXV0aG9yaXplPSJoYXNSb2xlKCdST0xFX0FOT05ZTU9VUycpIj4KICAgICAgICA8cCB0aDp1dGV4dD0iI3ttZXNzYWdlX2Fub255bW91c30iPllvdSBhcmUgY3VycmVudGx5IHNpZ25lZCBpbiBhcyBhbiBhbm9ueW1vdXMgdXNlci48L3A+CiAgICA8L2Rpdj4KCiAgICA8ZGl2IHNlYzphdXRob3JpemU9Imhhc1JvbGUoJ1JPTEVfVVNFUicpIiA+CiAgICAgICAgPHAgdGg6dXRleHQ9IiN7bWVzc2FnZV91c2VyfSI+WW91IGFyZSBjdXJyZW50bHkgc2lnbmVkIGluIGFzIGEgdXNlci48L3A+CiAgICA8L2Rpdj4KCiAgICA8ZGl2IHNlYzphdXRob3JpemU9Imhhc1JvbGUoJ1JPTEVfQURNSU4nKSI+CiAgICAgICAgPHAgdGg6dXRleHQ9IiN7bWVzc2FnZV9hZG1pbn0iPllvdSBhcmUgY3VycmVudGx5IHNpZ25lZCBpbiBhcyB0aGUgYWRtaW5pc3RyYXRvci48L3A+CiAgICA8L2Rpdj4KCiAgICA8ZGl2IHRoOnJlcGxhY2U9ImZyYWdtZW50cy9mb290ZXIgOjogZm9vdGVyIj5Gb290ZXI8L2Rpdj4KCjwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChyb290ID09IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgIDx0aXRsZSB0aDp0ZXh0PSIje2FwcGxpY2F0aW9uX25hbWV9Ij5BcHBsaWNhdGlvbiBEZW1vPC90aXRsZT4KCiAgICA8IS0tIE1haW4gc3R5bGUgc2hlZXQgLS0+CiAgICA8bGluayBocmVmPSIuLi8uLi9zdGF0aWMvY3NzL21haW4uY3NzIiB0aDpocmVmPSJAey9jc3MvbWFpbi5jc3N9IiByZWw9InN0eWxlc2hlZXQiIG1lZGlhPSJzY3JlZW4iIC8+CgogICAgPCEtLSBCb290c3RyYXAgMyAtLT4KICAgIDxsaW5rIGhyZWY9Ii4uLy4uL3N0YXRpYy9jc3MvYm9vdHN0cmFwLm1pbi5jc3MiIHRoOmhyZWY9IkB7L2Nzcy9ib290c3RyYXAubWluLmNzc30iIHJlbD0ic3R5bGVzaGVldCIgbWVkaWE9InNjcmVlbiIgLz4KICAgIDxsaW5rIGhyZWY9Ii4uLy4uL3N0YXRpYy9jc3MvYm9vdHN0cmFwLXRoZW1lLm1pbi5jc3MiIHRoOmhyZWY9IkB7L2Nzcy9ib290c3RyYXAtdGhlbWUubWluLmNzc30iIHJlbD0ic3R5bGVzaGVldCIgbWVkaWE9InNjcmVlbiIgLz4KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgICAgIHJvb3QucwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiLyIpIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGFyZW50IHJvb3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZng6Y29udHJvbGxlcj0iRm9vIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YVByb3ZpZGVyLnJlZnJlc2hBbGwoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEhpZGUgdGhpcyBjdXJyZW50IHdpbmRvdyAoaWYgdGhpcyBpcyB3aGF0IHlvdSB3YW50KQogICAgICAgICAgICAgICAgKChOb2RlKShldmVudC5nZXRTb3VyY2UoKSkpLmdldFNjZW5lKCkuZ2V0V2luZG93KCkuaGlkZSgpOwo=</text>
+        <text encoding="base64">ICAgIFBhcmVudCByb290ID0gbnVsbDsgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5qZnh0cmFzPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qbWV0cm88L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx0eXBlPnBvbTwvdHlwZT4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>port</last-search>
+      <last-search>devtools</last-search>
       <last-offset />
-      <last-pattern>port</last-pattern>
+      <last-pattern>devtools</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>container</entry>
         <entry>v-grid</entry>
         <entry>.v-grid</entry>
         <entry>line-height</entry>
@@ -4620,6 +4635,7 @@
         <entry>jas</entry>
         <entry>808</entry>
         <entry>port</entry>
+        <entry>devtools</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
