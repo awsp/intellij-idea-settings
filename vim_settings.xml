@@ -435,6 +435,12 @@
         <mark key="." line="26" column="40" />
         <mark key="^" line="26" column="40" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/frontend/standalone/components/hotels/libs/init.js" timestamp="1532474623849">
+        <mark key="[" line="12" column="77" />
+        <mark key="]" line="12" column="78" />
+        <mark key="^" line="12" column="78" />
+        <mark key="." line="12" column="78" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/view/AbstractView.java" timestamp="1518212528955">
         <mark key="[" line="27" column="18" />
         <mark key="]" line="27" column="18" />
@@ -1628,6 +1634,12 @@
         <mark key="^" line="53" column="3" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/frontend/standalone/components/hotels/hotels_table.js" timestamp="1532474432393">
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="29" />
+        <mark key="^" line="36" column="29" />
+        <mark key="." line="36" column="29" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/ANPITabsContainer.java" timestamp="1530583630656">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="40" column="0" />
@@ -2731,6 +2743,13 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/frontend/standalone/components/hotels/hotels_view.js" timestamp="1532475530471">
+        <mark key="'" line="26" column="30" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="46" />
+        <mark key="." line="37" column="46" />
+        <mark key="^" line="37" column="46" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/annotation/InfantZeroToNull.java" timestamp="1506737171863">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -2811,12 +2830,6 @@
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
-      </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/backend/common/models/tour.json" timestamp="1532382657176">
-        <mark key="'" line="17" column="14" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="24" />
-        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/ClientUI.java" timestamp="1525903845870">
         <mark key="[" line="12" column="5" />
@@ -2983,12 +2996,6 @@
         <mark key="." line="35" column="33" />
         <mark key="^" line="35" column="33" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster/src/main/resources/config/application-dev.yml" timestamp="1532375192536">
-        <mark key="'" line="86" column="5" />
-        <mark key="[" line="94" column="10" />
-        <mark key="]" line="94" column="10" />
-        <mark key="." line="94" column="10" />
-      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/model/SSBkgOptourData.java" timestamp="1506395095333">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -3024,12 +3031,6 @@
         <mark key="]" line="4" column="79" />
         <mark key="." line="4" column="79" />
         <mark key="^" line="4" column="79" />
-      </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/backend/common/models/flight.json" timestamp="1532382651103">
-        <mark key="'" line="8" column="2" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="24" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/view/UserView2.java" timestamp="1516826138820">
         <mark key="[" line="2" column="0" />
@@ -3507,12 +3508,6 @@
         <mark key="^" line="96" column="12" />
         <mark key="." line="96" column="12" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/backend/common/models/tour-package.json" timestamp="1532382666565">
-        <mark key="'" line="9" column="21" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster/src/main/resources/config/application.yml" timestamp="1532375167881">
         <mark key="'" line="0" column="0" />
       </file>
@@ -3666,11 +3661,11 @@
         <mark key="." line="117" column="0" />
         <mark key="^" line="116" column="60" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/frontend/standalone/components/hotels/hotels_table_toolbar.js" timestamp="1532030266129">
-        <mark key="[" line="24" column="22" />
-        <mark key="]" line="24" column="33" />
-        <mark key="^" line="24" column="33" />
-        <mark key="." line="24" column="33" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/frontend/standalone/components/hotels/hotels_table_toolbar.js" timestamp="1532473669201">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="12" />
+        <mark key="." line="26" column="12" />
+        <mark key="^" line="26" column="12" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/operationimg/src/main/java/ImageResizer.java" timestamp="1521251797956">
         <mark key="[" line="0" column="0" />
@@ -4510,7 +4505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="35" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/RemarksEditor.java" />
       <jump line="84" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/RemarksEditor.java" />
       <jump line="56" column="39" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/RemarksEditor.java" />
       <jump line="16" column="31" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/RemarksEditor.java" />
@@ -4610,16 +4604,17 @@
       <jump line="128" column="57" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/resources/config/application.yml" />
       <jump line="31" column="25" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/resources/config/application-prod.yml" />
       <jump line="29" column="44" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/resources/config/application-prod.yml" />
+      <jump line="29" column="30" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/frontend/standalone/components/hotels/hotels_view.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAiaGlkZGVuIjogWyJkZWxldGVkQXQiXQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>jhipster_ng6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>jhipster_ng6</text>
+        <text>val</text>
       </register>
       <register name="/" type="4">
         <text>8080</text>
@@ -4628,42 +4623,31 @@
         <text encoding="base64">ICAgIGFTdHJpbmcgPSBhU3RyaW5nLnJlcGxhY2UoL1xuL2csICc8YnI+Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgdHJhbnNmb3JtZXIgPSByZXF1aXJlKCcuL3RyYW5zZm9ybWVyJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>International Flight: Please go out to the Individual Exit, we will wait out side of &quot; International Individual Exit&quot;
-Domestic Flight: Please wait at the Luggage/Baggage Claim Counter
-Inter-island:Please take your flight tickets, the pick-up location: Big Island: at the Baggage Claim of Your Flight.
-Maui Island : at the Startbucks of downstair, next to No. 4 Baggage Claim
-Big Island contact ph#：808-9893374
-Maui Contact ph#： 808-9868858／808-9868828</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICQkKCdob3RlbHNUYWJsZScpLmZpbHRlcigob2JqKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBvYmoubmFtZS5pbmRleE9mKHNlYXJjaEtleXdvcmQpID49IDAgfHwgb2JqLmFkZHJlc3MuaW5kZXhPZihzZWFyY2hLZXl3b3JkKSA+PSAwIHx8IG9iai5jb2RlLmluZGV4T2Yoc2VhcmNoS2V5d29yZCkgPj0gMDsKICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>機場接機地點:
-國際航班: 請於提取行李後, 走&quot;國際航班個人出口(International Individual Exit)&quot;, 導游會在出口外面接您
-國內航班: 請在您所搭航班的行李轉台處(不論您是否有行李), 導游會在行李轉台處接您
-外島行程請務必攜帶您的機票, 大島接機位於機場取行李處, 茂宜島請到&quot;樓下4號行李轉台旁的星巴客(Starbucks)
-大島聯絡電話：808-9893374
-茂宜聯絡電話：808-9868858／808-9868828</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkJCgnaG90ZWxzVGFibGUnKS5maWx0ZXIoKG9iaikgPT4gewogICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG9iai5uYW1lLmluZGV4T2Yoc2VhcmNoS2V5d29yZCkgPj0gMCB8fCBvYmouYWRkcmVzcy5pbmRleE9mKHNlYXJjaEtleXdvcmQpID49IDAgfHwgb2JqLmNvZGUuaW5kZXhPZihzZWFyY2hLZXl3b3JkKSA+PSAwOwogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGxldCBzZWFyY2hLZXl3b3JkID0gJCQoJ2hvdGVsLXNlYXJjaC1maWVsZCcpLmdldFZhbHVlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVidWdnZXI7Z2cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkJCgnaG90ZWxzVGFibGUnKS5maWx0ZXIoKG9iaikgPT4gewogICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG9iai5uYW1lLmluZGV4T2Yoc2VhcmNoS2V5d29yZCkgPj0gMCB8fCBvYmouYWRkcmVzcy5pbmRleE9mKHNlYXJjaEtleXdvcmQpID49IDAgfHwgb2JqLmNvZGUuaW5kZXhPZihzZWFyY2hLZXl3b3JkKSA+PSAwIDsKICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>,
-    &quot;SoftDelete&quot;: true</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
