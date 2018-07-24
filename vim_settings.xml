@@ -1701,6 +1701,12 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/index.html" timestamp="1532467837810">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="14" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/ui/views/LandingView.java" timestamp="1522966416307">
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="38" />
@@ -2916,10 +2922,10 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/resources/config/application-dev.yml" timestamp="1532395495360">
-        <mark key="[" line="79" column="10" />
-        <mark key="]" line="79" column="13" />
-        <mark key="." line="79" column="13" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/resources/config/application-dev.yml" timestamp="1532467975170">
+        <mark key="[" line="79" column="13" />
+        <mark key="]" line="79" column="14" />
+        <mark key="." line="79" column="14" />
         <mark key="^" line="79" column="13" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/model/IFData.java" timestamp="1515613892502">
@@ -4610,10 +4616,10 @@
         <text encoding="base64">ICAiaGlkZGVuIjogWyJkZWxldGVkQXQiXQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>8080</text>
+        <text>jhipster_ng6</text>
       </register>
       <register name="-" type="4">
-        <text>8080</text>
+        <text>jhipster_ng6</text>
       </register>
       <register name="/" type="4">
         <text>8080</text>
