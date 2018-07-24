@@ -52,6 +52,9 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="57" column="36" />
       </file>
+      <file name="/a.dummy" timestamp="1531882549045">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/ui/views/ASENMainView.java" timestamp="1523410297942">
         <mark key="[" line="19" column="32" />
         <mark key="]" line="19" column="34" />
@@ -1129,7 +1132,6 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster/src/main/webapp/app/modules/home/home.tsx" timestamp="1532376744609" />
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmpayroll/src/main/java/com/jtbhawaii/cmpayroll/model/VwClients.java" timestamp="1510005341124">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="15" />
@@ -3545,6 +3547,9 @@
         <mark key="]" line="10" column="105" />
         <mark key="." line="10" column="105" />
         <mark key="^" line="10" column="105" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/java/com/jtbhawaii/misdocs/service/impl/FooServiceImpl.java" timestamp="1532389916310">
+        <mark key="[" line="37" column="59" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/ui/MainViewDisplay.java" timestamp="1511816024191">
         <mark key="[" line="13" column="30" />
