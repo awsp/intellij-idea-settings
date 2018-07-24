@@ -405,6 +405,11 @@
         <mark key="^" line="16" column="31" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/java/com/jtbhawaii/misdocs/JhipsterNgApp.java" timestamp="1532394537037">
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/model/TogoBookingResponseFile.java" timestamp="1514594334955">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="7" column="32" />
@@ -459,6 +464,9 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="16" column="13" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster/pom.xml" timestamp="1532376500250">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/annotation/ModifyData.java" timestamp="1506461396500">
         <mark key="[" line="6" column="18" />
         <mark key="]" line="6" column="18" />
@@ -491,7 +499,8 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="31" column="32" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/resources/config/application-prod.yml" timestamp="1532393266314">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/resources/config/application-prod.yml" timestamp="1532394366739">
+        <mark key="'" line="31" column="25" />
         <mark key="[" line="38" column="17" />
         <mark key="]" line="31" column="25" />
         <mark key="^" line="31" column="25" />
@@ -3419,6 +3428,9 @@
         <mark key="^" line="26" column="58" />
         <mark key="." line="26" column="58" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/resources/config/application.yml" timestamp="1532394354629">
+        <mark key="'" line="128" column="57" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmpayroll/src/main/java/com/jtbhawaii/cmpayroll/CMPayrollServletInitializer.java" timestamp="1511217562997">
         <mark key="[" line="8" column="31" />
         <mark key="]" line="8" column="31" />
@@ -3553,6 +3565,9 @@
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster/src/main/resources/config/application.yml" timestamp="1532375167881">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/concurrenttest/src/main/java/ConcurrentTest.java" timestamp="1510017705425">
         <mark key="[" line="12" column="43" />
@@ -4558,8 +4573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="10" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/contextmenu/UserActionContextMenu.java" />
-      <jump line="58" column="44" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/contextmenu/ConfirmationDialog.java" />
       <jump line="31" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/contextmenu/ConfirmationDialog.java" />
       <jump line="46" column="35" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/RemarksEditor.java" />
       <jump line="84" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/RemarksEditor.java" />
@@ -4658,19 +4671,21 @@
       <jump line="175" column="19" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/frontend/standalone/components/bookings/libs/invoice.js" />
       <jump line="192" column="114" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/frontend/standalone/components/bookings/libs/invoice.js" />
       <jump line="264" column="1" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/frontend/standalone/components/bookings/libs/invoice.js" />
+      <jump line="128" column="57" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/resources/config/application.yml" />
+      <jump line="31" column="25" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/resources/config/application-prod.yml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAiaGlkZGVuIjogWyJkZWxldGVkQXQiXQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>fail</text>
+        <text>eur</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFTdHJpbmcgPSBhU3RyaW5nLnJlcGxhY2UoL1xuL2csICc8YnI+Jyk7Cg==</text>
@@ -4718,18 +4733,14 @@ Maui Contact ph#： 808-9868858／808-9868828</text>
       </register>
     </registers>
     <search>
-      <last-search>fail</last-search>
+      <last-search>eur</last-search>
       <last-offset />
-      <last-pattern>fail</last-pattern>
+      <last-pattern>eur</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>KeyCode</entry>
-        <entry>catch</entry>
-        <entry>margin:</entry>
-        <entry>margin</entry>
         <entry>abc</entry>
         <entry>MenuItem</entry>
         <entry>context</entry>
@@ -4746,6 +4757,10 @@ Maui Contact ph#： 808-9868858／808-9868828</text>
         <entry>template</entry>
         <entry>XML</entry>
         <entry>fail</entry>
+        <entry>disconver</entry>
+        <entry>disco</entry>
+        <entry>eru</entry>
+        <entry>eur</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
