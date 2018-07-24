@@ -491,11 +491,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="31" column="32" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/resources/config/application-prod.yml" timestamp="1532392666898">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/resources/config/application-prod.yml" timestamp="1532393266314">
         <mark key="[" line="38" column="17" />
-        <mark key="]" line="37" column="21" />
-        <mark key="^" line="37" column="21" />
-        <mark key="." line="37" column="21" />
+        <mark key="]" line="31" column="25" />
+        <mark key="^" line="31" column="25" />
+        <mark key="." line="31" column="25" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/contextmenu/UserActionContextMenu.java" timestamp="1531359320223">
         <mark key="'" line="49" column="10" />
@@ -1868,6 +1868,12 @@
         <mark key="]" line="14" column="3" />
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/resources/config/bootstrap-prod.yml" timestamp="1532393365961">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="27" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/datasource_test/src/main/resources/ui/datatable_toolbar.fxml" timestamp="1522269067322">
         <mark key="[" line="9" column="61" />
@@ -4657,14 +4663,14 @@
       <register name="a" type="2">
         <text encoding="base64">ICAiaGlkZGVuIjogWyJkZWxldGVkQXQiXQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgdHJhbnNmb3JtZXIgPSByZXF1aXJlKCcuL3RyYW5zZm9ybWVyJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>XML</text>
+        <text>fail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFTdHJpbmcgPSBhU3RyaW5nLnJlcGxhY2UoL1xuL2csICc8YnI+Jyk7Cg==</text>
@@ -4712,15 +4718,14 @@ Maui Contact ph#： 808-9868858／808-9868828</text>
       </register>
     </registers>
     <search>
-      <last-search>XML</last-search>
+      <last-search>fail</last-search>
       <last-offset />
-      <last-pattern>XML</last-pattern>
+      <last-pattern>fail</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>login</entry>
         <entry>KeyCode</entry>
         <entry>catch</entry>
         <entry>margin:</entry>
@@ -4740,6 +4745,7 @@ Maui Contact ph#： 808-9868858／808-9868828</text>
         <entry>cancellation</entry>
         <entry>template</entry>
         <entry>XML</entry>
+        <entry>fail</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
