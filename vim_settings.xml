@@ -2492,10 +2492,12 @@
         <mark key="^" line="45" column="18" />
         <mark key="." line="45" column="18" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.component.ts" timestamp="1532745310668">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.component.ts" timestamp="1532746570015">
+        <mark key="'" line="11" column="45" />
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/exception/FDOriginalCopyException.java" timestamp="1507838307059">
         <mark key="[" line="5" column="22" />
@@ -4668,7 +4670,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="16" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/config/SecurityConfiguration.java" />
       <jump line="94" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/config/SecurityConfiguration.java" />
       <jump line="18" column="9" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/domains/CustomerStatus.java" />
       <jump line="34" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/SalesOfficeCustomersTable.java" />
@@ -4768,49 +4769,54 @@
       <jump line="19" column="25" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/.yo-rc.json" />
       <jump line="102" column="12" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/resources/config/application-dev.yml" />
       <jump line="38" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/angular.json" />
+      <jump line="11" column="45" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhLXJvdyBmbGV4Ij4KICAgICAgICAgIDxkaXYgY2xhc3M9ImEtc3ViLXJvdyBmbGV4Ij4KICAgICAgICAgICAgPGxhYmVsIGZvcj0iZ3Vlc3RDb250YWN0Ij4ke3RyYW5zbGF0aW9uLmJvb2tpbmcuZ3Vlc3RDb250YWN0fTwvbGFiZWw+IAogICAgICAgICAgICA8ZGl2IGNsYXNzPSJlbnRyeSI+CiAgICAgICAgICAgICAgJHtmb3JtRGF0YS5ndWVzdENvbnRhY3ROdW1iZXJ9IAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, '../../../../../node_modules/primeng/resources/primeng.min.css',
+        '../../../../../node_modules/primeng/resources/themes/omega/theme.css',
+    '../../../../../node_modules/primeicons/primeicons.css'</text>
       </register>
       <register name="-" type="4">
-        <text>ccc</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>architect</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+Y2NjPC90ZD4K</text>
+      <register name="0" type="4">
+        <text>../../../../node_modules/primeng/resources/primeng.min.css</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>, '../../../../../node_modules/primeng/resources/primeng.min.css',
+        '../../../../../node_modules/primeng/resources/themes/omega/theme.css',
+    '../../../../../node_modules/primeicons/primeicons.css'</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtCdXR0b25Nb2R1bGV9IGZyb20gJ3ByaW1lbmcvYnV0dG9uJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHRhYmxlPgogICAgPHRyPgogICAgICAgIDx0ZD5BQUE8L3RkPgogICAgICAgIDx0ZD5iYmI8L3RkPgogICAgPC90cj4KICAgIDx0cj4KICAgICAgICA8dGQ+Y2NjPC90ZD4KICAgICAgICA8dGQ+ZGRkPC90ZD4KICAgIDwvdHI+CjwvdGFibGU+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtCdXR0b25Nb2R1bGV9IGZyb20gJ3ByaW1lbmcvYnV0dG9uJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGgxPjwvaDE+Cg==</text>
+        <text encoding="base64">PHRhYmxlPgogICAgPHRyPgogICAgICAgIDx0ZD5BQUE8L3RkPgogICAgICAgIDx0ZD5iYmI8L3RkPgogICAgPC90cj4KICAgIDx0cj4KICAgICAgICA8dGQ+Y2NjPC90ZD4KICAgICAgICA8dGQ+ZGRkPC90ZD4KICAgIDwvdHI+CjwvdGFibGU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PGgxPjwvaDE+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmFmeC5meG1sLkZYTUw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEZYTUwK</text>
+        <text encoding="base64">aW1wb3J0IGphdmFmeC5meG1sLkZYTUw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHthcHAucHJlZmVycmVkV2lkdGh9IikKICAgIHByaXZhdGUgZG91YmxlIHByZWZlcnJlZFdpZHRoOwoKICAgIEBWYWx1ZSgiJHthcHAucHJlZmVycmVkSGVpZ2h0fSIpCiAgICBwcml2YXRlIGRvdWJsZSBnZXRQcmVmZXJyZWRIZWlnaHQ7CgogICAgcHVibGljIGRvdWJsZSBnZXRQcmVmZXJyZWRXaWR0aCgpIHtra2sKICAgICAgICByZXR1cm4gcHJlZmVycmVkV2lkdGg7CiAgICB9CgogICAgcHVibGljIGRvdWJsZSBnZXRHZXRQcmVmZXJyZWRIZWlnaHQoKSB7CiAgICAgICAgcmV0dXJuIGdldFByZWZlcnJlZEhlaWdodDsKICAgIH0K</text>
+        <text encoding="base64">QEZYTUwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
