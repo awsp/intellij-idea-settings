@@ -74,6 +74,11 @@
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
   <action id="AddToFavoritesPopup" />
+  <action id="Android.HotswapChanges">
+    <keyboard-shortcut first-keystroke="meta f10" />
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Edit" />
