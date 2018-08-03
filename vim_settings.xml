@@ -2504,12 +2504,12 @@
         <mark key="^" line="45" column="18" />
         <mark key="." line="45" column="18" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.component.ts" timestamp="1533245074440">
-        <mark key="'" line="23" column="10" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="21" column="33" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.component.ts" timestamp="1533264209047">
+        <mark key="'" line="21" column="34" />
+        <mark key="[" line="43" column="35" />
+        <mark key="]" line="43" column="35" />
+        <mark key="." line="43" column="35" />
+        <mark key="^" line="43" column="35" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/exception/FDOriginalCopyException.java" timestamp="1507838307059">
         <mark key="[" line="5" column="22" />
@@ -4701,7 +4701,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="14" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/SalesOfficeCustomersTable.java" />
       <jump line="106" column="12" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/UploadModule.java" />
       <jump line="29" column="4" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/controls/BasicBuiltInIOControls.java" />
       <jump line="24" column="30" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/controls/BasicBuiltInIOControls.java" />
@@ -4801,16 +4800,17 @@
       <jump line="43" column="7" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.component.ts" />
       <jump line="23" column="10" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.component.ts" />
       <jump line="20" column="40" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/app.module.ts" />
+      <jump line="21" column="34" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhLXJvdyBmbGV4Ij4KICAgICAgICAgIDxkaXYgY2xhc3M9ImEtc3ViLXJvdyBmbGV4Ij4KICAgICAgICAgICAgPGxhYmVsIGZvcj0iZ3Vlc3RDb250YWN0Ij4ke3RyYW5zbGF0aW9uLmJvb2tpbmcuZ3Vlc3RDb250YWN0fTwvbGFiZWw+IAogICAgICAgICAgICA8ZGl2IGNsYXNzPSJlbnRyeSI+CiAgICAgICAgICAgICAgJHtmb3JtRGF0YS5ndWVzdENvbnRhY3ROdW1iZXJ9IAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJvdXRlcjogUm91dGVyOyAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>jhi-home</text>
@@ -4819,31 +4819,31 @@
         <text encoding="base64">ICAgICAgICBUZXh0VmlldyB0ZXh0VmlldyA9IGZpbmRWaWV3QnlJZChSLmlkLnByaW1hcnlfdGV4dCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGl0ICUgMiA9PSAwCg==</text>
+        <text encoding="base64">ICAgIHJvdXRlcjogUm91dGVyOyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJvdXRlciA9IG5ldyBSb3V0ZXIoKTsgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzYi50b1N0cmluZygpCg==</text>
+        <text encoding="base64">ICAgIGl0ICUgMiA9PSAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBGb29NbyAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBzYi50b1N0cmluZygpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZUJ5VXJsKCdmb28nKTsK</text>
+        <text encoding="base64">ICAgICAgICBGb29NbyAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJvdXRlciA9IG5ldyBSb3V0ZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJvdXRlcjogUm91dGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZUJ5VXJsKCdmb28nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

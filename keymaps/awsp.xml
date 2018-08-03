@@ -117,6 +117,12 @@
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jpa.Execute" />
+  <action id="Console.TableResult.AddRow">
+    <keyboard-shortcut first-keystroke="meta n" />
+    <keyboard-shortcut first-keystroke="alt n" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.ColumnSortAsc" />
   <action id="Console.TableResult.ColumnSortDesc" />
@@ -239,6 +245,7 @@
     <keyboard-shortcut first-keystroke="meta n" />
     <keyboard-shortcut first-keystroke="alt n" />
     <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -271,6 +278,12 @@
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="Graph.Faces.OpenSelectedPages" />
+  <action id="GuiDesigner.CreateComponent">
+    <keyboard-shortcut first-keystroke="meta n" />
+    <keyboard-shortcut first-keystroke="alt n" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
@@ -309,6 +322,12 @@
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="shift alt open_bracket" />
+  </action>
+  <action id="PropertyInspectorActions.AddProperty">
+    <keyboard-shortcut first-keystroke="meta n" />
+    <keyboard-shortcut first-keystroke="alt n" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta quote" />
