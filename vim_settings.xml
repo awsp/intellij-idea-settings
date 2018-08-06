@@ -2383,12 +2383,11 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/frontend/standalone/renderer.js" timestamp="1533584082878">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/frontend/standalone/renderer.js" timestamp="1533587090446">
         <mark key="'" line="20" column="3" />
-        <mark key="[" line="29" column="33" />
-        <mark key="]" line="30" column="16" />
-        <mark key="^" line="30" column="16" />
-        <mark key="." line="30" column="16" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/resources/application-dev.yml" timestamp="1525402376724">
         <mark key="[" line="2" column="2" />
@@ -4809,11 +4808,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhLXJvdyBmbGV4Ij4KICAgICAgICAgIDxkaXYgY2xhc3M9ImEtc3ViLXJvdyBmbGV4Ij4KICAgICAgICAgICAgPGxhYmVsIGZvcj0iZ3Vlc3RDb250YWN0Ij4ke3RyYW5zbGF0aW9uLmJvb2tpbmcuZ3Vlc3RDb250YWN0fTwvbGFiZWw+IAogICAgICAgICAgICA8ZGl2IGNsYXNzPSJlbnRyeSI+CiAgICAgICAgICAgICAgJHtmb3JtRGF0YS5ndWVzdENvbnRhY3ROdW1iZXJ9IAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>aaa</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2NhdGlvbi5yZWxvYWQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>aaa</text>
+        <text>status</text>
       </register>
       <register name="/" type="4">
         <text>jhi-home</text>
@@ -4822,31 +4821,31 @@
         <text encoding="base64">ICAgICAgICBUZXh0VmlldyByZXN1bHRWaWV3ID0gZmluZFZpZXdCeUlkKFIuaWQucmVzdWx0Vmlldyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NhdGlvbi5yZWxvYWQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gY29scyA9IHJvdy5zcGxpdCgiLCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhLCBiLGMgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBjb2xzLmxlbmd0aDsgaisrKSB7CiAgICAgICAgICAgICAgICBib2FyZFtpXVtqXSA9IEludGVnZXIucGFyc2VJbnQoY29sc1tqXS50cmltKCkpOwogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gY29scyA9IHJvdy5zcGxpdCgiLCIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KHJlc3VsdEJvYXJkW3Jvd11bY29sdW1uXSArICIgIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ci8vICAgICAgICBpbnRbXVtdIGJvYXJkID0gewovLyAgICAgICAgICAgICAgICB7OCwgMCwgMCwgMCwgMCwgMCwgMCwgMCwgMH0sCi8vICAgICAgICAgICAgICAgIHswLCAwLCAzLCA2LCAwLCAwLCAwLCAwLCAwfSwKLy8gICAgICAgICAgICAgICAgezAsIDcsIDAsIDAsIDksIDAsIDIsIDAsIDB9LAovLyAgICAgICAgICAgICAgICB7MCwgNSwgMCwgMCwgMCwgNywgMCwgMCwgMH0sCi8vICAgICAgICAgICAgICAgIHswLCAwLCAwLCAwLCA0LCA1LCA3LCAwLCAwfSwKLy8gICAgICAgICAgICAgICAgezAsIDAsIDAsIDEsIDAsIDAsIDAsIDMsIDB9LAovLyAgICAgICAgICAgICAgICB7MCwgMCwgMSwgMCwgMCwgMCwgMCwgNiwgOH0sCi8vICAgICAgICAgICAgICAgIHswLCAwLCA4LCA1LCAwLCAwLCAwLCAxLCAwfSwKLy8gICAgICAgICAgICAgICAgezAsIDksIDAsIDAsIDAsIDAsIDQsIDAsIDB9Ci8vICAgICAgICB9Ow==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
