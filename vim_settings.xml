@@ -220,6 +220,12 @@
         <mark key="^" line="14" column="10" />
         <mark key="." line="14" column="10" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/src/view/index.html" timestamp="1533607506857">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/backend/common/models/agent.js" timestamp="1532036524920">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -1221,6 +1227,12 @@
         <mark key="]" line="7" column="12" />
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/package.json" timestamp="1533606749529">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/resources/config/application-dev.yml" timestamp="1532377626890">
         <mark key="'" line="85" column="5" />
@@ -3248,6 +3260,12 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="45" column="65" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/README.md" timestamp="1533606141409">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="7" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/vmsreports/pom.xml" timestamp="1515797049389">
         <mark key="[" line="23" column="18" />
         <mark key="]" line="27" column="20" />
@@ -3466,6 +3484,12 @@
         <mark key="]" line="35" column="26" />
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/.gitignore" timestamp="1533606467424">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-spring-security/src/main/resources/application-local.yml" timestamp="1516216431217">
         <mark key="[" line="0" column="0" />
@@ -4557,6 +4581,12 @@
         <mark key="^" line="11" column="36" />
         <mark key="." line="11" column="22" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/src/main.js" timestamp="1533607492616">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="38" />
+        <mark key="^" line="8" column="38" />
+        <mark key="." line="8" column="38" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs/views/tpt2000-migration/coach-manager/index.level1.md" timestamp="1517278089169">
         <mark key="[" line="131" column="157" />
         <mark key="]" line="131" column="175" />
@@ -4808,44 +4838,44 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhLXJvdyBmbGV4Ij4KICAgICAgICAgIDxkaXYgY2xhc3M9ImEtc3ViLXJvdyBmbGV4Ij4KICAgICAgICAgICAgPGxhYmVsIGZvcj0iZ3Vlc3RDb250YWN0Ij4ke3RyYW5zbGF0aW9uLmJvb2tpbmcuZ3Vlc3RDb250YWN0fTwvbGFiZWw+IAogICAgICAgICAgICA8ZGl2IGNsYXNzPSJlbnRyeSI+CiAgICAgICAgICAgICAgJHtmb3JtRGF0YS5ndWVzdENvbnRhY3ROdW1iZXJ9IAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbi5yZWxvYWQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>jhi-home</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUZXh0VmlldyByZXN1bHRWaWV3ID0gZmluZFZpZXdCeUlkKFIuaWQucmVzdWx0Vmlldyk7Cg==</text>
+        <text encoding="base64">YXBwLnVzZSgnL25nJywgZXhwcmVzcy5zdGF0aWMoX19kaXJuYW1lICsgJy9ub2RlX21vZHVsZXMvYW5ndWxhci8nKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbi5yZWxvYWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzKTsK</text>
+        <text encoding="base64">YXBwLnVzZSgnL25nJywgZXhwcmVzcy5zdGF0aWMoX19kaXJuYW1lICsgJy9hbmd1bGFyLycpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhLCBiLGMgKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICByZXMuc2VuZCgnYWFhJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICByZXMud3JpdGVIZWFkKDIwMCwgeydDb250ZW50LVR5cGUnOiAndGV4dC9wbGFpbid9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAic3RhcnQiOiAiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gY29scyA9IHJvdy5zcGxpdCgiLCIpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXMuc25lZDknJyAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
