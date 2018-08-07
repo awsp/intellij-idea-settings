@@ -367,11 +367,11 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/main.js" timestamp="1533609870889">
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="14" />
-        <mark key="^" line="9" column="14" />
-        <mark key="." line="9" column="14" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/main.js" timestamp="1533611350570">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="4" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/config/ClientSecurityConfiguration.java" timestamp="1530907530509">
         <mark key="[" line="23" column="104" />
@@ -4316,11 +4316,11 @@
         <mark key="." line="31" column="7" />
         <mark key="^" line="31" column="7" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/public/js/app.js" timestamp="1533610323107">
-        <mark key="[" line="2" column="40" />
-        <mark key="]" line="2" column="41" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="2" column="41" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/public/js/app.js" timestamp="1533611198128">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="3" column="12" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/gradletrio2/src/main/resources/application.properties" timestamp="1516823839073">
         <mark key="[" line="0" column="16" />
@@ -4857,10 +4857,10 @@
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhLXJvdyBmbGV4Ij4KICAgICAgICAgIDxkaXYgY2xhc3M9ImEtc3ViLXJvdyBmbGV4Ij4KICAgICAgICAgICAgPGxhYmVsIGZvcj0iZ3Vlc3RDb250YWN0Ij4ke3RyYW5zbGF0aW9uLmJvb2tpbmcuZ3Vlc3RDb250YWN0fTwvbGFiZWw+IAogICAgICAgICAgICA8ZGl2IGNsYXNzPSJlbnRyeSI+CiAgICAgICAgICAgICAgJHtmb3JtRGF0YS5ndWVzdENvbnRhY3ROdW1iZXJ9IAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>basicAuth{{users: {'admin': 'password'}}}</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>basicAuth{{users: {'admin': 'password'}}}</text>
       </register>
       <register name="/" type="4">
         <text>jhi-home</text>
