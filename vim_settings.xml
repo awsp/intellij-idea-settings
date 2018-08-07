@@ -220,11 +220,11 @@
         <mark key="^" line="14" column="10" />
         <mark key="." line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/src/view/index.html" timestamp="1533607506857">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-        <mark key="^" line="6" column="17" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/src/view/index.html" timestamp="1533610299184">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="30" column="28" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/backend/common/models/agent.js" timestamp="1532036524920">
         <mark key="[" line="9" column="0" />
@@ -366,6 +366,12 @@
         <mark key="]" line="7" column="39" />
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="39" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/main.js" timestamp="1533609870889">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="14" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/config/ClientSecurityConfiguration.java" timestamp="1530907530509">
         <mark key="[" line="23" column="104" />
@@ -1228,10 +1234,10 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/package.json" timestamp="1533606749529">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="29" />
-        <mark key="." line="6" column="29" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/package.json" timestamp="1533609673499">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/resources/config/application-dev.yml" timestamp="1532377626890">
@@ -1782,6 +1788,12 @@
         <mark key="]" line="19" column="39" />
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/public/css/styles.css" timestamp="1533610249452">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="17" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/pickuplocator_offline/app/components/version/version.js" timestamp="1513815469473">
         <mark key="[" line="3" column="9" />
@@ -4304,6 +4316,12 @@
         <mark key="." line="31" column="7" />
         <mark key="^" line="31" column="7" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/public/js/app.js" timestamp="1533610323107">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="2" column="41" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="2" column="41" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/gradletrio2/src/main/resources/application.properties" timestamp="1516823839073">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="1" column="29" />
@@ -4581,11 +4599,11 @@
         <mark key="^" line="11" column="36" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/src/main.js" timestamp="1533607492616">
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="8" column="38" />
-        <mark key="^" line="8" column="38" />
-        <mark key="." line="8" column="38" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/src/main.js" timestamp="1533609651370">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="7" column="37" />
+        <mark key="^" line="7" column="37" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs/views/tpt2000-migration/coach-manager/index.level1.md" timestamp="1517278089169">
         <mark key="[" line="131" column="157" />
@@ -4839,43 +4857,48 @@
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhLXJvdyBmbGV4Ij4KICAgICAgICAgIDxkaXYgY2xhc3M9ImEtc3ViLXJvdyBmbGV4Ij4KICAgICAgICAgICAgPGxhYmVsIGZvcj0iZ3Vlc3RDb250YWN0Ij4ke3RyYW5zbGF0aW9uLmJvb2tpbmcuZ3Vlc3RDb250YWN0fTwvbGFiZWw+IAogICAgICAgICAgICA8ZGl2IGNsYXNzPSJlbnRyeSI+CiAgICAgICAgICAgICAgJHtmb3JtRGF0YS5ndWVzdENvbnRhY3ROdW1iZXJ9IAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>jhi-home</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwLnVzZSgnL25nJywgZXhwcmVzcy5zdGF0aWMoX19kaXJuYW1lICsgJy9ub2RlX21vZHVsZXMvYW5ndWxhci8nKSk7Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbjogMDsgCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">YXBwLnVzZSgnL25nJywgZXhwcmVzcy5zdGF0aWMoX19kaXJuYW1lICsgJy9hbmd1bGFyLycpKTsK</text>
+      <register name="2" type="4">
+        <text>{
+    
+    input[type=text]  {
+        
+    }
+}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXMuc2VuZCgnYWFhJykK</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uPjwvYnV0dG9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXMud3JpdGVIZWFkKDIwMCwgeydDb250ZW50LVR5cGUnOiAndGV4dC9wbGFpbid9KTsK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2PjxpbnB1dCB0eXBlPSJ0ZXh0IiBwbGFjZWhvbGRlcj0iTG9jYXRpb24gQ29kZSIvPjwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAic3RhcnQiOiAiIgo=</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgcGxhY2Vob2xkZXI9IlBvd2VycG9pbnQgU2xpZGUiLz4KICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgcGxhY2Vob2xkZXI9IlBvd2VycG9pbnQgU2xpZGUiLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">YW5ndWxhcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIDxoMT5zc3NzPC9oMT4KICAgIGFhYWFhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXMuc25lZDknJyAK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coX19kaXJuYW1lKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
