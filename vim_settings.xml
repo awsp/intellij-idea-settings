@@ -1077,6 +1077,12 @@
         <mark key="^" line="6" column="66" />
         <mark key="." line="6" column="64" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/src/main/resources/config/application-dev.yml" timestamp="1533761664527">
+        <mark key="'" line="72" column="5" />
+        <mark key="[" line="80" column="13" />
+        <mark key="]" line="80" column="14" />
+        <mark key="." line="80" column="14" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/gradletrio2/build.gradle" timestamp="1516824384318">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -1751,6 +1757,12 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/webpack/webpack.dev.js" timestamp="1533761840396">
+        <mark key="[" line="31" column="42" />
+        <mark key="]" line="31" column="43" />
+        <mark key="^" line="31" column="43" />
+        <mark key="." line="31" column="43" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/backend/common/models/agent.json" timestamp="1532382625170">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="24" />
@@ -2320,6 +2332,12 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/src/main/webapp/content/scss/global.scss" timestamp="1533762074962">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/unit_testing/src/main/resources/static/js/main.js" timestamp="1519330919779">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="7" column="36" />
@@ -2411,7 +2429,7 @@
         <mark key="^" line="19" column="20" />
         <mark key="." line="19" column="20" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/content/scss/global.scss" timestamp="1533759995599">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/content/scss/global.scss" timestamp="1533762071712">
         <mark key="[" line="1" column="41" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
@@ -2428,12 +2446,6 @@
         <mark key="]" line="5" column="10" />
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
-      </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/frontend/standalone/renderer.js" timestamp="1533587090446">
-        <mark key="'" line="20" column="3" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/resources/application-dev.yml" timestamp="1525402376724">
         <mark key="[" line="2" column="2" />
@@ -2648,6 +2660,12 @@
         <mark key="]" line="62" column="23" />
         <mark key="^" line="62" column="23" />
         <mark key="." line="62" column="23" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/.yo-rc.json" timestamp="1533761651549">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/vip/security/User.java" timestamp="1522888883635">
         <mark key="[" line="89" column="5" />
@@ -2971,7 +2989,7 @@
         <mark key="." line="21" column="50" />
         <mark key="^" line="21" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533580399686">
+      <file name="/Dummy.txt" timestamp="1533761686330">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -4194,7 +4212,7 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1533352833988">
+      <file name="/fragment.java" timestamp="1533761686318">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -4780,15 +4798,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="27" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/controls/BasicBuiltInIOControls.java" />
-      <jump line="28" column="44" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/controls/BasicBuiltInIOControls.java" />
-      <jump line="55" column="8" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/controls/BasicBuiltInIOControls.java" />
-      <jump line="53" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/controls/BasicBuiltInIOControls.java" />
-      <jump line="21" column="11" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/controls/BasicBuiltInIOControls.java" />
-      <jump line="99" column="21" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/resources/VAADIN/themes/anpi/styles.scss" />
-      <jump line="62" column="38" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/ui/maincontroller/components/main_menu/SalesOfficeLauncher.java" />
-      <jump line="21" column="30" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/resources/VAADIN/themes/anpi/styles.scss" />
-      <jump line="32" column="36" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/ui/maincontroller/components/main_menu/MainMenu.java" />
       <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/ui/maincontroller/components/main_menu/MainMenu.java" />
       <jump line="20" column="50" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/ui/maincontroller/components/main_menu/MainMenu.java" />
       <jump line="96" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/SalesOfficeCustomersTable.java" />
@@ -4880,58 +4889,67 @@
       <jump line="217" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/content/scss/global.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/content/scss/global.scss" />
       <jump line="16" column="4" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.scss" />
+      <jump line="21" column="21" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/src/main/webapp/content/scss/global.scss" />
+      <jump line="47" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/src/main/webapp/content/scss/global.scss" />
+      <jump line="4" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/.yo-rc.json" />
+      <jump line="3" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/src/main/resources/config/application-dev.yml" />
+      <jump line="54" column="8" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/src/main/resources/config/application-dev.yml" />
+      <jump line="71" column="5" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/src/main/resources/config/application-dev.yml" />
+      <jump line="72" column="5" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/src/main/resources/config/application-dev.yml" />
+      <jump line="67" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/src/main/webapp/content/scss/global.scss" />
+      <jump line="1" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/src/main/webapp/content/scss/global.scss" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhLXJvdyBmbGV4Ij4KICAgICAgICAgIDxkaXYgY2xhc3M9ImEtc3ViLXJvdyBmbGV4Ij4KICAgICAgICAgICAgPGxhYmVsIGZvcj0iZ3Vlc3RDb250YWN0Ij4ke3RyYW5zbGF0aW9uLmJvb2tpbmcuZ3Vlc3RDb250YWN0fTwvbGFiZWw+IAogICAgICAgICAgICA8ZGl2IGNsYXNzPSJlbnRyeSI+CiAgICAgICAgICAgICAgJHtmb3JtRGF0YS5ndWVzdENvbnRhY3ROdW1iZXJ9IAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QGltcG9ydCAnYm9vdHN0cmFwLXZhcmlhYmxlcyc7CgovKiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpCb290c3RyYXAgdHdlYWtzCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSovCgpib2R5LApoMSwKaDIsCmgzLApoNCB7CiAgICBmb250LXdlaWdodDogMzAwOwp9CgphIHsKICAgIGNvbG9yOiAjNTMzZjAzOwogICAgZm9udC13ZWlnaHQ6IGJvbGQ7Cn0KCmE6aG92ZXIgewogICAgY29sb3I6ICM1MzNmMDM7CiAgICBmb250LXdlaWdodDogYm9sZDsKfQoKLyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KQnJvd3NlciBVcGdyYWRlIFByb21wdAo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAqLwouYnJvd3NlcnVwZ3JhZGUgewogICAgbWFyZ2luOiAwLjJlbSAwOwogICAgYmFja2dyb3VuZDogI2NjYzsKICAgIGNvbG9yOiAjMDAwOwogICAgcGFkZGluZzogMC4yZW0gMDsKfQoKLyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KR2VuZXJpYyBzdHlsZXMKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gKi8KCi8qIEVycm9yIGhpZ2hsaWdodCBvbiBpbnB1dCBmaWVsZHMgKi8KLm5nLXZhbGlkW3JlcXVpcmVkXSwKLm5nLXZhbGlkLnJlcXVpcmVkIHsKICAgIGJvcmRlci1sZWZ0OiA1cHggc29saWQgZ3JlZW47Cn0KCi5uZy1pbnZhbGlkOm5vdChmb3JtKSB7CiAgICBib3JkZXItbGVmdDogNXB4IHNvbGlkIHJlZDsKfQoKLyogb3RoZXIgZ2VuZXJpYyBzdHlsZXMgKi8KCi5qaC1jYXJkIHsKICAgIHBhZGRpbmc6IDEuNSU7CiAgICBtYXJnaW4tdG9wOiAyMHB4OwogICAgYm9yZGVyOiBub25lOwp9CgouZXJyb3IgewogICAgY29sb3I6IHdoaXRlOwogICAgYmFja2dyb3VuZC1jb2xvcjogcmVkOwp9CgoucGFkIHsKICAgIHBhZGRpbmc6IDEwcHg7Cn0KCi53LTQwIHsKICAgIHdpZHRoOiA0MCUgIWltcG9ydGFudDsKfQoKLnctNjAgewogICAgd2lkdGg6IDYwJSAhaW1wb3J0YW50Owp9CgouYnJlYWsgewogICAgd2hpdGUtc3BhY2U6IG5vcm1hbDsKICAgIHdvcmQtYnJlYWs6IGJyZWFrLWFsbDsKfQoKLnJlYWRvbmx5IHsKICAgIGJhY2tncm91bmQtY29sb3I6ICNlZWU7CiAgICBvcGFjaXR5OiAxOwp9CgouZm9vdGVyIHsKICAgIGJvcmRlci10b3A6IDFweCBzb2xpZCByZ2JhKDAsIDAsIDAsIDAuMTI1KTsKfQoKLyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KbWFrZSBzdXJlIGJyb3dzZXJzIHVzZSB0aGUgcG9pbnRlciBjdXJzb3IgZm9yIGFuY2hvcnMsIGV2ZW4gd2l0aCBubyBocmVmCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ICovCmE6aG92ZXIgewogICAgY3Vyc29yOiBwb2ludGVyOwp9CgouaGFuZCwKW2poaXNvcnRieV0gewogICAgY3Vyc29yOiBwb2ludGVyOwp9CgovKiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpDdXN0b20gYWxlcnRzIGZvciBub3RpZmljYXRpb24KPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gKi8KLmFsZXJ0cyB7CiAgICAuYWxlcnQgewogICAgICAgIHRleHQtb3ZlcmZsb3c6IGVsbGlwc2lzOwogICAgICAgIHByZSB7CiAgICAgICAgICAgIGJhY2tncm91bmQ6IG5vbmU7CiAgICAgICAgICAgIGJvcmRlcjogbm9uZTsKICAgICAgICAgICAgZm9udDogaW5oZXJpdDsKICAgICAgICAgICAgY29sb3I6IGluaGVyaXQ7CiAgICAgICAgICAgIHBhZGRpbmc6IDA7CiAgICAgICAgICAgIG1hcmdpbjogMDsKICAgICAgICB9CiAgICAgICAgLnBvcG92ZXIgcHJlIHsKICAgICAgICAgICAgZm9udC1zaXplOiAxMHB4OwogICAgICAgIH0KICAgIH0KICAgIC50b2FzdCB7CiAgICAgICAgcG9zaXRpb246IGZpeGVkOwogICAgICAgIHdpZHRoOiAxMDAlOwogICAgICAgICYubGVmdCB7CiAgICAgICAgICAgIGxlZnQ6IDVweDsKICAgICAgICB9CiAgICAgICAgJi5yaWdodCB7CiAgICAgICAgICAgIHJpZ2h0OiA1cHg7CiAgICAgICAgfQogICAgICAgICYudG9wIHsKICAgICAgICAgICAgdG9wOiA1NXB4OwogICAgICAgIH0KICAgICAgICAmLmJvdHRvbSB7CiAgICAgICAgICAgIGJvdHRvbTogNTVweDsKICAgICAgICB9CiAgICB9Cn0KCkBtZWRpYSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDQ4MHB4KSB7CiAgICAuYWxlcnRzIC50b2FzdCB7CiAgICAgICAgd2lkdGg6IDUwJTsKICAgIH0KfQoKLyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZW50aXR5IHRhYmxlcyBoZWxwZXJzCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ICovCgovKiBSZW1vdmUgQm9vdHN0cmFwIHBhZGRpbmcgZnJvbSB0aGUgZWxlbWVudApodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20vcXVlc3Rpb25zLzE5NTYyOTAzL3JlbW92ZS1wYWRkaW5nLWZyb20tY29sdW1ucy1pbi1ib290c3RyYXAtMyAqLwpAbWl4aW4gbm8tcGFkZGluZygkc2lkZSkgewogICAgQGlmICRzaWRlID09ICdhbGwnIHsKICAgICAgICAubm8tcGFkZGluZyB7CiAgICAgICAgICAgIHBhZGRpbmc6IDAgIWltcG9ydGFudDsKICAgICAgICB9CiAgICB9IEBlbHNlIHsKICAgICAgICAubm8tcGFkZGluZy0jeyRzaWRlfSB7CiAgICAgICAgICAgIHBhZGRpbmctI3skc2lkZX06IDAgIWltcG9ydGFudDsKICAgICAgICB9CiAgICB9Cn0KQGluY2x1ZGUgbm8tcGFkZGluZygnbGVmdCcpOwpAaW5jbHVkZSBuby1wYWRkaW5nKCdyaWdodCcpOwpAaW5jbHVkZSBuby1wYWRkaW5nKCd0b3AnKTsKQGluY2x1ZGUgbm8tcGFkZGluZygnYm90dG9tJyk7CkBpbmNsdWRlIG5vLXBhZGRpbmcoJ2FsbCcpOwoKLyogYm9vdHN0cmFwIDMgaW5wdXQtZ3JvdXAgMTAwJSB3aWR0aApodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20vcXVlc3Rpb25zLzIzNDM2NDMwL2Jvb3RzdHJhcC0zLWlucHV0LWdyb3VwLTEwMC13aWR0aCAqLwoud2lkdGgtbWluIHsKICAgIHdpZHRoOiAxJSAhaW1wb3J0YW50Owp9CgovKiBNYWtlcyB0b29sYmFyIG5vdCB3cmFwIG9uIHNtYWxsZXIgc2NyZWVucwpodHRwOi8vd3d3LnNrZXRjaGluZ3dpdGhjc3MuY29tL3NhbXBsZWNoYXB0ZXIvY2hlYXRzaGVldC5odG1sI3JpZ2h0ICovCi5mbGV4LWJ0bi1ncm91cC1jb250YWluZXIgewogICAgZGlzcGxheTogLXdlYmtpdC1mbGV4OwogICAgZGlzcGxheTogZmxleDsKICAgIC13ZWJraXQtZmxleC1kaXJlY3Rpb246IHJvdzsKICAgIGZsZXgtZGlyZWN0aW9uOiByb3c7CiAgICAtd2Via2l0LWp1c3RpZnktY29udGVudDogZmxleC1lbmQ7CiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGZsZXgtZW5kOwp9CgovKiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQplbnRpdHkgZGV0YWlsIHBhZ2UgY3NzCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ICovCi5yb3cuamgtZW50aXR5LWRldGFpbHMgPiB7CiAgICBkZCB7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogMTVweDsKICAgIH0KfQoKQG1lZGlhIHNjcmVlbiBhbmQgKG1pbi13aWR0aDogNzY4cHgpIHsKICAgIC5yb3cuamgtZW50aXR5LWRldGFpbHMgPiB7CiAgICAgICAgZHQgewogICAgICAgICAgICBtYXJnaW4tYm90dG9tOiAxNXB4OwogICAgICAgIH0KICAgICAgICBkZCB7CiAgICAgICAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjZWVlOwogICAgICAgICAgICBwYWRkaW5nLWxlZnQ6IDE4MHB4OwogICAgICAgICAgICBtYXJnaW4tbGVmdDogMDsKICAgICAgICB9CiAgICB9Cn0KCi8qID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CnVpIGJvb3RzdHJhcCB0d2Vha3MKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gKi8KLm5hdiwKLnBhZ2luYXRpb24sCi5jYXJvdXNlbCwKLnBhbmVsLXRpdGxlIGEgewogICAgY3Vyc29yOiBwb2ludGVyOwp9CgouZGF0ZXRpbWUtcGlja2VyLWRyb3Bkb3duID4gbGkuZGF0ZS1waWNrZXItbWVudSBkaXYgPiB0YWJsZSAuYnRuLWRlZmF1bHQsCi51aWItZGF0ZXBpY2tlci1wb3B1cCA+IGxpID4gZGl2LnVpYi1kYXRlcGlja2VyID4gdGFibGUgLmJ0bi1kZWZhdWx0IHsKICAgIGJvcmRlcjogMDsKfQoKLmRhdGV0aW1lLXBpY2tlci1kcm9wZG93biA+IGxpLmRhdGUtcGlja2VyLW1lbnUgZGl2ID4gdGFibGU6Zm9jdXMsCi51aWItZGF0ZXBpY2tlci1wb3B1cCA+IGxpID4gZGl2LnVpYi1kYXRlcGlja2VyID4gdGFibGU6Zm9jdXMgewogICAgb3V0bGluZTogbm9uZTsKfQoKLnRocmVhZC1kdW1wLW1vZGFsLWxvY2sgewogICAgbWF4LXdpZHRoOiA0NTBweDsKICAgIG92ZXJmbG93OiBoaWRkZW47CiAgICB0ZXh0LW92ZXJmbG93OiBlbGxpcHNpczsKICAgIHdoaXRlLXNwYWNlOiBub3dyYXA7Cn0=</text>
       </register>
       <register name="-" type="4">
-        <text>Emergence</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>jhi-home</text>
+        <text>port</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IDxzZWN0aW9uPgogICAgICA8c3BhbiBjbGFzcz0ibm9kZS1sYWJlbCI+RnJvbnQgU2xpZGUgTG9jYXRpb248L3NwYW4+CiAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBzaXplPSIzMCIgcElucHV0VGV4dD4KICAgIDwvc2VjdGlvbj4KICAgIA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">QGltcG9ydCAnYm9vdHN0cmFwLXZhcmlhYmxlcyc7CgovKiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpCb290c3RyYXAgdHdlYWtzCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSovCgpib2R5LApoMSwKaDIsCmgzLApoNCB7CiAgICBmb250LXdlaWdodDogMzAwOwp9CgphIHsKICAgIGNvbG9yOiAjNTMzZjAzOwogICAgZm9udC13ZWlnaHQ6IGJvbGQ7Cn0KCmE6aG92ZXIgewogICAgY29sb3I6ICM1MzNmMDM7CiAgICBmb250LXdlaWdodDogYm9sZDsKfQoKLyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KQnJvd3NlciBVcGdyYWRlIFByb21wdAo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAqLwouYnJvd3NlcnVwZ3JhZGUgewogICAgbWFyZ2luOiAwLjJlbSAwOwogICAgYmFja2dyb3VuZDogI2NjYzsKICAgIGNvbG9yOiAjMDAwOwogICAgcGFkZGluZzogMC4yZW0gMDsKfQoKLyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KR2VuZXJpYyBzdHlsZXMKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gKi8KCi8qIEVycm9yIGhpZ2hsaWdodCBvbiBpbnB1dCBmaWVsZHMgKi8KLm5nLXZhbGlkW3JlcXVpcmVkXSwKLm5nLXZhbGlkLnJlcXVpcmVkIHsKICAgIGJvcmRlci1sZWZ0OiA1cHggc29saWQgZ3JlZW47Cn0KCi5uZy1pbnZhbGlkOm5vdChmb3JtKSB7CiAgICBib3JkZXItbGVmdDogNXB4IHNvbGlkIHJlZDsKfQoKLyogb3RoZXIgZ2VuZXJpYyBzdHlsZXMgKi8KCi5qaC1jYXJkIHsKICAgIHBhZGRpbmc6IDEuNSU7CiAgICBtYXJnaW4tdG9wOiAyMHB4OwogICAgYm9yZGVyOiBub25lOwp9CgouZXJyb3IgewogICAgY29sb3I6IHdoaXRlOwogICAgYmFja2dyb3VuZC1jb2xvcjogcmVkOwp9CgoucGFkIHsKICAgIHBhZGRpbmc6IDEwcHg7Cn0KCi53LTQwIHsKICAgIHdpZHRoOiA0MCUgIWltcG9ydGFudDsKfQoKLnctNjAgewogICAgd2lkdGg6IDYwJSAhaW1wb3J0YW50Owp9CgouYnJlYWsgewogICAgd2hpdGUtc3BhY2U6IG5vcm1hbDsKICAgIHdvcmQtYnJlYWs6IGJyZWFrLWFsbDsKfQoKLnJlYWRvbmx5IHsKICAgIGJhY2tncm91bmQtY29sb3I6ICNlZWU7CiAgICBvcGFjaXR5OiAxOwp9CgouZm9vdGVyIHsKICAgIGJvcmRlci10b3A6IDFweCBzb2xpZCByZ2JhKDAsIDAsIDAsIDAuMTI1KTsKfQoKLyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KbWFrZSBzdXJlIGJyb3dzZXJzIHVzZSB0aGUgcG9pbnRlciBjdXJzb3IgZm9yIGFuY2hvcnMsIGV2ZW4gd2l0aCBubyBocmVmCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ICovCmE6aG92ZXIgewogICAgY3Vyc29yOiBwb2ludGVyOwp9CgouaGFuZCwKW2poaXNvcnRieV0gewogICAgY3Vyc29yOiBwb2ludGVyOwp9CgovKiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpDdXN0b20gYWxlcnRzIGZvciBub3RpZmljYXRpb24KPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gKi8KLmFsZXJ0cyB7CiAgICAuYWxlcnQgewogICAgICAgIHRleHQtb3ZlcmZsb3c6IGVsbGlwc2lzOwogICAgICAgIHByZSB7CiAgICAgICAgICAgIGJhY2tncm91bmQ6IG5vbmU7CiAgICAgICAgICAgIGJvcmRlcjogbm9uZTsKICAgICAgICAgICAgZm9udDogaW5oZXJpdDsKICAgICAgICAgICAgY29sb3I6IGluaGVyaXQ7CiAgICAgICAgICAgIHBhZGRpbmc6IDA7CiAgICAgICAgICAgIG1hcmdpbjogMDsKICAgICAgICB9CiAgICAgICAgLnBvcG92ZXIgcHJlIHsKICAgICAgICAgICAgZm9udC1zaXplOiAxMHB4OwogICAgICAgIH0KICAgIH0KICAgIC50b2FzdCB7CiAgICAgICAgcG9zaXRpb246IGZpeGVkOwogICAgICAgIHdpZHRoOiAxMDAlOwogICAgICAgICYubGVmdCB7CiAgICAgICAgICAgIGxlZnQ6IDVweDsKICAgICAgICB9CiAgICAgICAgJi5yaWdodCB7CiAgICAgICAgICAgIHJpZ2h0OiA1cHg7CiAgICAgICAgfQogICAgICAgICYudG9wIHsKICAgICAgICAgICAgdG9wOiA1NXB4OwogICAgICAgIH0KICAgICAgICAmLmJvdHRvbSB7CiAgICAgICAgICAgIGJvdHRvbTogNTVweDsKICAgICAgICB9CiAgICB9Cn0KCkBtZWRpYSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDQ4MHB4KSB7CiAgICAuYWxlcnRzIC50b2FzdCB7CiAgICAgICAgd2lkdGg6IDUwJTsKICAgIH0KfQoKLyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZW50aXR5IHRhYmxlcyBoZWxwZXJzCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ICovCgovKiBSZW1vdmUgQm9vdHN0cmFwIHBhZGRpbmcgZnJvbSB0aGUgZWxlbWVudApodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20vcXVlc3Rpb25zLzE5NTYyOTAzL3JlbW92ZS1wYWRkaW5nLWZyb20tY29sdW1ucy1pbi1ib290c3RyYXAtMyAqLwpAbWl4aW4gbm8tcGFkZGluZygkc2lkZSkgewogICAgQGlmICRzaWRlID09ICdhbGwnIHsKICAgICAgICAubm8tcGFkZGluZyB7CiAgICAgICAgICAgIHBhZGRpbmc6IDAgIWltcG9ydGFudDsKICAgICAgICB9CiAgICB9IEBlbHNlIHsKICAgICAgICAubm8tcGFkZGluZy0jeyRzaWRlfSB7CiAgICAgICAgICAgIHBhZGRpbmctI3skc2lkZX06IDAgIWltcG9ydGFudDsKICAgICAgICB9CiAgICB9Cn0KQGluY2x1ZGUgbm8tcGFkZGluZygnbGVmdCcpOwpAaW5jbHVkZSBuby1wYWRkaW5nKCdyaWdodCcpOwpAaW5jbHVkZSBuby1wYWRkaW5nKCd0b3AnKTsKQGluY2x1ZGUgbm8tcGFkZGluZygnYm90dG9tJyk7CkBpbmNsdWRlIG5vLXBhZGRpbmcoJ2FsbCcpOwoKLyogYm9vdHN0cmFwIDMgaW5wdXQtZ3JvdXAgMTAwJSB3aWR0aApodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20vcXVlc3Rpb25zLzIzNDM2NDMwL2Jvb3RzdHJhcC0zLWlucHV0LWdyb3VwLTEwMC13aWR0aCAqLwoud2lkdGgtbWluIHsKICAgIHdpZHRoOiAxJSAhaW1wb3J0YW50Owp9CgovKiBNYWtlcyB0b29sYmFyIG5vdCB3cmFwIG9uIHNtYWxsZXIgc2NyZWVucwpodHRwOi8vd3d3LnNrZXRjaGluZ3dpdGhjc3MuY29tL3NhbXBsZWNoYXB0ZXIvY2hlYXRzaGVldC5odG1sI3JpZ2h0ICovCi5mbGV4LWJ0bi1ncm91cC1jb250YWluZXIgewogICAgZGlzcGxheTogLXdlYmtpdC1mbGV4OwogICAgZGlzcGxheTogZmxleDsKICAgIC13ZWJraXQtZmxleC1kaXJlY3Rpb246IHJvdzsKICAgIGZsZXgtZGlyZWN0aW9uOiByb3c7CiAgICAtd2Via2l0LWp1c3RpZnktY29udGVudDogZmxleC1lbmQ7CiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGZsZXgtZW5kOwp9CgovKiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQplbnRpdHkgZGV0YWlsIHBhZ2UgY3NzCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ICovCi5yb3cuamgtZW50aXR5LWRldGFpbHMgPiB7CiAgICBkZCB7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogMTVweDsKICAgIH0KfQoKQG1lZGlhIHNjcmVlbiBhbmQgKG1pbi13aWR0aDogNzY4cHgpIHsKICAgIC5yb3cuamgtZW50aXR5LWRldGFpbHMgPiB7CiAgICAgICAgZHQgewogICAgICAgICAgICBtYXJnaW4tYm90dG9tOiAxNXB4OwogICAgICAgIH0KICAgICAgICBkZCB7CiAgICAgICAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjZWVlOwogICAgICAgICAgICBwYWRkaW5nLWxlZnQ6IDE4MHB4OwogICAgICAgICAgICBtYXJnaW4tbGVmdDogMDsKICAgICAgICB9CiAgICB9Cn0KCi8qID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CnVpIGJvb3RzdHJhcCB0d2Vha3MKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gKi8KLm5hdiwKLnBhZ2luYXRpb24sCi5jYXJvdXNlbCwKLnBhbmVsLXRpdGxlIGEgewogICAgY3Vyc29yOiBwb2ludGVyOwp9CgouZGF0ZXRpbWUtcGlja2VyLWRyb3Bkb3duID4gbGkuZGF0ZS1waWNrZXItbWVudSBkaXYgPiB0YWJsZSAuYnRuLWRlZmF1bHQsCi51aWItZGF0ZXBpY2tlci1wb3B1cCA+IGxpID4gZGl2LnVpYi1kYXRlcGlja2VyID4gdGFibGUgLmJ0bi1kZWZhdWx0IHsKICAgIGJvcmRlcjogMDsKfQoKLmRhdGV0aW1lLXBpY2tlci1kcm9wZG93biA+IGxpLmRhdGUtcGlja2VyLW1lbnUgZGl2ID4gdGFibGU6Zm9jdXMsCi51aWItZGF0ZXBpY2tlci1wb3B1cCA+IGxpID4gZGl2LnVpYi1kYXRlcGlja2VyID4gdGFibGU6Zm9jdXMgewogICAgb3V0bGluZTogbm9uZTsKfQoKLnRocmVhZC1kdW1wLW1vZGFsLWxvY2sgewogICAgbWF4LXdpZHRoOiA0NTBweDsKICAgIG92ZXJmbG93OiBoaWRkZW47CiAgICB0ZXh0LW92ZXJmbG93OiBlbGxpcHNpczsKICAgIHdoaXRlLXNwYWNlOiBub3dyYXA7Cn0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMTIwcHg7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTIwcHg7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5lLXdpZG93czogOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGxhYmVsIGZvcj0ib2ZmaWNlLXBwdCI+PC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgICBtaW5lLXdpZG93czogOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGxhYmVsIGZvcj0ib2ZmaWNlLWxhYmVsIj48L2xhYmVsPgo=</text>
+        <text encoding="base64">ICAgICAgPGxhYmVsIGZvcj0ib2ZmaWNlLXBwdCI+PC9sYWJlbD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dAo=</text>
+        <text encoding="base64">ICAgICAgPGxhYmVsIGZvcj0ib2ZmaWNlLWxhYmVsIj48L2xhYmVsPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGIK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>jhi-home</last-search>
+      <last-search>port</last-search>
       <last-offset />
-      <last-pattern>jhi-home</last-pattern>
+      <last-pattern>port</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -4944,8 +4962,6 @@
         <entry>class</entry>
         <entry>mani</entry>
         <entry>web</entry>
-        <entry>port</entry>
-        <entry>8080</entry>
         <entry>serverPort</entry>
         <entry>808</entry>
         <entry>8082</entry>
@@ -4957,6 +4973,8 @@
         <entry>HomeModule</entry>
         <entry>home.component</entry>
         <entry>jhi-home</entry>
+        <entry>8080</entry>
+        <entry>port</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
