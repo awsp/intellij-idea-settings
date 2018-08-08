@@ -124,6 +124,12 @@
         <mark key="^" line="77" column="13" />
         <mark key="." line="77" column="14" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/.editorconfig" timestamp="1533759123713">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="30" />
+        <mark key="^" line="28" column="30" />
+        <mark key="." line="28" column="30" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/java/com/jtbhawaii/fzkmock/SSError.java" timestamp="1512173381096">
         <mark key="[" line="26" column="25" />
         <mark key="]" line="27" column="35" />
@@ -1222,6 +1228,11 @@
         <mark key="^" line="36" column="49" />
         <mark key="." line="36" column="49" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/layouts/main/main.component.html" timestamp="1533759382834">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/java/com/jtbhawaii/fzkmock/XMLBean.java" timestamp="1512170862685">
         <mark key="[" line="12" column="48" />
         <mark key="]" line="12" column="51" />
@@ -1302,12 +1313,11 @@
         <mark key="." line="25" column="36" />
         <mark key="^" line="25" column="36" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.component.html" timestamp="1533244967887">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="32" />
-        <mark key="^" line="7" column="32" />
-        <mark key="." line="7" column="32" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.component.html" timestamp="1533760416476">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+        <mark key="^" line="13" column="39" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmvadn_payroll/src/main/java/com/jtbhawaii/cmpayroll/service/PayrollCalculationService.java" timestamp="1511297003752">
         <mark key="[" line="3" column="0" />
@@ -2088,6 +2098,12 @@
         <mark key="^" line="10" column="20" />
         <mark key="." line="10" column="20" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/layouts/footer/footer.component.html" timestamp="1533759258762">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="61" />
+        <mark key="^" line="1" column="61" />
+        <mark key="." line="1" column="61" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/AnpiSystem/app/build.gradle" timestamp="1513285634019">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="38" column="0" />
@@ -2316,11 +2332,11 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.module.ts" timestamp="1532745296625">
-        <mark key="[" line="11" column="43" />
-        <mark key="]" line="12" column="19" />
-        <mark key="." line="12" column="19" />
-        <mark key="^" line="12" column="19" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.module.ts" timestamp="1533759373778">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="16" column="24" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/dayforce_export_app/src/test/java/com/jtbhawaii/tpt2000/model/DailyDriverWorkTest.java" timestamp="1528846948300">
         <mark key="[" line="47" column="56" />
@@ -2394,6 +2410,12 @@
         <mark key="]" line="19" column="20" />
         <mark key="^" line="19" column="20" />
         <mark key="." line="19" column="20" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/content/scss/global.scss" timestamp="1533759995599">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/common/exception/FCConfigLoadException.java" timestamp="1516829631204">
         <mark key="[" line="10" column="5" />
@@ -2522,12 +2544,12 @@
         <mark key="^" line="45" column="18" />
         <mark key="." line="45" column="18" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.component.ts" timestamp="1533264209047">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.component.ts" timestamp="1533760252446">
         <mark key="'" line="21" column="34" />
-        <mark key="[" line="43" column="35" />
-        <mark key="]" line="43" column="35" />
-        <mark key="." line="43" column="35" />
-        <mark key="^" line="43" column="35" />
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/config/exception/FDOriginalCopyException.java" timestamp="1507838307059">
         <mark key="[" line="5" column="22" />
@@ -2712,12 +2734,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="24" column="32" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/angular.json" timestamp="1532745756800">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="17" column="14" />
-        <mark key="^" line="17" column="14" />
-        <mark key="." line="17" column="14" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/angular.json" timestamp="1533757757642">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/experiment/ParentChildTest.java" timestamp="1508524752107">
         <mark key="[" line="5" column="44" />
@@ -3094,6 +3115,13 @@
         <mark key="]" line="19" column="29" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="23" column="41" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.scss" timestamp="1533760460651">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="14" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/App.java" timestamp="1516828988159">
         <mark key="[" line="60" column="20" />
@@ -3563,6 +3591,7 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/archive/home.component.html" timestamp="1533756368703" />
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/flowapp10/src/main/java/com/jtbhawaii/flowapp10/Flowapp10Application.java" timestamp="1531964063327">
         <mark key="[" line="9" column="66" />
         <mark key="]" line="9" column="7" />
@@ -3996,11 +4025,11 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/content/scss/vendor.scss" timestamp="1533148328369">
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="12" column="39" />
-        <mark key="^" line="12" column="39" />
-        <mark key="." line="12" column="39" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/content/scss/vendor.scss" timestamp="1533759961128">
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="13" column="72" />
+        <mark key="^" line="13" column="72" />
+        <mark key="." line="13" column="72" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/AnpiSystem/app/src/main/java/com/jtb_hawaii/anpisystem/FullscreenActivity.java" timestamp="1513389776100">
         <mark key="[" line="94" column="32" />
@@ -4751,10 +4780,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="4" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/controls/BasicBuiltInIOControls.java" />
-      <jump line="24" column="30" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/controls/BasicBuiltInIOControls.java" />
-      <jump line="10" column="27" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/controls/BasicBuiltInIOControls.java" />
-      <jump line="11" column="27" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/controls/BasicBuiltInIOControls.java" />
       <jump line="12" column="27" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/controls/BasicBuiltInIOControls.java" />
       <jump line="28" column="44" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/controls/BasicBuiltInIOControls.java" />
       <jump line="55" column="8" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/java/com/jtbhawaii/mis/anpi_system/app/views/components/tables/controls/BasicBuiltInIOControls.java" />
@@ -4851,54 +4876,53 @@
       <jump line="20" column="40" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/app.module.ts" />
       <jump line="21" column="34" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.component.ts" />
       <jump line="20" column="3" filename="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/frontend/standalone/renderer.js" />
+      <jump line="9" column="6" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.component.html" />
+      <jump line="217" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/content/scss/global.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/content/scss/global.scss" />
+      <jump line="16" column="4" filename="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng6/src/main/webapp/app/home/home.scss" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhLXJvdyBmbGV4Ij4KICAgICAgICAgIDxkaXYgY2xhc3M9ImEtc3ViLXJvdyBmbGV4Ij4KICAgICAgICAgICAgPGxhYmVsIGZvcj0iZ3Vlc3RDb250YWN0Ij4ke3RyYW5zbGF0aW9uLmJvb2tpbmcuZ3Vlc3RDb250YWN0fTwvbGFiZWw+IAogICAgICAgICAgICA8ZGl2IGNsYXNzPSJlbnRyeSI+CiAgICAgICAgICAgICAgJHtmb3JtRGF0YS5ndWVzdENvbnRhY3ROdW1iZXJ9IAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>basicAuth{{users: {'admin': 'password'}}}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>basicAuth{{users: {'admin': 'password'}}}</text>
+        <text>Emergence</text>
       </register>
       <register name="/" type="4">
         <text>jhi-home</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogMDsgCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IDxzZWN0aW9uPgogICAgICA8c3BhbiBjbGFzcz0ibm9kZS1sYWJlbCI+RnJvbnQgU2xpZGUgTG9jYXRpb248L3NwYW4+CiAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBzaXplPSIzMCIgcElucHV0VGV4dD4KICAgIDwvc2VjdGlvbj4KICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-    
-    input[type=text]  {
-        
-    }
-}</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTIwcHg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uPjwvYnV0dG9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PjxpbnB1dCB0eXBlPSJ0ZXh0IiBwbGFjZWhvbGRlcj0iTG9jYXRpb24gQ29kZSIvPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICBtaW5lLXdpZG93czogOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgcGxhY2Vob2xkZXI9IlBvd2VycG9pbnQgU2xpZGUiLz4KICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgcGxhY2Vob2xkZXI9IlBvd2VycG9pbnQgU2xpZGUiLz4K</text>
+        <text encoding="base64">ICAgICAgPGxhYmVsIGZvcj0ib2ZmaWNlLXBwdCI+PC9sYWJlbD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YW5ndWxhcgo=</text>
+        <text encoding="base64">ICAgICAgPGxhYmVsIGZvcj0ib2ZmaWNlLWxhYmVsIj48L2xhYmVsPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxoMT5zc3NzPC9oMT4KICAgIGFhYWFhCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coX19kaXJuYW1lKTsK</text>
+        <text encoding="base64">ICAgIGIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
