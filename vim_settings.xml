@@ -3001,7 +3001,7 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA.io/main.js" timestamp="1533783556542">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA.io/main.js" timestamp="1533784063776">
         <mark key="'" line="85" column="25" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
@@ -3134,8 +3134,10 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="17" column="77" />
       </file>
-      <file name="/fragment.js" timestamp="1533783588961">
+      <file name="/fragment.js" timestamp="1533784112277">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/annotation/SSSpecification.java" timestamp="1506455360915">
         <mark key="[" line="7" column="0" />
@@ -3197,7 +3199,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="40" column="32" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA.io/public/js/app.js" timestamp="1533783629824">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA.io/public/js/app.js" timestamp="1533783647925">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="73" column="5" />
         <mark key="]" line="73" column="23" />
@@ -3983,11 +3985,11 @@
         <mark key="." line="25" column="76" />
         <mark key="^" line="25" column="76" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA.io/src/view/frontend.html" timestamp="1533777689110">
-        <mark key="[" line="12" column="44" />
-        <mark key="]" line="12" column="48" />
-        <mark key="^" line="12" column="48" />
-        <mark key="." line="12" column="48" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA.io/src/view/frontend.html" timestamp="1533839048002">
+        <mark key="[" line="13" column="194" />
+        <mark key="]" line="13" column="194" />
+        <mark key="." line="13" column="194" />
+        <mark key="^" line="13" column="193" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/main/java/com/jtbhawaii/fileapp/annotation/Number.java" timestamp="1506459919975">
         <mark key="[" line="5" column="0" />
@@ -4440,7 +4442,7 @@
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533783582796">
+      <file name="/JavaScript Console" timestamp="1533838130739">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
@@ -4607,11 +4609,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhLXJvdyBmbGV4Ij4KICAgICAgICAgIDxkaXYgY2xhc3M9ImEtc3ViLXJvdyBmbGV4Ij4KICAgICAgICAgICAgPGxhYmVsIGZvcj0iZ3Vlc3RDb250YWN0Ij4ke3RyYW5zbGF0aW9uLmJvb2tpbmcuZ3Vlc3RDb250YWN0fTwvbGFiZWw+IAogICAgICAgICAgICA8ZGl2IGNsYXNzPSJlbnRyeSI+CiAgICAgICAgICAgICAgJHtmb3JtRGF0YS5ndWVzdENvbnRhY3ROdW1iZXJ9IAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>%</text>
       </register>
       <register name="-" type="4">
-        <text>code</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text>socket</text>
@@ -4620,31 +4622,31 @@
         <text encoding="base64">ICAgICAgICB0YXJnZXQuaXNDb25uZWN0ZWQgPSB0cnVlOyAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PGlmcmFtZSBzcmM9Imh0dHBzOi8vMWRydi5tcy9wL3MhQXBCZXlzdU8zQXZuaEJ0Q001aHdnT3hsN3Z4RSIgZnJhbWVib3JkZXI9IjAiPjwvaWZyYW1lPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBUaGlzIGlzIHRoZSBjbGllbnQgcGFnZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBmb28gPSBpby5zb2NrZXRzLmNsaWVudHMoKTsKICAgIGZvciAobGV0IGkgaW4gZm9vLmNvbm5lY3RlZCkgewogICAgICBjb25zb2xlLmxvZyhmb28uY29ubmVjdGVkW2ldLnNvY2tldCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZvby5jb25uZWN0ZWQpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlvLnNvY2tldHMuc29ja2V0cy5jbGllbnRzKTsK</text>
+        <text encoding="base64">ICAgIGxldCBmb28gPSBpby5zb2NrZXRzLmNsaWVudHMoKTsKICAgIGZvciAobGV0IGkgaW4gZm9vLmNvbm5lY3RlZCkgewogICAgICBjb25zb2xlLmxvZyhmb28uY29ubmVjdGVkW2ldLnNvY2tldCk7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlvLnNvY2tldHMuY2xpZW50cygpWzBdKTsgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZvby5jb25uZWN0ZWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlvLnNvY2tldHMuc29ja2V0cy5tYXAoZnVuY3Rpb24oZSkgewogICAgICByZXR1cm4gZS51c2VybmFtZTsKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlvLnNvY2tldHMuc29ja2V0cy5jbGllbnRzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKE9iamVjdC5rZXlzKGlvLnNvY2tldHMuc29ja2V0cykpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlvLnNvY2tldHMuY2xpZW50cygpWzBdKTsgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKE9iamVjdC5rZXlzKGlvLnNvY2tldHMuc29ja2V0cykpOwo=</text>
+        <text encoding="base64">ICAgIGlvLnNvY2tldHMuc29ja2V0cy5tYXAoZnVuY3Rpb24oZSkgewogICAgICByZXR1cm4gZS51c2VybmFtZTsKICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
