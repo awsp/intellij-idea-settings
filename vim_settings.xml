@@ -2283,6 +2283,12 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/irlisa2/src/frontend/standalone/renderer.js" timestamp="1533587090446">
+        <mark key="'" line="20" column="3" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/anpi_system/src/main/resources/application-dev.yml" timestamp="1525402376724">
         <mark key="[" line="2" column="2" />
         <mark key="]" line="2" column="2" />
@@ -3003,12 +3009,11 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA.io/main.js" timestamp="1533852940784">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA.io/main.js" timestamp="1533854363669">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="105" column="36" />
-        <mark key="]" line="105" column="36" />
-        <mark key="^" line="105" column="38" />
-        <mark key="." line="105" column="36" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/Kotlin Koans/Introduction/Java to Kotlin conversion/src/Task.kt" timestamp="1533257938696">
         <mark key="[" line="10" column="5" />
@@ -4462,7 +4467,7 @@
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533853128669">
+      <file name="/JavaScript Console" timestamp="1533854369317">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
@@ -4629,8 +4634,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhLXJvdyBmbGV4Ij4KICAgICAgICAgIDxkaXYgY2xhc3M9ImEtc3ViLXJvdyBmbGV4Ij4KICAgICAgICAgICAgPGxhYmVsIGZvcj0iZ3Vlc3RDb250YWN0Ij4ke3RyYW5zbGF0aW9uLmJvb2tpbmcuZ3Vlc3RDb250YWN0fTwvbGFiZWw+IAogICAgICAgICAgICA8ZGl2IGNsYXNzPSJlbnRyeSI+CiAgICAgICAgICAgICAgJHtmb3JtRGF0YS5ndWVzdENvbnRhY3ROdW1iZXJ9IAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25uZWN0aW9uLmVuZCgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -4638,35 +4643,35 @@
       <register name="/" type="4">
         <text>socket</text>
       </register>
-      <register name="0" type="4">
-        <text>----------------</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25uZWN0aW9uLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLiRhcHBseSgpOwo=</text>
+        <text encoding="base64">ICBjb25uZWN0aW9uLmVuZCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLiRhcHBseSgpOwo=</text>
+        <text encoding="base64">ICBjb25uZWN0aW9uLmVuZCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGFyZ2V0LmNvZGUpOwo=</text>
+        <text encoding="base64">ICAgIGNvbm5lY3Rpb24uZW5kKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRhcmdldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgJHNjb3BlLiRhcHBseSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLiRhcHBseSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb2RlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGFyZ2V0LmNvZGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRhcmdldCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb2RlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
