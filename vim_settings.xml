@@ -1796,7 +1796,7 @@
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/jhipster_ng/src/main/java/com/jtbhawaii/misdocs/service/impl/FooServiceImpl.java" timestamp="1532389916310">
         <mark key="[" line="37" column="59" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/slideshow/pom.xml" timestamp="1533848206159">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/slideshow/pom.xml" timestamp="1533849948069">
         <mark key="[" line="14" column="21" />
         <mark key="]" line="14" column="21" />
         <mark key="." line="14" column="21" />
@@ -2926,11 +2926,10 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/slideshow/src/main/java/com/jtbhawaii/slideshow/Slideshow.java" timestamp="1533843720144">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="47" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/slideshow/src/main/java/com/jtbhawaii/slideshow/Slideshow.java" timestamp="1533850419731">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/repositories/CustomerRepository.java" timestamp="1523066085271">
         <mark key="[" line="7" column="75" />
@@ -3004,12 +3003,12 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA.io/main.js" timestamp="1533847503188">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA.io/main.js" timestamp="1533852940784">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="110" column="36" />
-        <mark key="]" line="110" column="39" />
-        <mark key="." line="110" column="39" />
-        <mark key="^" line="110" column="39" />
+        <mark key="[" line="105" column="36" />
+        <mark key="]" line="105" column="36" />
+        <mark key="^" line="105" column="38" />
+        <mark key="." line="105" column="36" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/Kotlin Koans/Introduction/Java to Kotlin conversion/src/Task.kt" timestamp="1533257938696">
         <mark key="[" line="10" column="5" />
@@ -3137,7 +3136,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="17" column="77" />
       </file>
-      <file name="/fragment.js" timestamp="1533847512801">
+      <file name="/fragment.js" timestamp="1533852869847">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -3202,12 +3201,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="40" column="32" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA.io/public/js/app.js" timestamp="1533783647925">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA.io/public/js/app.js" timestamp="1533853249385">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="73" column="5" />
-        <mark key="]" line="73" column="23" />
-        <mark key="." line="73" column="23" />
-        <mark key="^" line="73" column="23" />
+        <mark key="[" line="91" column="30" />
+        <mark key="]" line="91" column="33" />
+        <mark key="." line="91" column="33" />
+        <mark key="^" line="91" column="33" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs/src/main/java/com/jtbhawaii/misdocs/MISDocsApplication.java" timestamp="1508372385708">
         <mark key="[" line="9" column="31" />
@@ -3444,11 +3443,11 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/slideshow/src/main/java/com/jtbhawaii/slideshow/SlideshowRunner.java" timestamp="1533848504150">
-        <mark key="[" line="14" column="49" />
-        <mark key="]" line="14" column="52" />
-        <mark key="." line="14" column="52" />
-        <mark key="^" line="14" column="52" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/slideshow/src/main/java/com/jtbhawaii/slideshow/SlideshowRunner.java" timestamp="1533852118125">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+        <mark key="^" line="13" column="49" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/java/com/jtbhawaii/fzkmock/controller/DefaultController.java" timestamp="1512412984918">
         <mark key="[" line="11" column="30" />
@@ -3674,6 +3673,12 @@
         <mark key="]" line="68" column="51" />
         <mark key="." line="68" column="51" />
         <mark key="^" line="68" column="51" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/slideshow/src/main/java/com/jtbhawaii/slideshow/client/TestSocketClient.java" timestamp="1533850296328">
+        <mark key="[" line="11" column="59" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="12" column="25" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/misdocs/src/main/webapp/VAADIN/themes/jtbhawaii/styles.scss" timestamp="1508440798692">
         <mark key="[" line="9" column="16" />
@@ -4144,11 +4149,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/slideshow/src/main/java/com/jtbhawaii/slideshow/server/TestSocketServer.java" timestamp="1533848551918">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="19" column="44" />
-        <mark key="." line="19" column="44" />
-        <mark key="^" line="19" column="44" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/slideshow/src/main/java/com/jtbhawaii/slideshow/server/TestSocketServer.java" timestamp="1533850278553">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="24" column="47" />
+        <mark key="." line="24" column="47" />
+        <mark key="^" line="24" column="47" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/vaadin-start-template/src/main/java/com/jtbhawaii/ui/LoginUI.java" timestamp="1517969520594">
         <mark key="[" line="22" column="22" />
@@ -4457,7 +4462,7 @@
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533847507883">
+      <file name="/JavaScript Console" timestamp="1533853128669">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
@@ -4625,43 +4630,43 @@
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhLXJvdyBmbGV4Ij4KICAgICAgICAgIDxkaXYgY2xhc3M9ImEtc3ViLXJvdyBmbGV4Ij4KICAgICAgICAgICAgPGxhYmVsIGZvcj0iZ3Vlc3RDb250YWN0Ij4ke3RyYW5zbGF0aW9uLmJvb2tpbmcuZ3Vlc3RDb250YWN0fTwvbGFiZWw+IAogICAgICAgICAgICA8ZGl2IGNsYXNzPSJlbnRyeSI+CiAgICAgICAgICAgICAgJHtmb3JtRGF0YS5ndWVzdENvbnRhY3ROdW1iZXJ9IAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>listern</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>listern</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>socket</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0YXJnZXQuaXNDb25uZWN0ZWQgPSB0cnVlOyAgCg==</text>
+      <register name="0" type="4">
+        <text>----------------</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIuYWRkRXZlbnRMaXN0ZW5lcigiY2hhdGV2ZW50IiwgQ2hhdE9iamVjdC5jbGFzcywgbmV3IERhdGFMaXN0ZW5lcjxDaGF0T2JqZWN0PigpIHsKICAgICAgICAgICAgcHVibGljIHZvaWQgb25EYXRhKFNvY2tldElPQ2xpZW50IGNsaWVudCwgQ2hhdE9iamVjdCBkYXRhLCBBY2tSZXF1ZXN0IGFja1JlcXVlc3QpIHsKICAgICAgICAgICAgICAgIHNlcnZlci5nZXRCcm9hZGNhc3RPcGVyYXRpb25zKCkuc2VuZEV2ZW50KCJjaGF0ZXZlbnQiLCBkYXRhKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgJHNjb3BlLiRhcHBseSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLiRhcHBseSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGFyZ2V0LmNvZGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRhcmdldCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSU8uT3B0aW9ucyBvcHRzID0gbmV3IElPLk9wdGlvbnMoKTsKICAgICAgICAgICAgb3B0cy5wb3J0ID0gMzAxMjsK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3B0aW9ucyAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb2RlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSU8uT3B0aW9ucyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvY2VzcyBwcm9jZXNzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
