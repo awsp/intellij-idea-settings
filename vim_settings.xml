@@ -548,11 +548,11 @@
         <mark key="^" line="45" column="18" />
         <mark key="." line="45" column="18" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/slideshow2/src/main/java/com/jtbhawaii/slideshow2/WebSocketEventListener.java" timestamp="1533935053677">
-        <mark key="[" line="23" column="46" />
-        <mark key="]" line="23" column="46" />
-        <mark key="^" line="23" column="45" />
-        <mark key="." line="23" column="46" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/slideshow2/src/main/java/com/jtbhawaii/slideshow2/WebSocketEventListener.java" timestamp="1533936206204">
+        <mark key="[" line="39" column="42" />
+        <mark key="]" line="39" column="43" />
+        <mark key="." line="39" column="43" />
+        <mark key="^" line="39" column="43" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ssdistributor/src/test/java/com/jtbhawaii/fileapp/logic/DTBDeleteColRangeTest.java" timestamp="1506372150686">
         <mark key="[" line="32" column="0" />
@@ -4002,11 +4002,11 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="35" column="7" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/slideshow2/src/main/resources/static/app.js" timestamp="1533929636409">
-        <mark key="[" line="60" column="4" />
-        <mark key="]" line="60" column="20" />
-        <mark key="^" line="60" column="20" />
-        <mark key="." line="60" column="20" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/slideshow2/src/main/resources/static/app.js" timestamp="1533936317757">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="33" />
+        <mark key="^" line="17" column="33" />
+        <mark key="." line="17" column="33" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/datasource_test/src/main/java/com/jtbhawaii/datasource_test/fx/Person.java" timestamp="1521750605557">
         <mark key="[" line="31" column="0" />
@@ -4402,10 +4402,10 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1533935160536">
+      <file name="/fragment.java" timestamp="1533936251435">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/springcli/src/main/java/com/jtbhawaii/springcli/SpringCLIApplication.java" timestamp="1509047651596">
@@ -4821,10 +4821,10 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/slideshow2/src/main/java/com/jtbhawaii/slideshow2/GreetingController.java" timestamp="1533933432004">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/slideshow2/src/main/java/com/jtbhawaii/slideshow2/GreetingController.java" timestamp="1533935907920">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmpa/src/main/resources/application.properties" timestamp="1507943841372">
         <mark key="[" line="0" column="18" />
@@ -5119,44 +5119,48 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhLXJvdyBmbGV4Ij4KICAgICAgICAgIDxkaXYgY2xhc3M9ImEtc3ViLXJvdyBmbGV4Ij4KICAgICAgICAgICAgPGxhYmVsIGZvcj0iZ3Vlc3RDb250YWN0Ij4ke3RyYW5zbGF0aW9uLmJvb2tpbmcuZ3Vlc3RDb250YWN0fTwvbGFiZWw+IAogICAgICAgICAgICA8ZGl2IGNsYXNzPSJlbnRyeSI+CiAgICAgICAgICAgICAgJHtmb3JtRGF0YS5ndWVzdENvbnRhY3ROdW1iZXJ9IAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0cmlidXRlcy5wdXQoInNlc3Npb25JZCIsICJmb28iKTsgCg==</text>
+      <register name="&quot;" type="4">
+        <text>event.getMessage()</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>event.getMessage()</text>
       </register>
       <register name="/" type="4">
         <text>app.js</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvbXBTZXNzaW9uLnN1YnNjcmliZShTVUJTQ1JJQkVfRU5EUE9JTlQsIG5ldyBHcmVldGluZ1N0b21wRnJhbWVIYW5kbGVyKCkpOyAK</text>
+        <text encoding="base64">ICAgICAgICBTdG9tcEhlYWRlckFjY2Vzc29yIHNoYSA9IFN0b21wSGVhZGVyQWNjZXNzb3Iud3JhcChldmVudC5nZXRNZXNzYWdlKCkpOyAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0cmlidXRlcy5wdXQoInNlc3Npb25JZCIsICJmb28iKTsgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBhdSAK</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnRzLmFkZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIERlZmF1bHRTaW1wVXNlclJlZ2lzdHJ5IHJlZ2lzdHJ5OwoKICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBHcmVldGluZ0NvbnRyb2xsZXIoRGVmYXVsdFNpbXBVc2VyUmVnaXN0cnkgcmVnaXN0cnkpIHsKICAgICAgICB0aGlzLnJlZ2lzdHJ5ID0gcmVnaXN0cnk7CiAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRJbnRlcmNlcHRvcnMobmV3IEh0dHApCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2ltcFVzZXJSZWdpc3RyeSByZWdpc3RyeTsKCiAgICBAQXV0b3dpcmVkCiAgICBwdWJsaWMgR3JlZXRpbmdDb250cm9sbGVyKFNpbXBVc2VyUmVnaXN0cnkgcmVnaXN0cnkpIHsKICAgICAgICB0aGlzLnJlZ2lzdHJ5ID0gcmVnaXN0cnk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RyeS5maW5kU3Vic2NyaXB0aW9ucyhlIC0+IHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGUuZ2V0RGVzdGluYXRpb24oKSk7CiAgICAgICAgICAgIGJvb2xlYW4gYiA9IGUuZ2V0RGVzdGluYXRpb24oKS5lcXVhbHNJZ25vcmVDYXNlKCIvdG9waWMvZ3JlZXRpbmdzIik7CiAgICAgICAgICAgIHJldHVybiBiOwogICAgICAgIH0pOwoK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>registry.findSubscriptions({
+                it.destination == &quot;/topic/greetings&quot;
+        }.each {
+            
+        })</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RyeS5maW5kU3Vic2NyaXB0aW9ucygiL3RvcGljL2dyZWV0aW5ncyIpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBwdWJsaWMgR3JlZXRpbmdDb250cm9sbGVyKFN1YnNjcmlwdGlvblJlZ2lzdHJ5IHJlZ2lzdHJ5KSB7CiAgICAgICAgdGhpcy5yZWdpc3RyeSA9IHJlZ2lzdHJ5OwogICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3Vic2NyaXB0aW9uUmVnaXN0cnkgcmVnaXN0cnk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
