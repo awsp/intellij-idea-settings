@@ -39,6 +39,9 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
+      <file name="/a.dummy" timestamp="1533956944422">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/ui/views/ASENMainView.java" timestamp="1523410297942">
         <mark key="[" line="19" column="32" />
         <mark key="]" line="19" column="34" />
@@ -1058,6 +1061,9 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="28" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/ELZA/shared_library/src/com/jtbhawaii/cs/Identity.java" timestamp="1533938385038">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/fzkmock/src/main/java/com/jtbhawaii/fzkmock/ErrorInfo.java" timestamp="1512172724027">
         <mark key="[" line="21" column="11" />
         <mark key="]" line="22" column="10" />
@@ -1141,7 +1147,7 @@
         <mark key="^" line="6" column="66" />
         <mark key="." line="6" column="64" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/elza_server/src/main/java/com/jtbhawaii/cs/elza_server/config/SecurityConfig.java" timestamp="1533954228067">
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/elza_server/src/main/java/com/jtbhawaii/cs/elza_server/config/SecurityConfig.java" timestamp="1533955267570">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="21" column="4" />
@@ -1224,6 +1230,12 @@
         <mark key="]" line="4" column="31" />
         <mark key="." line="4" column="31" />
         <mark key="^" line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/elza_server/src/main/java/com/jtbhawaii/cs/elza_server/controller/AppController.java" timestamp="1533957018200">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="49" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/jet/src/main/java/com/jtbhawaii/jet/domain/WebRegisteredCustomer.java" timestamp="1523065959074">
         <mark key="[" line="23" column="5" />
@@ -2007,6 +2019,12 @@
         <mark key="]" line="11" column="23" />
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/elza_client/src/main/java/com/jtbhawaii/cs/elza_client/config/ClientConfig.java" timestamp="1533955757670">
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="26" column="30" />
+        <mark key="." line="26" column="30" />
+        <mark key="^" line="26" column="30" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/vmisdocs/src/main/resources/application.yml" timestamp="1512768755117">
         <mark key="[" line="0" column="0" />
@@ -3027,6 +3045,12 @@
         <mark key="." line="34" column="82" />
         <mark key="^" line="34" column="82" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/shared_library/src/main/java/com/jtbhawaii/cs/NodeIdentity.java" timestamp="1533957006504">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/ui/StockHistoricalReportView.java" timestamp="1511908523920">
         <mark key="[" line="60" column="32" />
         <mark key="]" line="60" column="38" />
@@ -3148,7 +3172,7 @@
         <mark key="." line="21" column="50" />
         <mark key="^" line="21" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533770133405">
+      <file name="/Dummy.txt" timestamp="1533954906870">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -3239,6 +3263,12 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="20" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/elza_client/src/main/resources/application-production.yml" timestamp="1533955692554">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="9" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/unit_testing/src/main/java/com/jtbhawaii/unit_testing/PageController.java" timestamp="1519153244917">
         <mark key="[" line="12" column="41" />
@@ -3502,11 +3532,17 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/elza_client/src/main/java/com/jtbhawaii/cs/elza_client/ElzaClientApplication.java" timestamp="1533953419359">
-        <mark key="[" line="16" column="41" />
-        <mark key="]" line="16" column="47" />
-        <mark key="^" line="16" column="47" />
-        <mark key="." line="16" column="47" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/elza_client/src/main/java/com/jtbhawaii/cs/elza_client/ElzaClientApplication.java" timestamp="1533955082351">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="24" column="24" />
+        <mark key="." line="24" column="24" />
+        <mark key="^" line="24" column="24" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/elza_server/src/main/java/com/jtbhawaii/cs/elza_server/config/AppConfig.java" timestamp="1533954837209">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="12" column="24" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmvadn_payroll/src/main/java/com/jtbhawaii/cmpayroll/model/PayrollDuty.java" timestamp="1511300900103">
         <mark key="[" line="54" column="0" />
@@ -3763,6 +3799,12 @@
         <mark key="]" line="3" column="27" />
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
+      </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/elza_client/src/main/java/com/jtbhawaii/cs/elza_client/common/Constants.java" timestamp="1533956291969">
+        <mark key="[" line="4" column="56" />
+        <mark key="]" line="4" column="61" />
+        <mark key="^" line="4" column="61" />
+        <mark key="." line="4" column="61" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/datasource_test/src/main/java/com/jtbhawaii/datasource_test/fx/domain/Notes.java" timestamp="1522110264256">
         <mark key="[" line="15" column="25" />
@@ -4269,11 +4311,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/elza_server/src/main/resources/application.yml" timestamp="1533948868626">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="11" />
-        <mark key="^" line="1" column="11" />
-        <mark key="." line="1" column="11" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/elza_server/src/main/resources/application.yml" timestamp="1533954846704">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/shared_library/pom.xml" timestamp="1533948700486">
         <mark key="[" line="12" column="0" />
@@ -4341,12 +4383,11 @@
         <mark key="." line="35" column="33" />
         <mark key="^" line="35" column="33" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/elza_client/src/main/java/com/jtbhawaii/cs/elza_client/slideshow/SlideshowRunner.java" timestamp="1533954403236">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="60" column="51" />
-        <mark key="]" line="60" column="52" />
-        <mark key="." line="60" column="52" />
-        <mark key="^" line="60" column="52" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/elza_client/src/main/java/com/jtbhawaii/cs/elza_client/slideshow/SlideshowRunner.java" timestamp="1533957217199">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="65" column="13" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/cmpayroll/src/main/java/com/jtbhawaii/cmpayroll/repository/vwClientRepository.java" timestamp="1510005578990">
         <mark key="[" line="5" column="19" />
@@ -4505,7 +4546,7 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1533953606930">
+      <file name="/fragment.java" timestamp="1533957190010">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -4602,6 +4643,9 @@
         <mark key="." line="33" column="65" />
         <mark key="^" line="33" column="65" />
       </file>
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/slideshow2/src/main/resources/application.properties" timestamp="1533927211055">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/tpt-vms-subsystem/src/main/java/com/jtbhawaii/tptvmssubsystem/cli/SourceDBFieldRepo.java" timestamp="1510953893706">
         <mark key="[" line="34" column="27" />
         <mark key="]" line="34" column="27" />
@@ -4620,11 +4664,11 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/elza_client/src/main/resources/application.yml" timestamp="1533953433969">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="11" />
-        <mark key="^" line="1" column="11" />
-        <mark key="." line="1" column="11" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/elza_client/src/main/resources/application.yml" timestamp="1533955710183">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="12" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/flowapp/src/main/resources/META-INF/web.xml" timestamp="1531535960096">
         <mark key="[" line="0" column="0" />
@@ -4777,11 +4821,11 @@
         <mark key="^" line="32" column="10" />
         <mark key="." line="32" column="10" />
       </file>
-      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/elza_server/src/main/java/com/jtbhawaii/cs/elza_server/listener/WebSocketEventListener.java" timestamp="1533953884025">
-        <mark key="[" line="39" column="16" />
-        <mark key="]" line="39" column="22" />
-        <mark key="." line="39" column="22" />
-        <mark key="^" line="39" column="22" />
+      <file name="$USER_HOME$/.babun/cygwin/home/awu/Workspace/elza/elza_server/src/main/java/com/jtbhawaii/cs/elza_server/listener/WebSocketEventListener.java" timestamp="1533956797127">
+        <mark key="[" line="40" column="5" />
+        <mark key="]" line="42" column="36" />
+        <mark key="." line="42" column="36" />
+        <mark key="^" line="42" column="36" />
       </file>
       <file name="$USER_HOME$/.babun/cygwin/home/awu/Lab/visjs/main.html" timestamp="1516065604303">
         <mark key="[" line="7" column="9" />
@@ -5231,44 +5275,45 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhLXJvdyBmbGV4Ij4KICAgICAgICAgIDxkaXYgY2xhc3M9ImEtc3ViLXJvdyBmbGV4Ij4KICAgICAgICAgICAgPGxhYmVsIGZvcj0iZ3Vlc3RDb250YWN0Ij4ke3RyYW5zbGF0aW9uLmJvb2tpbmcuZ3Vlc3RDb250YWN0fTwvbGFiZWw+IAogICAgICAgICAgICA8ZGl2IGNsYXNzPSJlbnRyeSI+CiAgICAgICAgICAgICAgJHtmb3JtRGF0YS5ndWVzdENvbnRhY3ROdW1iZXJ9IAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>info</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIENsaWVudENvbmZpZyBjb25maWc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>__FAKE__</text>
       </register>
       <register name="/" type="4">
         <text>app.js</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdG9tcEhlYWRlckFjY2Vzc29yIHNoYSA9IFN0b21wSGVhZGVyQWNjZXNzb3Iud3JhcChldmVudC5nZXRNZXNzYWdlKCkpOwogICAgICAgIGNsaWVudHMuYWRkKHNoYS5nZXRTZXNzaW9uSWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBTVUJTQ1JJQkVfRU5EUE9JTlQgPSAiL3RvcGljL2dyZWV0aW5ncyI7CiAgICBwcml2YXRlIGZpbmFsIHN0YXRpYyBTdHJpbmcgREVGQVVMVF9FTkRQT0lOVCA9ICIvYXBwL2hlbGxvIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihTbGlkZXNob3dSdW5uZXIuY2xhc3MpOyAK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIENsaWVudENvbmZpZyBjb25maWc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTdG9tcFNlc3Npb24gY29ubmVjdGVkLiAiKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFByb2R1Y2VyU3RvbXBTZQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY29yZS51c2VyZGV0YWlscy5Vc2VyOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5zZWN1cml0eS5jb3JlLnVzZXJkZXRhaWxzLlVzZXJEZXRhaWxzOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5zZWN1cml0eS5jb3JlLnVzZXJkZXRhaWxzLlVzZXJEZXRhaWxzU2VydmljZTsK</text>
+      <register name="3" type="4">
+        <text>ssionHandler() {
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWVzc2FnZS5nZXRNZXNzYWdlKCkpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TWVzc2FnZSgpIHsKICAgICAgICByZXR1cm4gc2U7CiAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAKICAgIEBCZWFuCiAgICBwdWJsaWMgVXNlckRldGFpbHNTZXJ2aWNlIHVzZXJEZXRhaWxzU2VydmljZSgpIHsKICAgICAgICBVc2VyRGV0YWlscyB1c2VyID0gVXNlci53aXRoVXNlckRldGFpbHMoKQogICAgICAgIHJldHVybiAgCiAgICB9</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyRGV0YWlsc1NlcnZpY2UK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwLmF1dGhvcml6ZVJlcXVlc3RzKCkuYW5kKCkKICAgICAgICAgICAgICAgIC5hbnRNYXRjaGVyKCIvYWRtaW4iKS5hdXRoZW4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
